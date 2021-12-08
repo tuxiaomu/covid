@@ -89,6 +89,23 @@ We took a long time for this research, selecting each case individually. Was the
 [https://granitegrok.com/blog/2021/11/are-an-alarming-number-of-athletes-dropping-dead-after-getting-the-covid-jab](https://granitegrok.com/blog/2021/11/are-an-alarming-number-of-athletes-dropping-dead-after-getting-the-covid-jab)
 
 ---
+__Teen equestrian star Cienna Knowles hospitalised with blood clots after Pfizer vaccine__
+
+__青少年馬術明星Cienna Knowles在注射輝瑞疫苗後因血凝塊而住院__
+
+Oct 26, 2021
+
+_Abstract / 摘要_
+
+A 「super healthy」 teen equestrian competitor who was hospitalised last week with blood clots in her chest has blamed the potentially 「life-changing」 injuries on the Pfizer vaccine.
+However, authorities have not confirmed her condition is connected to the Pfizer shot – which to date has not been linked to blood clotting issues as a known side effect in Australia – with NSW Health urging the public to 「use credible sources of information」.
+Cienna Knowles from the NSW Central Coast shared her experience in a series of viral social media posts, writing that she 「never wanted」 the Covid-19 vaccine as she was scared of side effects, but ultimately got it to keep her job.
+
+一名"超級健康"的青少年馬術選手上周因胸部血塊而住院，她將這種可能"改變生活"的傷害歸咎於輝瑞疫苗。然而，當局並沒有確認她的情況與輝瑞疫苗有關--迄今為止，輝瑞疫苗在澳大利亞還沒有與血凝問題有關的已知副作用--新南威爾士州衛生部敦促公眾"使用可信的信息來源"。來自新南威爾士州中央海岸的Cienna Knowles在一系列病毒性的社交媒體帖子中分享了她的經歷，她寫道，她"從未想要"Covid-19疫苗，因為她很害怕副作用，但最終為了保住工作而接種了疫苗。
+
+[https://www.news.com.au/lifestyle/health/health-problems/teen-equestrian-star-cienna-knowles-hospitalised-with-blood-clots-after-pfizer-vaccine/news-story/286e7cd42e896b091e4b257322296a05](https://www.news.com.au/lifestyle/health/health-problems/teen-equestrian-star-cienna-knowles-hospitalised-with-blood-clots-after-pfizer-vaccine/news-story/286e7cd42e896b091e4b257322296a05)
+
+---
 __Jeremy Chardy: I regret getting vaccinated, I have series of problems now__
 
 __傑里米-查迪：我後悔接種疫苗，我現在有一系列的問題__
@@ -244,23 +261,6 @@ Taxpayers are facing a hefty bill for rare but significant coronavirus vaccine i
 納稅人正面臨著為罕見但重大的冠狀病毒疫苗傷害支付的高額賬單，至少有1萬人計劃根據聯邦政府的無過失賠償計劃提出索賠。
 
 [https://www.smh.com.au/politics/federal/more-than-10-000-australians-have-filed-coronavirus-vaccine-injury-claims-20211115-p598yy.html](https://www.smh.com.au/politics/federal/more-than-10-000-australians-have-filed-coronavirus-vaccine-injury-claims-20211115-p598yy.html)
-
----
-__Teen equestrian star Cienna Knowles hospitalised with blood clots after Pfizer vaccine__
-
-__青少年馬術明星Cienna Knowles在注射輝瑞疫苗後因血凝塊而住院__
-
-Oct 26, 2021
-
-_Abstract / 摘要_
-
-A 「super healthy」 teen equestrian competitor who was hospitalised last week with blood clots in her chest has blamed the potentially 「life-changing」 injuries on the Pfizer vaccine.
-However, authorities have not confirmed her condition is connected to the Pfizer shot – which to date has not been linked to blood clotting issues as a known side effect in Australia – with NSW Health urging the public to 「use credible sources of information」.
-Cienna Knowles from the NSW Central Coast shared her experience in a series of viral social media posts, writing that she 「never wanted」 the Covid-19 vaccine as she was scared of side effects, but ultimately got it to keep her job.
-
-一名"超級健康"的青少年馬術選手上周因胸部血塊而住院，她將這種可能"改變生活"的傷害歸咎於輝瑞疫苗。然而，當局並沒有確認她的情況與輝瑞疫苗有關--迄今為止，輝瑞疫苗在澳大利亞還沒有與血凝問題有關的已知副作用--新南威爾士州衛生部敦促公眾"使用可信的信息來源"。來自新南威爾士州中央海岸的Cienna Knowles在一系列病毒性的社交媒體帖子中分享了她的經歷，她寫道，她"從未想要"Covid-19疫苗，因為她很害怕副作用，但最終為了保住工作而接種了疫苗。
-
-[https://www.news.com.au/lifestyle/health/health-problems/teen-equestrian-star-cienna-knowles-hospitalised-with-blood-clots-after-pfizer-vaccine/news-story/286e7cd42e896b091e4b257322296a05](https://www.news.com.au/lifestyle/health/health-problems/teen-equestrian-star-cienna-knowles-hospitalised-with-blood-clots-after-pfizer-vaccine/news-story/286e7cd42e896b091e4b257322296a05)
 
 ---
 __Studies confirm waning immunity from Pfizer's Covid-19 vaccine__
