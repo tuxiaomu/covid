@@ -7,6 +7,14 @@
     "en": "This is a summary of press reports regarding Covid and its vaccines, that have not attracted enough attention, including news and journal articles. Content sorted by date.",
     "cn": "這裏匯集了一些也許沒引起大眾注意的關於新冠以及疫苗的相關信息，包括新聞報導和科研文獻。內容按照時間順序最近到最遠排列。"
   },
+  "i18n": {
+    "policy": "政策",
+    "news": "新聞",
+    "adverse-effect": "副作用",
+    "paper": "文獻",
+    "treatment": "治療",
+    "information": "信息"
+  },
   "references": [
     {
       "type": "policy",

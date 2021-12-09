@@ -12,6 +12,7 @@ CN_KEY = 'cn'
 ABSTRACT_KEY = 'abstract'
 URL_KEY = 'url'
 DATE_KEY = 'date'
+I18N_KEY = "i18n"
 
 def filter(source)
     filtered = source
@@ -36,6 +37,10 @@ def unique_types(source)
     all_types.to_set
 end
 
+def translate(source, word)
+    source[I18N_KEY][word]
+end
+
 def generate(source, output)
     lines = []
     lines << '# ' + source[TITLE_KEY][EN_KEY] + ' / ' + source[TITLE_KEY][CN_KEY]
@@ -48,10 +53,12 @@ def generate(source, output)
     filtered_refs = filter(source)
     sorted_types = unique_types(filtered_refs).sort
     
-    lines << 'Category / 分類'
+    lines << '## Category'
     lines << ''
     sorted_types.each do |type|
-        lines << "- [#{type}](##{type.downcase})"
+        i18n = translate(source, type)
+        title = if i18n.nil? then type else "#{type} / #{i18n}" end
+        lines << "- [#{title}](##{type.downcase})"
     end
 
     lines << ''
@@ -79,6 +86,8 @@ def generate(source, output)
                 lines << ''
             end
             lines << "[#{ref[URL_KEY]}](#{ref[URL_KEY]})"
+            lines << ''
+            lines << '[Back to Category / 回到分類](#category)'
             lines << ''
             lines << '---'
         end

@@ -4,14 +4,14 @@ This is a summary of press reports regarding Covid and its vaccines, that have n
 
 這裏匯集了一些也許沒引起大眾注意的關於新冠以及疫苗的相關信息，包括新聞報導和科研文獻。內容按照時間順序最近到最遠排列。
 
-Category / 分類
+## Category
 
-- [adverse-effect](#adverse-effect)
-- [information](#information)
-- [news](#news)
-- [paper](#paper)
-- [policy](#policy)
-- [treatment](#treatment)
+- [adverse-effect / 副作用](#adverse-effect)
+- [information / 信息](#information)
+- [news / 新聞](#news)
+- [paper / 文獻](#paper)
+- [policy / 政策](#policy)
+- [treatment / 治療](#treatment)
 
 ---
 ## adverse-effect
@@ -30,6 +30,8 @@ Since November 30, the central province has been vaccinating children aged 15-17
 
 [https://www.zerohedge.com/covid-19/vietnam-province-suspends-pfizer-vaccine-batch-after-120-children-hospitalized](https://www.zerohedge.com/covid-19/vietnam-province-suspends-pfizer-vaccine-batch-after-120-children-hospitalized)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Director Hitoshi Kuramochi warns of 'next wave of large-scale infections as vaccine effect increases' in 42-person cluster at Gunma factory__
 
@@ -38,6 +40,8 @@ __醫院院長Hitoshi Kuramochi博士警告說，日本群馬縣的一家工廠�
 Dec 5, 2021
 
 [https://news.yahoo.co.jp/articles/caacaeb8a5b6ee109fddb565c9a92782c64cbae1](https://news.yahoo.co.jp/articles/caacaeb8a5b6ee109fddb565c9a92782c64cbae1)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Up to 300,000 people facing heart-related illnesses due to post-pandemic stress disorder, warn physicians__
@@ -56,6 +60,8 @@ This could result in a 4.5 per cent rise in cardiovascular cases nationally beca
 
 [https://uk.style.yahoo.com/300-000-people-facing-heart-122428051.html](https://uk.style.yahoo.com/300-000-people-facing-heart-122428051.html)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __At least 69 athletes collapse in one month, many dead__
 
@@ -72,6 +78,8 @@ The current phenomenon is also evident if you simply look on Wikipedia at the li
 
 [https://freewestmedia.com/2021/11/26/at-least-69-athletes-collapse-in-one-month-many-dead/](https://freewestmedia.com/2021/11/26/at-least-69-athletes-collapse-in-one-month-many-dead/)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Former Pro Calls For "Investigation" After Another Soccer Player Suddenly Collapses__
 
@@ -81,6 +89,8 @@ Nov 25, 2021
 
 [https://www.zerohedge.com/medical/former-pro-calls-investigation-after-another-soccer-player-suddenly-collapses](https://www.zerohedge.com/medical/former-pro-calls-investigation-after-another-soccer-player-suddenly-collapses)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Seventeen-year-old Washington female dies from heart attack weeks after receiving second Pfizer vaccination__
 
@@ -89,6 +99,8 @@ __華盛頓州17歲女性在接受第二次輝瑞公司疫苗接種數周後因�
 Nov 15, 2021
 
 [https://www.clarkcountytoday.com/news/seventeen-year-old-washington-female-dies-from-heart-attack-weeks-after-receiving-second-pfizer-vaccination/](https://www.clarkcountytoday.com/news/seventeen-year-old-washington-female-dies-from-heart-attack-weeks-after-receiving-second-pfizer-vaccination/)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Abstract 10712: Mrna COVID Vaccines Dramatically Increase Endothelial Inflammatory Markers and ACS Risk as Measured by the PULS Cardiac Test: a Warning__
@@ -105,6 +117,8 @@ Through clinical data, the report concludes that the mRNA vacs dramatically incr
 
 [https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.10712](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.10712)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Are An Alarming Number of Athletes Dropping Dead After Getting the COVID Jab?__
 
@@ -119,6 +133,8 @@ We took a long time for this research, selecting each case individually. Was the
 我們為這項研究花了很長時間，對每個案例進行了單獨選擇。直到2021年中期，體育和頂級運動中的"突然和意外"死亡人是否數明顯增多？沒有官方能（也不會）解釋自基因疫苗接種開始以來死亡人數的累積。根據可能被威脅和賄賂的媒體和政治，這些都是不幸的巧合--儘管已經有13歲的心臟有問題的孩子在廣場上摔倒了。是否有數量驚人的運動員在接受COVID疫苗後死亡？
 
 [https://granitegrok.com/blog/2021/11/are-an-alarming-number-of-athletes-dropping-dead-after-getting-the-covid-jab](https://granitegrok.com/blog/2021/11/are-an-alarming-number-of-athletes-dropping-dead-after-getting-the-covid-jab)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Teen equestrian star Cienna Knowles hospitalised with blood clots after Pfizer vaccine__
@@ -137,6 +153,8 @@ Cienna Knowles from the NSW Central Coast shared her experience in a series of v
 
 [https://www.news.com.au/lifestyle/health/health-problems/teen-equestrian-star-cienna-knowles-hospitalised-with-blood-clots-after-pfizer-vaccine/news-story/286e7cd42e896b091e4b257322296a05](https://www.news.com.au/lifestyle/health/health-problems/teen-equestrian-star-cienna-knowles-hospitalised-with-blood-clots-after-pfizer-vaccine/news-story/286e7cd42e896b091e4b257322296a05)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Jeremy Chardy: I regret getting vaccinated, I have series of problems now__
 
@@ -153,6 +171,8 @@ Chardy, now ranked at No. 73 in the world, claims he is unable to train and play
 前世界排名第25位的傑里米-查迪說他在服用COVID-19疫苗後出現了"一系列問題"，他的2021賽季已經結束。今年夏天，34歲的查迪決定接種疫苗，但對他來說效果並不好。查迪現在的世界排名是第73位，他聲稱自己無法進行訓練和比賽。"自從我打了疫苗後[在奧運會和美國公開賽之間]，我出現了問題，我出現了一系列問題。因此，我不能訓練，不能比賽。我寧願花更多的時間來治癒自己，並確保在未來，我不會有任何問題，"查迪告訴L'Equipe。
 
 [https://www.tennisworldusa.org/tennis/news/Tennis_Interviews/102836/jeremy-chardy-i-regret-getting-vaccinated-i-have-series-of-problems-now/](https://www.tennisworldusa.org/tennis/news/Tennis_Interviews/102836/jeremy-chardy-i-regret-getting-vaccinated-i-have-series-of-problems-now/)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Phillies' Didi Gregorius links COVID vaccine side effect to down year__
@@ -171,6 +191,8 @@ Gregorius said he had been dealing with complications after receiving a COVID-19
 
 [https://www.foxnews.com/sports/phillies-didi-gregorius-covid-vaccine-down-year](https://www.foxnews.com/sports/phillies-didi-gregorius-covid-vaccine-down-year)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Why did't doctors listen to women about the link between Covid vaccines and periods?__
 
@@ -186,6 +208,8 @@ The possibility is looking increasingly likely. This week, a study in the BMJ re
 
 [https://www.telegraph.co.uk/women/life/didnt-doctors-listen-women-link-covid-vaccines-periods/](https://www.telegraph.co.uk/women/life/didnt-doctors-listen-women-link-covid-vaccines-periods/)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Pandemic of the Vaccinated – Latest PHE Report reveals the vaccinated account for 70% of Covid-19 deaths since February__
 
@@ -194,6 +218,8 @@ __接種疫苗的大流行--最新的PHE報告顯示，自2月以來，接種疫
 Sep 5, 2021
 
 [https://dailyexpose.uk/2021/09/05/latest-phe-report-reveals-the-vaccinated-account-for-70-percent-of-covid-19-deaths-since-february/](https://dailyexpose.uk/2021/09/05/latest-phe-report-reveals-the-vaccinated-account-for-70-percent-of-covid-19-deaths-since-february/)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __German chief pathologist sounds alarm on fatal vaccine injuries__
@@ -210,6 +236,8 @@ The director of the Pathological Institute of the University of Heidelberg, Pete
 
 [https://freewestmedia.com/2021/08/03/german-chief-pathologist-sounds-alarm-on-fatal-vaccine-injuries/](https://freewestmedia.com/2021/08/03/german-chief-pathologist-sounds-alarm-on-fatal-vaccine-injuries/)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Will be paid damages after AstraZeneca vaccination__
 
@@ -224,6 +252,8 @@ Three individuals have been granted damages from The Norwegian System of Patient
 由於在接種阿斯利康Covid疫苗後出現了嚴重的副作用，三個人獲得了挪威病人傷害賠償系統的賠償。
 
 [https://sciencenorway.no/covid19-vaccines/will-be-paid-damages-after-astrazeneca-vaccination/1884393](https://sciencenorway.no/covid19-vaccines/will-be-paid-damages-after-astrazeneca-vaccination/1884393)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Public needs to prep for vaccine side effects__
@@ -240,6 +270,8 @@ The news last week that two COVID-19 vaccines had proved to be 95% efficacious i
 
 [https://www.science.org/doi/10.1126/science.370.6520.1022](https://www.science.org/doi/10.1126/science.370.6520.1022)
 
+[Back to Category / 回到分類](#category)
+
 ---
 ## information
 
@@ -251,6 +283,8 @@ Aug 9, 2021
 
 [https://www1.racgp.org.au/newsgp/clinical/covid-surges-in-one-of-world-s-most-vaccinated-nat](https://www1.racgp.org.au/newsgp/clinical/covid-surges-in-one-of-world-s-most-vaccinated-nat)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __How COVID-19 variants evade immune response__
 
@@ -259,6 +293,8 @@ __新冠病毒變種如何逃避免疫反應__
 Jun 8, 2021
 
 [https://www.nih.gov/news-events/nih-research-matters/how-covid-19-variants-evade-immune-response](https://www.nih.gov/news-events/nih-research-matters/how-covid-19-variants-evade-immune-response)
+
+[Back to Category / 回到分類](#category)
 
 ---
 ## news
@@ -270,6 +306,8 @@ __研究發現輝瑞疫苗對Omicron變種只能提供部分防護__
 Dec 8, 2021
 
 [https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-covid-19-vaccine-partially-protective-against-omicron-bloomberg-news-2021-12-07](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-covid-19-vaccine-partially-protective-against-omicron-bloomberg-news-2021-12-07)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __UK Health Authority Slammed By Watchdog For Misleading Claim That Unvaxx'd Have "32 Times" Risk Of COVID Death__
@@ -288,6 +326,8 @@ As James Wells, a statistician who served as head of the ONS UK trade team until
 
 [https://www.zerohedge.com/political/uk-health-authority-slammed-watchdog-misleading-claim-unvaxxd-have-32-times-risk-covid](https://www.zerohedge.com/political/uk-health-authority-slammed-watchdog-misleading-claim-unvaxxd-have-32-times-risk-covid)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __More than 10,000 Australians have filed coronavirus vaccine injury claims__
 
@@ -303,6 +343,8 @@ Taxpayers are facing a hefty bill for rare but significant coronavirus vaccine i
 
 [https://www.smh.com.au/politics/federal/more-than-10-000-australians-have-filed-coronavirus-vaccine-injury-claims-20211115-p598yy.html](https://www.smh.com.au/politics/federal/more-than-10-000-australians-have-filed-coronavirus-vaccine-injury-claims-20211115-p598yy.html)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Studies confirm waning immunity from Pfizer's Covid-19 vaccine__
 
@@ -311,6 +353,8 @@ __研究證實輝瑞公司的Covid-19疫苗的免疫力正在減弱__
 Oct 8, 2021
 
 [https://edition.cnn.com/2021/10/06/health/pfizer-vaccine-waning-immunity/index.html](https://edition.cnn.com/2021/10/06/health/pfizer-vaccine-waning-immunity/index.html)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Sweden, Denmark pause Moderna COVID-19 vaccine for younger age groups__
@@ -326,6 +370,8 @@ Sweden and Denmark said on Wednesday they are pausing the use of Moderna's (MRNA
 瑞典和丹麥週三表示，在收到可能出現罕見的心血管副作用的報告後，他們暫停了Moderna公司(MRNA.O)的COVID-19疫苗在年輕群體中的使用。
 
 [reuters.com/business/healthcare-pharmaceuticals/sweden-pauses-use-moderna-covid-vaccine-cites-rare-side-effects-2021-10-06/](reuters.com/business/healthcare-pharmaceuticals/sweden-pauses-use-moderna-covid-vaccine-cites-rare-side-effects-2021-10-06/)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Unexpected and heartbreaking: Thousands flood ABC affiliate’s Facebook page with vaccination horror stories__
@@ -344,6 +390,8 @@ Instead, thousands of readers reported of loved ones who died after vaccination 
 
 [https://www.worldtribune.com/unexpected-and-heartbreaking-thousands-flood-abc-affiliates-facebook-page-with-vaccination-horror-stories/](https://www.worldtribune.com/unexpected-and-heartbreaking-thousands-flood-abc-affiliates-facebook-page-with-vaccination-horror-stories/)
 
+[Back to Category / 回到分類](#category)
+
 ---
 ## paper
 
@@ -361,6 +409,8 @@ The importance of understanding SARS-CoV-2 evolution cannot be overlooked. Recen
 
 [https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03380](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03380)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __The epidemiological relevance of the COVID-19-vaccinated population is increasing__
 
@@ -369,6 +419,8 @@ __新冠疫情越來越多的出現在接種疫苗人群中__
 Nov 19, 2021
 
 [https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __The epidemiological relevance of the COVID-19-vaccinated population is increasing__
@@ -385,6 +437,8 @@ High COVID-19 vaccination rates were expected to reduce transmission of SARS-CoV
 
 [https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study__
 
@@ -399,6 +453,8 @@ It's expected that vaccination reduces the risk of delta variant infection and a
 雖然人們期待新冠疫苗能夠降低Delta變體感染的風險並加速清除病毒。但是，研究發現，完全接種疫苗的突破性感染者的病毒負載峰值與未接種疫苗的病例相似，並能在家庭環境中有效地傳播感染，包括傳播給完全接種疫苗的接觸者。感染早期宿主與病毒的相互作用可能決定了整個病毒的發展軌跡。
 
 [https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00648-4/fulltext](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00648-4/fulltext)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __UK Health Security Agency. COVID-19 vaccine surveillance report. Week 43. Oktober 2021.__
@@ -415,6 +471,8 @@ Between week 39 and 42, a total of 100.160 COVID-19 cases were reported among ci
 
 [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1029606/Vaccine-surveillance-report-week-43.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1029606/Vaccine-surveillance-report-week-43.pdf)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Transmission of SARS-CoV-2 Delta Variant Among Vaccinated Healthcare Workers, Vietnam__
 
@@ -430,6 +488,8 @@ Breakthrough Delta variant infections are associated with high viral loads, prol
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __No Significant Difference in Viral Load Between Vaccinated and Unvaccinated, Asymptomatic and Symptomatic Groups When Infected with SARS-CoV-2 Delta Variant__
 
@@ -438,6 +498,8 @@ __感染新冠Delta變體時，接種疫苗組和未接種疫苗組、無症狀�
 Oct 5, 2021
 
 [https://www.medrxiv.org/content/10.1101/2021.09.28.21264262v2](https://www.medrxiv.org/content/10.1101/2021.09.28.21264262v2)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Increases in COVID-19 are unrelated to levels of vaccination across 68 countries and 2947 counties in the United States__
@@ -453,6 +515,8 @@ At the country-level, there appears to be no discernable relationship between pe
 在國家層面，完全接種疫苗的人口比例與過去7天的COVID-19新病例之間似乎沒有明顯的關係。事實上，趨勢線表明，完全接種疫苗的人口比例越高的國家，每百萬人中的COVID-19病例就越多，這是一種輕微的正相關。值得注意的是，在過去7天里，以色列有超過60%的人口完全接種疫苗，每100萬人中的COVID-19病例數最高。
 
 [https://link.springer.com/article/10.1007%2Fs10654-021-00808-7](https://link.springer.com/article/10.1007%2Fs10654-021-00808-7)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Why are we vaccinating children against COVID-19?__
@@ -473,6 +537,8 @@ High post-inoculation deaths reported in VAERS (very short-term).
 
 [https://www.sciencedirect.com/science/article/pii/S221475002100161X](https://www.sciencedirect.com/science/article/pii/S221475002100161X)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Nosocomial outbreak caused by the SARS-CoV-2 Delta variant in a highly vaccinated population, Israel, July 2021__
 
@@ -488,6 +554,8 @@ This nosocomial outbreak exemplifies the high transmissibility of the SARS-CoV-2
 
 [https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.39.2100822](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.39.2100822)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Vaccinated and unvaccinated individuals have similar viral loads in communities with a high prevalence of the SARS-CoV-2 delta variant__
 
@@ -496,6 +564,8 @@ __在SARS-CoV-2 delta變體高發的社區，接種疫苗和未接種疫苗的�
 July 31, 2021
 
 [https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v1](https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v1)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Robert Koch-Institut. Wöchentlicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19). AKTUALISIERTER STAND FÜR DEUTSCHLAND 22. Juli 2021.__
@@ -512,6 +582,8 @@ In Germany, the rate of symptomatic COVID-19 cases among the fully vaccinated (�
 
 [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-07-22.pdf?__blob=publicationFile](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-07-22.pdf?__blob=publicationFile)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __SARS-CoV-2 RNA reverse-transcribed and integrated into the human genome__
 
@@ -526,6 +598,8 @@ Prolonged SARS-CoV-2 RNA shedding and recurrence of PCR-positive tests have been
 在康復後的病人中，長期的SARS-CoV-2核糖核酸脫落和PCR陽性檢測的復發被廣泛報道，然而這些病人最常見的是沒有感染性。在此，我們研究了SARS-CoV-2核糖核酸可以反向轉錄並整合到人類基因組中的可能性，而整合序列的轉錄可能是PCR陽性試驗的原因。為了支持這一假設，我們在已發表的SARS-CoV-2感染的培養細胞和患者的原始細胞的數據中發現了由病毒與細胞序列融合的嵌合轉錄物，這與整合到基因組中的病毒序列的轉錄相一致。為了從實驗上證實病毒逆向整合的可能性，我們描述了SARS-CoV-2核糖核酸可以在人類細胞中通過逆轉錄酶（RT）從LINE-1元件或HIV-1 RT逆轉錄，並且這些DNA序列可以整合到細胞基因組中並隨後被轉錄。在SARS-CoV-2感染或在培養細胞中接觸細胞因子時，人類的內源性LINE-1表達被誘導，這表明SARS-CoV-2在患者體內逆轉整合的分子機制。SARS-CoV-2感染的這一新特點可能解釋了為什麼患者在康復後能繼續產生病毒RNA，並提出了RNA病毒複製的一個新方面。
 
 [https://pubmed.ncbi.nlm.nih.gov/33330870/](https://pubmed.ncbi.nlm.nih.gov/33330870/)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Imperfect Vaccination Can Enhance the Transmission of Highly Virulent Pathogens__
@@ -542,6 +616,8 @@ Could some vaccines drive the evolution of more virulent pathogens? Conventional
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516275/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516275/)
 
+[Back to Category / 回到分類](#category)
+
 ---
 ## policy
 
@@ -556,6 +632,8 @@ While the Australian Government strongly supports immunisation, it is not compul
 雖然澳大利亞政府強烈支持免疫接種，但這並不是強制性的。人們、父母和照顧者保持著選擇是否接受疫苗接種的權利。\n政府目前沒有推行無過錯的COVID-19疫苗傷害賠償計劃。嚴重的副作用是非常罕見的。如果你認為你可能有不良反應，你應該立即尋求醫療護理。
 
 [https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/getting-vaccinated-for-covid-19/what-happens-after-i-am-vaccinated-for-covid-19](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/getting-vaccinated-for-covid-19/what-happens-after-i-am-vaccinated-for-covid-19)
+
+[Back to Category / 回到分類](#category)
 
 ---
 ## treatment
@@ -574,6 +652,8 @@ With documents, links and quotes, the article demonstrates why natural immunity 
 
 [https://brownstone.org/articles/79-research-studies-affirm-naturally-acquired-immunity-to-covid-19-documented-linked-and-quoted/](https://brownstone.org/articles/79-research-studies-affirm-naturally-acquired-immunity-to-covid-19-documented-linked-and-quoted/)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Dexamethasone reduces mortality in patients seriously ill with COVID-19__
 
@@ -589,6 +669,8 @@ Outline of the currently available evidence for the use of dexamethasone in the 
 
 [https://www.nps.org.au/dexamethasone](https://www.nps.org.au/dexamethasone)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __AMAZING: COVID-19 Cases in Indonesia Plummet After Government Authorizes IVERMECTIN For Treatment__
 
@@ -598,6 +680,8 @@ Oct 9, 2021
 
 [thegatewaypundit.com/2021/10/amazing-covid-19-cases-indonesia-plunge-government-authorizes-ivermectin-treatment](thegatewaypundit.com/2021/10/amazing-covid-19-cases-indonesia-plunge-government-authorizes-ivermectin-treatment)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Early Research Finds Extracts from Sweet Wormwood Plant Can Inhibit the COVID-19 Virus__
 
@@ -606,6 +690,8 @@ __早期研究發現青蒿提取物可以抑制COVID-19病毒__
 May 4, 2021
 
 [https://www.wpi.edu/news/early-research-finds-extracts-sweet-wormwood-plant-can-inhibit-covid-19-virus](https://www.wpi.edu/news/early-research-finds-extracts-sweet-wormwood-plant-can-inhibit-covid-19-virus)
+
+[Back to Category / 回到分類](#category)
 
 ---
 __Safety and efficacy of artemisinin-piperaquine for treatment of COVID-19: an open-label, non-randomised and controlled trial__
@@ -622,6 +708,8 @@ In patients with mild-to-moderate COVID-19, the time to reach undetectable SARS-
 
 [https://www.researchgate.net/publication/347477902_Safety_and_efficacy_of_artemisinin-piperaquine_for_treatment_of_COVID-19_an_open-label_non-randomised_and_controlled_trial](https://www.researchgate.net/publication/347477902_Safety_and_efficacy_of_artemisinin-piperaquine_for_treatment_of_COVID-19_an_open-label_non-randomised_and_controlled_trial)
 
+[Back to Category / 回到分類](#category)
+
 ---
 __Study reveals potential utility of artemisinin-based treatments against SARS-CoV-2__
 
@@ -636,5 +724,7 @@ Effective and affordable treatments for patients suffering from coronavirus dise
 對於由嚴重急性呼吸系統綜合症冠狀病毒2（SARS-CoV-2）引起的2019年冠狀病毒病（COVID-19）的患者，需要有效的、可負擔的治療方法。我們報告了黃花蒿提取物以及青蒿素、青蒿琥酯和蒿甲醚對SARS-CoV-2的體外療效。後兩者是被批准的抗瘧藥物的活性藥物成分。
 
 [https://www.news-medical.net/news/20201006/Study-reveals-potential-utility-of-artemisinin-based-treatments-against-SARS-CoV-2.aspx](https://www.news-medical.net/news/20201006/Study-reveals-potential-utility-of-artemisinin-based-treatments-against-SARS-CoV-2.aspx)
+
+[Back to Category / 回到分類](#category)
 
 ---
