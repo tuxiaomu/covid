@@ -16,6 +16,21 @@ Category / 分類
 ---
 ## adverse-effect
 
+__Vietnam Province Suspends Pfizer Vaccine Batch After 120 Children Hospitalized__
+
+__越南省在120名兒童住院後暫停使用輝瑞公司的批次疫苗__
+
+Dec 7, 2021
+
+_Abstract / 摘要_
+
+Since November 30, the central province has been vaccinating children aged 15-17 with the Pfizer Covid-19 vaccine. However, over 120 of the children were admitted to hospitals after exhibiting symptoms like nausea, high fever or breathing difficulties, the provincial Center for Disease Control (CDC) said Thursday.
+
+自11月30日以來，中部省份一直在為15-17歲的兒童接種輝瑞公司的Covid-19疫苗。然而，該省疾病控制中心（CDC）週四表示，超過120名兒童在表現出惡心、高燒或呼吸困難等症狀後被送入醫院。
+
+[https://www.zerohedge.com/covid-19/vietnam-province-suspends-pfizer-vaccine-batch-after-120-children-hospitalized](https://www.zerohedge.com/covid-19/vietnam-province-suspends-pfizer-vaccine-batch-after-120-children-hospitalized)
+
+---
 __Director Hitoshi Kuramochi warns of 'next wave of large-scale infections as vaccine effect increases' in 42-person cluster at Gunma factory__
 
 __醫院院長Hitoshi Kuramochi博士警告說，日本群馬縣的一家工廠出現了42人的集群："由於疫苗效應，下一波將是更大規模的感染。"__
@@ -23,6 +38,23 @@ __醫院院長Hitoshi Kuramochi博士警告說，日本群馬縣的一家工廠�
 Dec 5, 2021
 
 [https://news.yahoo.co.jp/articles/caacaeb8a5b6ee109fddb565c9a92782c64cbae1](https://news.yahoo.co.jp/articles/caacaeb8a5b6ee109fddb565c9a92782c64cbae1)
+
+---
+__Up to 300,000 people facing heart-related illnesses due to post-pandemic stress disorder, warn physicians__
+
+__醫生警告說，由於大流行病後的應激障礙，多達30萬人面臨與心臟有關的疾病__
+
+Dec 3, 2021
+
+_Abstract / 摘要_
+
+Up to 300,000 people in the UK are facing heart-related illnesses due to post-pandemic stress disorder (PPSD), two London physicians have warned.
+This could result in a 4.5 per cent rise in cardiovascular cases nationally because of the effects of PPSD, with those aged between 30 to 45 most at-risk, they claim.
+
+倫敦的兩位醫生警告說，由於大流行病後的應激障礙（PPSD），英國有多達30萬人正面臨與心臟有關的疾病。
+他們聲稱，由於PPSD的影響，這可能導致全國心血管疾病病例上升4.5%，其中30至45歲的人風險最大。
+
+[https://uk.style.yahoo.com/300-000-people-facing-heart-122428051.html](https://uk.style.yahoo.com/300-000-people-facing-heart-122428051.html)
 
 ---
 __At least 69 athletes collapse in one month, many dead__
@@ -36,7 +68,7 @@ _Abstract / 摘要_
 The reports of athletes who suddenly collapse have been increasing noticeably lately. Heart problems such as heart inflammation are often the cause – one of the known life-threatening side effects of Covid vaccines, which even the manufacturers themselves warn against.
 The current phenomenon is also evident if you simply look on Wikipedia at the list of footballers who have collapsed and died. The year 2021 stands out with 13 entries so far. In no other year mentioned have more footballers died during a game. And this list goes back to the year 1889. So it really is a historical event.
 
-最近，關於運動員突然倒下的報告明顯增多。心臟炎症等心臟問題往往是原因--這是新冠疫苗已知的威脅生命的副作用之一，連製造商自己都有相關警告。目前的現象也很明顯，如果你簡單地在維基百科上看一下倒地死的足球運動員名單。2021年非常突出，到目前為止有13個條目。在提到的其他年份中，沒有更多的足球運動員在比賽中死亡。而這份名單可以追溯到1889年。所以這真的是一個歷史事件。
+最近，關於運動員突然倒下的報告明顯增多。心臟炎症等心臟問題往往是原因--這是新冠疫苗已知的威脅生命的副作用之一，連製造商自己都有相關警告。目前的現象也很明顯，如果你簡單地在維基百科上看一下倒地死的足球運動員名單。2021年非常突出，到目前為止有13個條目。在提到的其他年份中，沒有更多的足球運動員在比賽中死亡。而這份名單可以追溯到1889年。所以這真的是一個歷史性事件。
 
 [https://freewestmedia.com/2021/11/26/at-least-69-athletes-collapse-in-one-month-many-dead/](https://freewestmedia.com/2021/11/26/at-least-69-athletes-collapse-in-one-month-many-dead/)
 
@@ -125,7 +157,7 @@ Chardy, now ranked at No. 73 in the world, claims he is unable to train and play
 ---
 __Phillies' Didi Gregorius links COVID vaccine side effect to down year__
 
-__費城人隊的迪迪-格雷戈里烏斯將COVID疫苗的副作用與今年的事業低谷聯繫起來__
+__費城人隊的迪迪-格雷戈里烏斯認為COVID疫苗的副作用造成了今年的事業低谷__
 
 Sep 18, 2021
 
@@ -142,7 +174,7 @@ Gregorius said he had been dealing with complications after receiving a COVID-19
 ---
 __Why did't doctors listen to women about the link between Covid vaccines and periods?__
 
-__為什麼醫生不聽取婦女關於新冠疫苗和月經之間的聯繫的意見？__
+__為什麼醫生不聽取婦女關於新冠疫苗和月經失常之間的聯繫的意見？__
 
 Sep 17, 2021
 
@@ -231,6 +263,15 @@ Jun 8, 2021
 ---
 ## news
 
+__Studies suggest Pfizer shot may protect only partially against Omicron__
+
+__研究發現輝瑞疫苗對Omicron變種只能提供部分防護__
+
+Dec 8, 2021
+
+[https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-covid-19-vaccine-partially-protective-against-omicron-bloomberg-news-2021-12-07](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-covid-19-vaccine-partially-protective-against-omicron-bloomberg-news-2021-12-07)
+
+---
 __UK Health Authority Slammed By Watchdog For Misleading Claim That Unvaxx'd Have "32 Times" Risk Of COVID Death__
 
 __英國衛生局因誤導性地聲稱未接種疫苗的人有"32倍"的COVID死亡風險而遭到監察部門的抨擊。__
@@ -323,7 +364,16 @@ The importance of understanding SARS-CoV-2 evolution cannot be overlooked. Recen
 ---
 __The epidemiological relevance of the COVID-19-vaccinated population is increasing__
 
-__新冠疫苗接種人群與病毒感染相關性正在增加__
+__新冠疫情越來越多的出現在接種疫苗人群中__
+
+Nov 19, 2021
+
+[https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext)
+
+---
+__The epidemiological relevance of the COVID-19-vaccinated population is increasing__
+
+__新冠疫苗接種人群與病毒感染的關聯性正在增加__
 
 Nov 19, 2021
 
@@ -331,16 +381,7 @@ _Abstract / 摘要_
 
 High COVID-19 vaccination rates were expected to reduce transmission of SARS-CoV-2 in populations by reducing the number of possible sources for transmission and thereby to reduce the burden of COVID-19 disease. Recent data, however, indicate that the epidemiological relevance of COVID-19 vaccinated individuals is increasing.
 
-高的COVID-19疫苗接種率預計會通過減少可能的傳播源來減少新冠在人群中的傳播，從而減少COVID-19疾病的負擔。然而，最近的數據表明，新冠疫苗接種者與病毒感染相關性正在增加。
-
-[https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext)
-
----
-__The epidemiological relevance of the COVID-19-vaccinated population is increasing__
-
-__新冠疫情越來越多的出現在接種疫苗人群中__
-
-Nov 19, 2021
+高的COVID-19疫苗接種率預計會通過減少可能的傳播源來減少新冠在人群中的傳播，從而減少COVID-19疾病的負擔。然而，最近的數據表明，新冠疫苗接種人數與病毒感染人數的關聯性正在增加。
 
 [https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext)
 
@@ -392,7 +433,7 @@ Breakthrough Delta variant infections are associated with high viral loads, prol
 ---
 __No Significant Difference in Viral Load Between Vaccinated and Unvaccinated, Asymptomatic and Symptomatic Groups When Infected with SARS-CoV-2 Delta Variant__
 
-__感染SARS-CoV-2 Delta變體時，接種疫苗組和未接種疫苗組、無症狀組和有症狀組之間的病毒量沒有明顯差異__
+__感染新冠Delta變體時，接種疫苗組和未接種疫苗組、無症狀組和有症狀組之間的病毒量沒有明顯差異__
 
 Oct 5, 2021
 
@@ -401,7 +442,7 @@ Oct 5, 2021
 ---
 __Increases in COVID-19 are unrelated to levels of vaccination across 68 countries and 2947 counties in the United States__
 
-__68個國家以及美國2957個郡的數據表明：新冠病毒感染增加和接種疫苗的程度無關__
+__68個國家以及美國2957個郡的數據表明：接種疫苗的程度並不能阻止新冠疫情加劇__
 
 Sep 30, 2021
 
@@ -467,7 +508,7 @@ _Abstract / 摘要_
 
 In Germany, the rate of symptomatic COVID-19 cases among the fully vaccinated (「breakthrough infections」) is reported weekly since 21. July 2021 and was 16.9% at that time among patients of 60 years and older. This proportion is increasing week by week and was 58.9% on 27.
 
-在德國，自從2021年七月21日起，完全接種疫苗人群的有症狀的新冠病例每週都會統計報告，在2021年7月，在60歲以上病例中，這項數據的比例是16.9%，並且每週都在增加，當月27日的數據是58.9%。
+在德國，自從2021年七月21日起，對完全接種疫苗的人群，有症狀的新冠病例每週都會統計報告，在2021年7月，在60歲以上病例中，這項數據的比例是16.9%，並且每週都在增加，當月27日的數據是58.9%。
 
 [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-07-22.pdf?__blob=publicationFile](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-07-22.pdf?__blob=publicationFile)
 

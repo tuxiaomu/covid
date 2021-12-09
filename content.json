@@ -21,6 +21,15 @@
       "url": "https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/getting-vaccinated-for-covid-19/what-happens-after-i-am-vaccinated-for-covid-19"
     },
     {
+      "type": "news",
+      "title": {
+        "en": "Studies suggest Pfizer shot may protect only partially against Omicron",
+        "cn": "研究發現輝瑞疫苗對Omicron變種只能提供部分防護"
+      },
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-covid-19-vaccine-partially-protective-against-omicron-bloomberg-news-2021-12-07",
+      "date": "Dec 8, 2021"
+    },
+    {
       "type": "paper",
       "title": {
         "en": "Mechanisms of SARS-CoV-2 Evolution Revealing Vaccine-Resistant Mutations in Europe and America",
@@ -31,6 +40,19 @@
         "cn": "瞭解新冠進化的重要性是不容忽視的。最近的研究證實，自然選擇是新冠進化的主導機制，它傾向於加強病毒感染性的突變。在這裡，我們證明疫苗突破或抗體抗性突變提供了一種新的病毒進化機制。具體來說，發生在刺突蛋白受體結合域的抗疫苗突變Y449S和N501Y的共同突變，與原始SARS-CoV-2相比，感染性降低，但可以破壞現有的中和病毒的抗體。通過追蹤220多萬個SARS-CoV-2基因組中疫苗抗性突變的進化軌跡，我們發現，疫苗抗性突變的發生和頻率與歐洲和美國的疫苗接種率密切相關。我們預計，作為一種額外的傳播途徑，疫苗突破或抗體抗性突變，如Omicron中的突變，當世界上大多數人口要麼接種疫苗，要麼被感染的時候，將成為SARS-CoV-2進化的主導機制。我們的研究揭示了SARS-CoV-2的進化和傳播，並提供了設計下一代防突變的疫苗和抗體藥物的可能性。"
       },
       "url": "https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03380",
+      "date": "Dec 7, 2021"
+    },
+    {
+      "type": "adverse-effect",
+      "title": {
+        "en": "Vietnam Province Suspends Pfizer Vaccine Batch After 120 Children Hospitalized",
+        "cn": "越南省在120名兒童住院後暫停使用輝瑞公司的批次疫苗"
+      },
+      "abstract": {
+        "en": "Since November 30, the central province has been vaccinating children aged 15-17 with the Pfizer Covid-19 vaccine. However, over 120 of the children were admitted to hospitals after exhibiting symptoms like nausea, high fever or breathing difficulties, the provincial Center for Disease Control (CDC) said Thursday.",
+        "cn": "自11月30日以來，中部省份一直在為15-17歲的兒童接種輝瑞公司的Covid-19疫苗。然而，該省疾病控制中心（CDC）週四表示，超過120名兒童在表現出惡心、高燒或呼吸困難等症狀後被送入醫院。"
+      },
+      "url": "https://www.zerohedge.com/covid-19/vietnam-province-suspends-pfizer-vaccine-batch-after-120-children-hospitalized",
       "date": "Dec 7, 2021"
     },
     {
@@ -56,6 +78,19 @@
       "date": "Dec 5, 2021"
     },
     {
+      "type": "adverse-effect",
+      "title": {
+        "en": "Up to 300,000 people facing heart-related illnesses due to post-pandemic stress disorder, warn physicians",
+        "cn": "醫生警告說，由於大流行病後的應激障礙，多達30萬人面臨與心臟有關的疾病"
+      },
+      "abstract": {
+        "en": "Up to 300,000 people in the UK are facing heart-related illnesses due to post-pandemic stress disorder (PPSD), two London physicians have warned.\nThis could result in a 4.5 per cent rise in cardiovascular cases nationally because of the effects of PPSD, with those aged between 30 to 45 most at-risk, they claim.",
+        "cn": "倫敦的兩位醫生警告說，由於大流行病後的應激障礙（PPSD），英國有多達30萬人正面臨與心臟有關的疾病。\n他們聲稱，由於PPSD的影響，這可能導致全國心血管疾病病例上升4.5%，其中30至45歲的人風險最大。"
+      },
+      "url": "https://uk.style.yahoo.com/300-000-people-facing-heart-122428051.html",
+      "date": "Dec 3, 2021"
+    },
+    {
       "type": "news",
       "title": {
         "en": "UK Health Authority Slammed By Watchdog For Misleading Claim That Unvaxx'd Have \"32 Times\" Risk Of COVID Death",
@@ -76,7 +111,7 @@
       },
       "abstract": {
         "en": "The reports of athletes who suddenly collapse have been increasing noticeably lately. Heart problems such as heart inflammation are often the cause – one of the known life-threatening side effects of Covid vaccines, which even the manufacturers themselves warn against.\nThe current phenomenon is also evident if you simply look on Wikipedia at the list of footballers who have collapsed and died. The year 2021 stands out with 13 entries so far. In no other year mentioned have more footballers died during a game. And this list goes back to the year 1889. So it really is a historical event.",
-        "cn": "最近，關於運動員突然倒下的報告明顯增多。心臟炎症等心臟問題往往是原因--這是新冠疫苗已知的威脅生命的副作用之一，連製造商自己都有相關警告。目前的現象也很明顯，如果你簡單地在維基百科上看一下倒地死的足球運動員名單。2021年非常突出，到目前為止有13個條目。在提到的其他年份中，沒有更多的足球運動員在比賽中死亡。而這份名單可以追溯到1889年。所以這真的是一個歷史事件。"
+        "cn": "最近，關於運動員突然倒下的報告明顯增多。心臟炎症等心臟問題往往是原因--這是新冠疫苗已知的威脅生命的副作用之一，連製造商自己都有相關警告。目前的現象也很明顯，如果你簡單地在維基百科上看一下倒地死的足球運動員名單。2021年非常突出，到目前為止有13個條目。在提到的其他年份中，沒有更多的足球運動員在比賽中死亡。而這份名單可以追溯到1889年。所以這真的是一個歷史性事件。"
       },
       "url": "https://freewestmedia.com/2021/11/26/at-least-69-athletes-collapse-in-one-month-many-dead/",
       "date": "Nov 26, 2021"
@@ -94,11 +129,7 @@
       "type": "paper",
       "title": {
         "en": "The epidemiological relevance of the COVID-19-vaccinated population is increasing",
-        "cn": "新冠疫苗接種人群與病毒感染相關性正在增加"
-      },
-      "abstract": {
-        "en": "High COVID-19 vaccination rates were expected to reduce transmission of SARS-CoV-2 in populations by reducing the number of possible sources for transmission and thereby to reduce the burden of COVID-19 disease. Recent data, however, indicate that the epidemiological relevance of COVID-19 vaccinated individuals is increasing.",
-        "cn": "高的COVID-19疫苗接種率預計會通過減少可能的傳播源來減少新冠在人群中的傳播，從而減少COVID-19疾病的負擔。然而，最近的數據表明，新冠疫苗接種者與病毒感染相關性正在增加。"
+        "cn": "新冠疫情越來越多的出現在接種疫苗人群中"
       },
       "url": "https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext",
       "date": "Nov 19, 2021"
@@ -107,7 +138,11 @@
       "type": "paper",
       "title": {
         "en": "The epidemiological relevance of the COVID-19-vaccinated population is increasing",
-        "cn": "新冠疫情越來越多的出現在接種疫苗人群中"
+        "cn": "新冠疫苗接種人群與病毒感染的關聯性正在增加"
+      },
+      "abstract": {
+        "en": "High COVID-19 vaccination rates were expected to reduce transmission of SARS-CoV-2 in populations by reducing the number of possible sources for transmission and thereby to reduce the burden of COVID-19 disease. Recent data, however, indicate that the epidemiological relevance of COVID-19 vaccinated individuals is increasing.",
+        "cn": "高的COVID-19疫苗接種率預計會通過減少可能的傳播源來減少新冠在人群中的傳播，從而減少COVID-19疾病的負擔。然而，最近的數據表明，新冠疫苗接種人數與病毒感染人數的關聯性正在增加。"
       },
       "url": "https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext",
       "date": "Nov 19, 2021"
@@ -187,19 +222,6 @@
       "date": "Oct 28, 2021"
     },
     {
-      "type": "adverse-effect",
-      "title": {
-        "en": "Teen equestrian star Cienna Knowles hospitalised with blood clots after Pfizer vaccine",
-        "cn": "青少年馬術明星Cienna Knowles在注射輝瑞疫苗後因血凝塊而住院"
-      },
-      "abstract": {
-        "en": "A 「super healthy」 teen equestrian competitor who was hospitalised last week with blood clots in her chest has blamed the potentially 「life-changing」 injuries on the Pfizer vaccine.\nHowever, authorities have not confirmed her condition is connected to the Pfizer shot – which to date has not been linked to blood clotting issues as a known side effect in Australia – with NSW Health urging the public to 「use credible sources of information」.\nCienna Knowles from the NSW Central Coast shared her experience in a series of viral social media posts, writing that she 「never wanted」 the Covid-19 vaccine as she was scared of side effects, but ultimately got it to keep her job.",
-        "cn": "一名\"超級健康\"的青少年馬術選手上周因胸部血塊而住院，她將這種可能\"改變生活\"的傷害歸咎於輝瑞疫苗。然而，當局並沒有確認她的情況與輝瑞疫苗有關--迄今為止，輝瑞疫苗在澳大利亞還沒有與血凝問題有關的已知副作用--新南威爾士州衛生部敦促公眾\"使用可信的信息來源\"。來自新南威爾士州中央海岸的Cienna Knowles在一系列病毒性的社交媒體帖子中分享了她的經歷，她寫道，她\"從未想要\"Covid-19疫苗，因為她很害怕副作用，但最終為了保住工作而接種了疫苗。"
-      },
-      "url": "https://www.news.com.au/lifestyle/health/health-problems/teen-equestrian-star-cienna-knowles-hospitalised-with-blood-clots-after-pfizer-vaccine/news-story/286e7cd42e896b091e4b257322296a05",
-      "date": "Oct 26, 2021"
-    },
-    {
       "type": "treatment",
       "title": {
         "en": "Dexamethasone reduces mortality in patients seriously ill with COVID-19",
@@ -210,6 +232,19 @@
         "cn": "目前使用地塞米松治療COVID-19的現有證據概要 | 2021年10月26日更新"
       },
       "url": "https://www.nps.org.au/dexamethasone",
+      "date": "Oct 26, 2021"
+    },
+    {
+      "type": "adverse-effect",
+      "title": {
+        "en": "Teen equestrian star Cienna Knowles hospitalised with blood clots after Pfizer vaccine",
+        "cn": "青少年馬術明星Cienna Knowles在注射輝瑞疫苗後因血凝塊而住院"
+      },
+      "abstract": {
+        "en": "A 「super healthy」 teen equestrian competitor who was hospitalised last week with blood clots in her chest has blamed the potentially 「life-changing」 injuries on the Pfizer vaccine.\nHowever, authorities have not confirmed her condition is connected to the Pfizer shot – which to date has not been linked to blood clotting issues as a known side effect in Australia – with NSW Health urging the public to 「use credible sources of information」.\nCienna Knowles from the NSW Central Coast shared her experience in a series of viral social media posts, writing that she 「never wanted」 the Covid-19 vaccine as she was scared of side effects, but ultimately got it to keep her job.",
+        "cn": "一名\"超級健康\"的青少年馬術選手上周因胸部血塊而住院，她將這種可能\"改變生活\"的傷害歸咎於輝瑞疫苗。然而，當局並沒有確認她的情況與輝瑞疫苗有關--迄今為止，輝瑞疫苗在澳大利亞還沒有與血凝問題有關的已知副作用--新南威爾士州衛生部敦促公眾\"使用可信的信息來源\"。來自新南威爾士州中央海岸的Cienna Knowles在一系列病毒性的社交媒體帖子中分享了她的經歷，她寫道，她\"從未想要\"Covid-19疫苗，因為她很害怕副作用，但最終為了保住工作而接種了疫苗。"
+      },
+      "url": "https://www.news.com.au/lifestyle/health/health-problems/teen-equestrian-star-cienna-knowles-hospitalised-with-blood-clots-after-pfizer-vaccine/news-story/286e7cd42e896b091e4b257322296a05",
       "date": "Oct 26, 2021"
     },
     {
@@ -260,7 +295,7 @@
       "type": "paper",
       "title": {
         "en": "No Significant Difference in Viral Load Between Vaccinated and Unvaccinated, Asymptomatic and Symptomatic Groups When Infected with SARS-CoV-2 Delta Variant",
-        "cn": "感染SARS-CoV-2 Delta變體時，接種疫苗組和未接種疫苗組、無症狀組和有症狀組之間的病毒量沒有明顯差異"
+        "cn": "感染新冠Delta變體時，接種疫苗組和未接種疫苗組、無症狀組和有症狀組之間的病毒量沒有明顯差異"
       },
       "url": "https://www.medrxiv.org/content/10.1101/2021.09.28.21264262v2",
       "date": "Oct 5, 2021"
@@ -269,7 +304,7 @@
       "type": "paper",
       "title": {
         "en": "Increases in COVID-19 are unrelated to levels of vaccination across 68 countries and 2947 counties in the United States",
-        "cn": "68個國家以及美國2957個郡的數據表明：新冠病毒感染增加和接種疫苗的程度無關"
+        "cn": "68個國家以及美國2957個郡的數據表明：接種疫苗的程度並不能阻止新冠疫情加劇"
       },
       "abstract": {
         "en": "At the country-level, there appears to be no discernable relationship between percentage of population fully vaccinated and new COVID-19 cases in the last 7 days (Fig. 1). In fact, the trend line suggests a marginally positive association such that countries with higher percentage of population fully vaccinated have higher COVID-19 cases per 1 million people. Notably, Israel with over 60% of their population fully vaccinated had the highest COVID-19 cases per 1 million people in the last 7 days.",
@@ -295,7 +330,7 @@
       "type": "adverse-effect",
       "title": {
         "en": "Phillies' Didi Gregorius links COVID vaccine side effect to down year",
-        "cn": "費城人隊的迪迪-格雷戈里烏斯將COVID疫苗的副作用與今年的事業低谷聯繫起來"
+        "cn": "費城人隊的迪迪-格雷戈里烏斯認為COVID疫苗的副作用造成了今年的事業低谷"
       },
       "abstract": {
         "en": "Philadelphia Phillies shortstop Didi Gregorius is in the midst of one of the worst seasons of his career, and he’s pointing to at least one difference between this year and last.\nGregorius said he had been dealing with complications after receiving a COVID-19 vaccine. He told the Philadelphia Inquirer Wednesday the jab caused him to develop pseudogout, a form of arthritis, and he’s been in pain ever since.",
@@ -308,7 +343,7 @@
       "type": "adverse-effect",
       "title": {
         "en": "Why did't doctors listen to women about the link between Covid vaccines and periods?",
-        "cn": "為什麼醫生不聽取婦女關於新冠疫苗和月經之間的聯繫的意見？"
+        "cn": "為什麼醫生不聽取婦女關於新冠疫苗和月經失常之間的聯繫的意見？"
       },
       "abstract": {
         "en": "The possibility is looking increasingly likely. This week, a study in the BMJ revealed that almost 35,000 British women have reported that following their vaccination against Covid, they have experienced more painful and/or irregular periods. A month later, they were back to normal.",
@@ -404,7 +439,7 @@
       },
       "abstract": {
         "en": "In Germany, the rate of symptomatic COVID-19 cases among the fully vaccinated (「breakthrough infections」) is reported weekly since 21. July 2021 and was 16.9% at that time among patients of 60 years and older. This proportion is increasing week by week and was 58.9% on 27.",
-        "cn": "在德國，自從2021年七月21日起，完全接種疫苗人群的有症狀的新冠病例每週都會統計報告，在2021年7月，在60歲以上病例中，這項數據的比例是16.9%，並且每週都在增加，當月27日的數據是58.9%。"
+        "cn": "在德國，自從2021年七月21日起，對完全接種疫苗的人群，有症狀的新冠病例每週都會統計報告，在2021年7月，在60歲以上病例中，這項數據的比例是16.9%，並且每週都在增加，當月27日的數據是58.9%。"
       },
       "url": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-07-22.pdf?__blob=publicationFile",
       "date": "July 22, 2021"
