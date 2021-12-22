@@ -16,6 +16,34 @@ This is a summary of press reports regarding Covid and its vaccines, that have n
 ---
 ## adverse-effect
 
+__Fifth student dies after receiving Pfizer vaccine shot in Vietnam__
+
+__越南：第五個學生在接受輝瑞疫苗後死亡__
+
+Dec 14, 2021
+
+[https://tienphongnews.com/fifth-student-dies-after-receiving-pfizer-vaccine-shot-in-vietnam-251315.html](https://tienphongnews.com/fifth-student-dies-after-receiving-pfizer-vaccine-shot-in-vietnam-251315.html)
+
+[Back to Category / 回到分類](#category)
+
+---
+__8 Cases of Heart Inflammation Reported Among Kids 5 to 11 Who Received Pfizer COVID-19 Vaccine: CDC__
+
+__CDC：接受輝瑞公司COVID-19疫苗的5至11歲兒童中報告了8例心臟炎症。__
+
+Dec 10, 2021
+
+_Abstract / 摘要_
+
+Eight cases of myocarditis, a type of heart inflammation, have been reported in children aged 5 to 11 years who received Pfizer and BioNTech’s COVID-19 vaccine, officials from the U.S. Centers for Disease Control and Prevention (CDC) said on Dec. 16.
+
+美國疾病控制和預防中心（CDC）的官員12月16日說，在接受輝瑞公司和BioNTech公司COVID-19疫苗的5至11歲兒童中，已經報告了8例心肌炎，這是一種心臟炎症。
+
+[https://theepochtimes.com/eight-cases-of-heart-inflammation-reported-among-kids-ages-5-11-years-who-received-pfizer-and-biontechs-covid-19-vaccine-cdc_4163066.html](https://theepochtimes.com/eight-cases-of-heart-inflammation-reported-among-kids-ages-5-11-years-who-received-pfizer-and-biontechs-covid-19-vaccine-cdc_4163066.html)
+
+[Back to Category / 回到分類](#category)
+
+---
 __Vietnam Province Suspends Pfizer Vaccine Batch After 120 Children Hospitalized__
 
 __越南省在120名兒童住院後暫停使用輝瑞公司的批次疫苗__
@@ -275,6 +303,34 @@ The news last week that two COVID-19 vaccines had proved to be 95% efficacious i
 ---
 ## information
 
+__Covid Vaccines Do not Stop Covid Spread: An analysis of current data__
+
+__Covid疫苗並不能阻止Covid的傳播：對當前數據的分析__
+
+Dec 21, 2021
+
+_Abstract / 摘要_
+
+We conclude that whatever value vaccines may have in reducing hospitalization and mortality, they do not ‘work’ with the thoroughness government leaders claim,1 and certainly not to the degree that mandatory enforcement or vaccine passports could ever be justified in Canada as a reasonable limitation upon individual rights to bodily autonomy and Charter freedoms.
+
+我们的结论是，无论疫苗在降低住院率和死亡率方面有什么价值，它们都不会像政府领导人所说的那样彻底"起作用"；在加拿大，强制执行或疫苗护照作为对个人身体自主权和宪章自由的合理限制也是不成立的。
+
+[https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/](https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/)
+
+[Back to Category / 回到分類](#category)
+
+---
+__MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule__
+
+__在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表__
+
+Dec 21, 2021
+
+[https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9](https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9)
+
+[Back to Category / 回到分類](#category)
+
+---
 __COVID surges in one of world’s most vaccinated nations__
 
 __新冠疫情在全球接種疫苗最多的國家之一爆發__
@@ -299,6 +355,51 @@ Jun 8, 2021
 ---
 ## news
 
+__Two-dose vaccines don't induce enough antibodies against omicron: research__
+
+__研究表明，兩劑量的疫苗不能誘導出足夠的針對Omicron的抗體__
+
+Dec 14, 2021
+
+_Abstract / 摘要_
+
+An Oxford University study published on Monday found that two-dose COVID-19 vaccines generate a lower antibody response against the omicron strain, suggesting that the variant could lead to more infections among the fully vaccinated and previously infected.
+
+牛津大學週一發表的一項研究發現，兩劑COVID-19疫苗產生的針對Omicron毒株的抗體反應較低，這表明該變體可能導致完全接種疫苗的人和曾經感染過的人發生更多的感染。
+
+[https://news.yahoo.com/two-dose-vaccines-dont-induce-143327719.html](https://news.yahoo.com/two-dose-vaccines-dont-induce-143327719.html)
+
+[Back to Category / 回到分類](#category)
+
+---
+__UK Team File Complaint of Crimes Against Humanity With The International Criminal Court__
+
+__英國一團隊向國際刑事法院提出（疫苗）危害人類罪的申訴__
+
+Dec 10, 2021
+
+_Abstract / 摘要_
+
+A complaint has been filed with the Prosecutor of the International Criminal Court on December 6th, 2021 by a team from the UK on behalf of the people. They are alleging crimes committed by UK government officials and international world leaders of various violations of the Nuremberg Code, crimes against humanity, war crimes and crimes of aggression perpetrated against the peoples of the UK.
+
+2021年12月6日，來自英國的一個團隊代表人民向國際刑事法院檢察官提出申訴。他們指控英國政府官員和國際世界領導人對英國人民犯下的各種違反紐倫堡法典的罪行、反人類罪、戰爭罪和侵略罪。
+
+[https://dailyexpose.uk/2021/12/10/uk-team-file-complaint-of-crimes-against-humanity-with-the-international-criminal-court/](https://dailyexpose.uk/2021/12/10/uk-team-file-complaint-of-crimes-against-humanity-with-the-international-criminal-court/)
+
+[Back to Category / 回到分類](#category)
+
+---
+__Omicron may require fourth vaccine dose sooner than expected, Pfizer says__
+
+__輝瑞公司表示，Omicron可能比預期更早地需要注射第四針疫苗__
+
+Dec 9, 2021
+
+[https://www.washingtonpost.com/nation/2021/12/09/covid-omicron-variant-live-updates/](https://www.washingtonpost.com/nation/2021/12/09/covid-omicron-variant-live-updates/)
+
+[Back to Category / 回到分類](#category)
+
+---
 __Studies suggest Pfizer shot may protect only partially against Omicron__
 
 __研究發現輝瑞疫苗對Omicron變種只能提供部分防護__
@@ -374,6 +475,17 @@ Sweden and Denmark said on Wednesday they are pausing the use of Moderna's (MRNA
 [Back to Category / 回到分類](#category)
 
 ---
+__New UK Health Security Agency report proves without a shadow of a doubt that the Covid-19 Vaccines do not work and have negative effectiveness as low as MINUS 66%__
+
+__英國衛生安全局的新報告證明Covid-19疫苗不起作用，其有效力低至-66%。__
+
+Oct 1, 2021
+
+[https://dailyexpose.uk/2021/10/01/uk-health-security-agency-report-proves-covid-vaccines-dont-work/](https://dailyexpose.uk/2021/10/01/uk-health-security-agency-report-proves-covid-vaccines-dont-work/)
+
+[Back to Category / 回到分類](#category)
+
+---
 __Unexpected and heartbreaking: Thousands flood ABC affiliate’s Facebook page with vaccination horror stories__
 
 __出乎意料，令人心碎。數以千計的人湧入美國廣播公司下屬的Facebook頁面，講述接種疫苗的恐怖故事__
@@ -395,6 +507,57 @@ Instead, thousands of readers reported of loved ones who died after vaccination 
 ---
 ## paper
 
+__SARS-CoV-2 vaccination and myocarditis or myopericarditis: population based cohort study__
+
+__SARS-CoV-2疫苗接種與心肌炎或心包炎：基於人群的隊列研究__
+
+Dec 16, 2021
+
+_Abstract / 摘要_
+
+Vaccination with mRNA-1273 was associated with a significantly increased risk of myocarditis or myopericarditis in the Danish population, primarily driven by an increased risk among individuals aged 12-39 years, while BNT162b2 vaccination was only associated with a significantly increased risk among women.
+
+在丹麥人口中，接種mRNA-1273疫苗與心肌炎或心包炎的風險顯著增加有關，主要是由12-39歲個體的風險增加所驅動，而BNT162b2疫苗接種僅與女性的風險顯著增加有關。
+
+[https://www.bmj.com/content/375/bmj-2021-068665?__cf_chl_jschl_tk__=qWoQGzSMXqj5Qrx9o.q5nMoU4KZT.cU1wtcou8JZI1g-1639973531-0-gaNycGzNB70](https://www.bmj.com/content/375/bmj-2021-068665?__cf_chl_jschl_tk__=qWoQGzSMXqj5Qrx9o.q5nMoU4KZT.cU1wtcou8JZI1g-1639973531-0-gaNycGzNB70)
+
+[Back to Category / 回到分類](#category)
+
+---
+__SARS-CoV-2 vaccination and myocarditis or myopericarditis: population based cohort study__
+
+__SARS-CoV-2疫苗接種與心肌炎或心包炎：基於人群的隊列研究__
+
+Dec 16, 2021
+
+_Abstract / 摘要_
+
+Vaccination with mRNA-1273 was associated with a significantly increased risk of myocarditis or myopericarditis in the Danish population, primarily driven by an increased risk among individuals aged 12-39 years, while BNT162b2 vaccination was only associated with a significantly increased risk among women.
+
+在丹麥人口中，接種mRNA-1273疫苗與心肌炎或心包炎的風險顯著增加有關，主要是由12-39歲個體的風險增加所驅動，而BNT162b2疫苗接種僅與女性的風險顯著增加有關。
+
+[https://www.bmj.com/content/375/bmj-2021-068665?__cf_chl_jschl_tk__=qWoQGzSMXqj5Qrx9o.q5nMoU4KZT.cU1wtcou8JZI1g-1639973531-0-gaNycGzNB70](https://www.bmj.com/content/375/bmj-2021-068665?__cf_chl_jschl_tk__=qWoQGzSMXqj5Qrx9o.q5nMoU4KZT.cU1wtcou8JZI1g-1639973531-0-gaNycGzNB70)
+
+[Back to Category / 回到分類](#category)
+
+---
+__Risks of myocarditis, pericarditis, and cardiac arrhythmias associated with COVID-19 vaccination or SARS-CoV-2 infection__
+
+__與COVID-19疫苗接種或SARS-CoV-2感染有關的心肌炎、心包炎和心律失常的風險__
+
+Dec 14, 2021
+
+_Abstract / 摘要_
+
+We found increased risks of myocarditis associated with the first dose of ChAdOx1 and BNT162b2 vaccines and the first and second doses of the mRNA-1273 vaccine over the 1–28 days postvaccination period, and after a SARS-CoV-2 positive test.
+
+我們發現，在接種後1-28天內，以及在SARS-CoV-2陽性試驗後，與第一劑ChAdOx1和BNT162b2疫苗以及第一和第二劑mRNA-1273疫苗相關的心肌炎風險增加。
+
+[https://www.nature.com/articles/s41591-021-01630-0](https://www.nature.com/articles/s41591-021-01630-0)
+
+[Back to Category / 回到分類](#category)
+
+---
 __Mechanisms of SARS-CoV-2 Evolution Revealing Vaccine-Resistant Mutations in Europe and America__
 
 __新冠的進化機制揭示了病毒在歐洲和美國的抗疫苗性突變__
@@ -408,6 +571,27 @@ The importance of understanding SARS-CoV-2 evolution cannot be overlooked. Recen
 瞭解新冠進化的重要性是不容忽視的。最近的研究證實，自然選擇是新冠進化的主導機制，它傾向於加強病毒感染性的突變。在這裡，我們證明疫苗突破或抗體抗性突變提供了一種新的病毒進化機制。具體來說，發生在刺突蛋白受體結合域的抗疫苗突變Y449S和N501Y的共同突變，與原始SARS-CoV-2相比，感染性降低，但可以破壞現有的中和病毒的抗體。通過追蹤220多萬個SARS-CoV-2基因組中疫苗抗性突變的進化軌跡，我們發現，疫苗抗性突變的發生和頻率與歐洲和美國的疫苗接種率密切相關。我們預計，作為一種額外的傳播途徑，疫苗突破或抗體抗性突變，如Omicron中的突變，當世界上大多數人口要麼接種疫苗，要麼被感染的時候，將成為SARS-CoV-2進化的主導機制。我們的研究揭示了SARS-CoV-2的進化和傳播，並提供了設計下一代防突變的疫苗和抗體藥物的可能性。
 
 [https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03380](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03380)
+
+[Back to Category / 回到分類](#category)
+
+---
+__Rapid Progression of Angioimmunoblastic T Cell Lymphoma Following BNT162b2 mRNA Vaccine Booster Shot: A Case Report__
+
+__案例報告：BNT162b2 mRNA疫苗加強針注射後，誘發血管免疫性T细胞淋巴瘤加速產生__
+
+Nov 25, 2021
+
+_Abstract / 摘要_
+
+1. Soon after the initiation of the anti-SARS-CoV-2 vaccination campaigns, it appeared that the injection of mRNA vaccines may induce swelling of lymph nodes draining the injection site. Although considered as benign, this vaccine reaction sometimes complicated the interpretation of 18F-FDG PET/CT imaging for suspicion of a neoplastic process affecting lymph nodes.
+2. To the best of our knowledge, this is the first observation suggesting that administration of a SARS-CoV-2 vaccine might induce AITL progression. Several arguments support this possibility.
+3. Our case first raises the question of the COVID-19 prevention strategy to be used in this patient which is currently poorly protected against COVID-19. On the short term, the only option is to recommend strict masking and social distancing, and to offer him anti-SARS-CoV-2 antibody therapy in case of high-risk contact. On the longer term, the use of mRNA vaccines should clearly be avoided while other types of vaccines might be considered.
+
+1. 在抗SARS-CoV-2疫苗接種運動開始後不久，出現了注射mRNA疫苗可能會誘發注射部位引流的淋巴結腫大。儘管被認為是良性的，但這種疫苗反應有時會使18F-FDG PET/CT成像的解釋複雜化，以懷疑影響淋巴結的腫瘤性過程。
+2. 據我們所知，這是第一個表明注射SARS-CoV-2疫苗可能誘發AITL進展的觀察。有幾個論點支持這種可能性。
+3. 我們的病例首先提出了一個問題，即對目前對COVID-19保護不力的患者採用COVID-19預防策略。在短期內，唯一的選擇是建議嚴格的掩蔽和社會疏遠，並在有高風險接觸的情況下為他提供抗SARS-CoV-2抗體治療。從長遠來看，顯然應該避免使用mRNA疫苗，同時可以考慮使用其他類型的疫苗。
+
+[https://www.frontiersin.org/articles/10.3389/fmed.2021.798095/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.798095/full)
 
 [Back to Category / 回到分類](#category)
 

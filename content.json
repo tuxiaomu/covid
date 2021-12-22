@@ -29,6 +29,124 @@
       "url": "https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/getting-vaccinated-for-covid-19/what-happens-after-i-am-vaccinated-for-covid-19"
     },
     {
+      "type": "information",
+      "title": {
+        "en": "Covid Vaccines Do not Stop Covid Spread: An analysis of current data",
+        "cn": "Covid疫苗並不能阻止Covid的傳播：對當前數據的分析"
+      },
+      "abstract": {
+        "en": "We conclude that whatever value vaccines may have in reducing hospitalization and mortality, they do not ‘work’ with the thoroughness government leaders claim,1 and certainly not to the degree that mandatory enforcement or vaccine passports could ever be justified in Canada as a reasonable limitation upon individual rights to bodily autonomy and Charter freedoms.",
+        "cn": "我们的结论是，无论疫苗在降低住院率和死亡率方面有什么价值，它们都不会像政府领导人所说的那样彻底\"起作用\"；在加拿大，强制执行或疫苗护照作为对个人身体自主权和宪章自由的合理限制也是不成立的。"
+      },
+      "url": "https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/",
+      "date": "Dec 21, 2021"
+    },
+    {
+      "type": "information",
+      "title": {
+        "en": "MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule",
+        "cn": "在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表"
+      },
+      "url": "https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9",
+      "date": "Dec 21, 2021"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "SARS-CoV-2 vaccination and myocarditis or myopericarditis: population based cohort study",
+        "cn": "SARS-CoV-2疫苗接種與心肌炎或心包炎：基於人群的隊列研究"
+      },
+      "abstract": {
+        "en": "Vaccination with mRNA-1273 was associated with a significantly increased risk of myocarditis or myopericarditis in the Danish population, primarily driven by an increased risk among individuals aged 12-39 years, while BNT162b2 vaccination was only associated with a significantly increased risk among women.",
+        "cn": "在丹麥人口中，接種mRNA-1273疫苗與心肌炎或心包炎的風險顯著增加有關，主要是由12-39歲個體的風險增加所驅動，而BNT162b2疫苗接種僅與女性的風險顯著增加有關。"
+      },
+      "url": "https://www.bmj.com/content/375/bmj-2021-068665?__cf_chl_jschl_tk__=qWoQGzSMXqj5Qrx9o.q5nMoU4KZT.cU1wtcou8JZI1g-1639973531-0-gaNycGzNB70",
+      "date": "Dec 16, 2021"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "SARS-CoV-2 vaccination and myocarditis or myopericarditis: population based cohort study",
+        "cn": "SARS-CoV-2疫苗接種與心肌炎或心包炎：基於人群的隊列研究"
+      },
+      "abstract": {
+        "en": "Vaccination with mRNA-1273 was associated with a significantly increased risk of myocarditis or myopericarditis in the Danish population, primarily driven by an increased risk among individuals aged 12-39 years, while BNT162b2 vaccination was only associated with a significantly increased risk among women.",
+        "cn": "在丹麥人口中，接種mRNA-1273疫苗與心肌炎或心包炎的風險顯著增加有關，主要是由12-39歲個體的風險增加所驅動，而BNT162b2疫苗接種僅與女性的風險顯著增加有關。"
+      },
+      "url": "https://www.bmj.com/content/375/bmj-2021-068665?__cf_chl_jschl_tk__=qWoQGzSMXqj5Qrx9o.q5nMoU4KZT.cU1wtcou8JZI1g-1639973531-0-gaNycGzNB70",
+      "date": "Dec 16, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Two-dose vaccines don't induce enough antibodies against omicron: research",
+        "cn": "研究表明，兩劑量的疫苗不能誘導出足夠的針對Omicron的抗體"
+      },
+      "abstract": {
+        "en": "An Oxford University study published on Monday found that two-dose COVID-19 vaccines generate a lower antibody response against the omicron strain, suggesting that the variant could lead to more infections among the fully vaccinated and previously infected.",
+        "cn": "牛津大學週一發表的一項研究發現，兩劑COVID-19疫苗產生的針對Omicron毒株的抗體反應較低，這表明該變體可能導致完全接種疫苗的人和曾經感染過的人發生更多的感染。"
+      },
+      "url": "https://news.yahoo.com/two-dose-vaccines-dont-induce-143327719.html",
+      "date": "Dec 14, 2021"
+    },
+    {
+      "type": "adverse-effect",
+      "title": {
+        "en": "Fifth student dies after receiving Pfizer vaccine shot in Vietnam",
+        "cn": "越南：第五個學生在接受輝瑞疫苗後死亡"
+      },
+      "url": "https://tienphongnews.com/fifth-student-dies-after-receiving-pfizer-vaccine-shot-in-vietnam-251315.html",
+      "date": "Dec 14, 2021"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "Risks of myocarditis, pericarditis, and cardiac arrhythmias associated with COVID-19 vaccination or SARS-CoV-2 infection",
+        "cn": "與COVID-19疫苗接種或SARS-CoV-2感染有關的心肌炎、心包炎和心律失常的風險"
+      },
+      "abstract": {
+        "en": "We found increased risks of myocarditis associated with the first dose of ChAdOx1 and BNT162b2 vaccines and the first and second doses of the mRNA-1273 vaccine over the 1–28 days postvaccination period, and after a SARS-CoV-2 positive test.",
+        "cn": "我們發現，在接種後1-28天內，以及在SARS-CoV-2陽性試驗後，與第一劑ChAdOx1和BNT162b2疫苗以及第一和第二劑mRNA-1273疫苗相關的心肌炎風險增加。"
+      },
+      "url": "https://www.nature.com/articles/s41591-021-01630-0",
+      "date": "Dec 14, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "UK Team File Complaint of Crimes Against Humanity With The International Criminal Court",
+        "cn": "英國一團隊向國際刑事法院提出（疫苗）危害人類罪的申訴"
+      },
+      "abstract": {
+        "en": "A complaint has been filed with the Prosecutor of the International Criminal Court on December 6th, 2021 by a team from the UK on behalf of the people. They are alleging crimes committed by UK government officials and international world leaders of various violations of the Nuremberg Code, crimes against humanity, war crimes and crimes of aggression perpetrated against the peoples of the UK.",
+        "cn": "2021年12月6日，來自英國的一個團隊代表人民向國際刑事法院檢察官提出申訴。他們指控英國政府官員和國際世界領導人對英國人民犯下的各種違反紐倫堡法典的罪行、反人類罪、戰爭罪和侵略罪。"
+      },
+      "url": "https://dailyexpose.uk/2021/12/10/uk-team-file-complaint-of-crimes-against-humanity-with-the-international-criminal-court/",
+      "date": "Dec 10, 2021"
+    },
+    {
+      "type": "adverse-effect",
+      "title": {
+        "en": "8 Cases of Heart Inflammation Reported Among Kids 5 to 11 Who Received Pfizer COVID-19 Vaccine: CDC",
+        "cn": "CDC：接受輝瑞公司COVID-19疫苗的5至11歲兒童中報告了8例心臟炎症。"
+      },
+      "abstract": {
+        "en": "Eight cases of myocarditis, a type of heart inflammation, have been reported in children aged 5 to 11 years who received Pfizer and BioNTech’s COVID-19 vaccine, officials from the U.S. Centers for Disease Control and Prevention (CDC) said on Dec. 16.",
+        "cn": "美國疾病控制和預防中心（CDC）的官員12月16日說，在接受輝瑞公司和BioNTech公司COVID-19疫苗的5至11歲兒童中，已經報告了8例心肌炎，這是一種心臟炎症。"
+      },
+      "url": "https://theepochtimes.com/eight-cases-of-heart-inflammation-reported-among-kids-ages-5-11-years-who-received-pfizer-and-biontechs-covid-19-vaccine-cdc_4163066.html",
+      "date": "Dec 10, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Omicron may require fourth vaccine dose sooner than expected, Pfizer says",
+        "cn": "輝瑞公司表示，Omicron可能比預期更早地需要注射第四針疫苗"
+      },
+      "url": "https://www.washingtonpost.com/nation/2021/12/09/covid-omicron-variant-live-updates/",
+      "date": "Dec 9, 2021"
+    },
+    {
       "type": "news",
       "title": {
         "en": "Studies suggest Pfizer shot may protect only partially against Omicron",
@@ -131,6 +249,19 @@
         "cn": "足球運動員突然倒地，前職業球員呼籲進行\"調查\""
       },
       "url": "https://www.zerohedge.com/medical/former-pro-calls-investigation-after-another-soccer-player-suddenly-collapses",
+      "date": "Nov 25, 2021"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "Rapid Progression of Angioimmunoblastic T Cell Lymphoma Following BNT162b2 mRNA Vaccine Booster Shot: A Case Report",
+        "cn": "案例報告：BNT162b2 mRNA疫苗加強針注射後，誘發血管免疫性T细胞淋巴瘤加速產生"
+      },
+      "abstract": {
+        "en": "1. Soon after the initiation of the anti-SARS-CoV-2 vaccination campaigns, it appeared that the injection of mRNA vaccines may induce swelling of lymph nodes draining the injection site. Although considered as benign, this vaccine reaction sometimes complicated the interpretation of 18F-FDG PET/CT imaging for suspicion of a neoplastic process affecting lymph nodes.\n2. To the best of our knowledge, this is the first observation suggesting that administration of a SARS-CoV-2 vaccine might induce AITL progression. Several arguments support this possibility.\n3. Our case first raises the question of the COVID-19 prevention strategy to be used in this patient which is currently poorly protected against COVID-19. On the short term, the only option is to recommend strict masking and social distancing, and to offer him anti-SARS-CoV-2 antibody therapy in case of high-risk contact. On the longer term, the use of mRNA vaccines should clearly be avoided while other types of vaccines might be considered.",
+        "cn": "1. 在抗SARS-CoV-2疫苗接種運動開始後不久，出現了注射mRNA疫苗可能會誘發注射部位引流的淋巴結腫大。儘管被認為是良性的，但這種疫苗反應有時會使18F-FDG PET/CT成像的解釋複雜化，以懷疑影響淋巴結的腫瘤性過程。\n2. 據我們所知，這是第一個表明注射SARS-CoV-2疫苗可能誘發AITL進展的觀察。有幾個論點支持這種可能性。\n3. 我們的病例首先提出了一個問題，即對目前對COVID-19保護不力的患者採用COVID-19預防策略。在短期內，唯一的選擇是建議嚴格的掩蔽和社會疏遠，並在有高風險接觸的情況下為他提供抗SARS-CoV-2抗體治療。從長遠來看，顯然應該避免使用mRNA疫苗，同時可以考慮使用其他類型的疫苗。"
+      },
+      "url": "https://www.frontiersin.org/articles/10.3389/fmed.2021.798095/full",
       "date": "Nov 25, 2021"
     },
     {
@@ -307,6 +438,15 @@
       },
       "url": "https://www.medrxiv.org/content/10.1101/2021.09.28.21264262v2",
       "date": "Oct 5, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "New UK Health Security Agency report proves without a shadow of a doubt that the Covid-19 Vaccines do not work and have negative effectiveness as low as MINUS 66%",
+        "cn": "英國衛生安全局的新報告證明Covid-19疫苗不起作用，其有效力低至-66%。"
+      },
+      "url": "https://dailyexpose.uk/2021/10/01/uk-health-security-agency-report-proves-covid-vaccines-dont-work/",
+      "date": "Oct 1, 2021"
     },
     {
       "type": "paper",
