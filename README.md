@@ -524,23 +524,6 @@ Vaccination with mRNA-1273 was associated with a significantly increased risk of
 [Back to Category / 回到分類](#category)
 
 ---
-__SARS-CoV-2 vaccination and myocarditis or myopericarditis: population based cohort study__
-
-__SARS-CoV-2疫苗接種與心肌炎或心包炎：基於人群的隊列研究__
-
-Dec 16, 2021
-
-_Abstract / 摘要_
-
-Vaccination with mRNA-1273 was associated with a significantly increased risk of myocarditis or myopericarditis in the Danish population, primarily driven by an increased risk among individuals aged 12-39 years, while BNT162b2 vaccination was only associated with a significantly increased risk among women.
-
-在丹麥人口中，接種mRNA-1273疫苗與心肌炎或心包炎的風險顯著增加有關，主要是由12-39歲個體的風險增加所驅動，而BNT162b2疫苗接種僅與女性的風險顯著增加有關。
-
-[https://www.bmj.com/content/375/bmj-2021-068665?__cf_chl_jschl_tk__=qWoQGzSMXqj5Qrx9o.q5nMoU4KZT.cU1wtcou8JZI1g-1639973531-0-gaNycGzNB70](https://www.bmj.com/content/375/bmj-2021-068665?__cf_chl_jschl_tk__=qWoQGzSMXqj5Qrx9o.q5nMoU4KZT.cU1wtcou8JZI1g-1639973531-0-gaNycGzNB70)
-
-[Back to Category / 回到分類](#category)
-
----
 __Risks of myocarditis, pericarditis, and cardiac arrhythmias associated with COVID-19 vaccination or SARS-CoV-2 infection__
 
 __與COVID-19疫苗接種或SARS-CoV-2感染有關的心肌炎、心包炎和心律失常的風險__
