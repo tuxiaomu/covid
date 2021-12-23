@@ -41,6 +41,56 @@ def translate(source, word)
     source[I18N_KEY][word]
 end
 
+def generate_toc(source, language)
+    filtered_refs = filter(source)
+    sorted_types = unique_types(filtered_refs).sort
+    lines = []
+    lines << (language == :en ? '## Category' : '## 分類')
+    lines << ''
+    sorted_types.each do |type|
+        title = (language == :en ? type : translate(source, type))
+        title = type if title.nil?
+        lines << "- [#{title}](##{title.downcase.gsub(' ', '-')})"
+    end
+
+    lines
+end
+
+def generate_content(source, language)
+    filtered_refs = filter(source)
+    sorted_types = unique_types(filtered_refs).sort
+
+    lines = []
+    sorted_types.each do |type|
+        type_line = (language == :en ? type : translate(source, type))
+        type_line = type if type_line.nil?
+        lines << "## #{type_line.upcase}"
+        lines << ''
+        typed_refs = filtered_refs[REF_KEY].filter { |ref| ref[TYPE_KEY] == type }
+        typed_refs.each do |ref|
+            lines << (language == :en ? "__#{ref[TITLE_KEY][EN_KEY]}__" : "__#{ref[TITLE_KEY][CN_KEY]}__")
+            lines << ''
+            unless ref[DATE_KEY].nil?
+                lines << ref[DATE_KEY]
+                lines << ''
+            end
+            unless ref[ABSTRACT_KEY].nil?
+                lines << (language == :en ? '_Abstract_' : '_摘要_')
+                lines << ''
+                lines << (language == :en ? ref[ABSTRACT_KEY][EN_KEY] : ref[ABSTRACT_KEY][CN_KEY])
+                lines << ''
+            end
+            lines << "[#{ref[URL_KEY]}](#{ref[URL_KEY]})"
+            lines << ''
+            lines << (language == :en ? '[Back to Category](#category)' : '[回到分類](#category)')
+            lines << ''
+            lines << '---'
+        end
+    end
+
+    lines
+end
+
 def generate(source, output)
     lines = []
     lines << '# ' + source[TITLE_KEY][EN_KEY] + ' / ' + source[TITLE_KEY][CN_KEY]
@@ -52,46 +102,16 @@ def generate(source, output)
 
     filtered_refs = filter(source)
     sorted_types = unique_types(filtered_refs).sort
-    
-    lines << '## Category'
+
+    lines << generate_toc(source, :en)
     lines << ''
-    sorted_types.each do |type|
-        i18n = translate(source, type)
-        title = if i18n.nil? then type else "#{type} / #{i18n}" end
-        lines << "- [#{title}](##{type.downcase})"
-    end
+    lines << generate_toc(source, :cn)
 
     lines << ''
     lines << '---'
 
-    sorted_types.each do |type|
-        lines << "## #{type}"
-        lines << ''
-        typed_refs = filtered_refs[REF_KEY].filter { |ref| ref[TYPE_KEY] == type }
-        typed_refs.each do |ref|
-            lines << "__#{ref[TITLE_KEY][EN_KEY]}__"
-            lines << ''
-            lines << "__#{ref[TITLE_KEY][CN_KEY]}__"
-            lines << ''
-            unless ref[DATE_KEY].nil?
-                lines << ref[DATE_KEY]
-                lines << ''
-            end
-            unless ref[ABSTRACT_KEY].nil?
-                lines << '_Abstract / 摘要_'
-                lines << ''
-                lines << ref[ABSTRACT_KEY][EN_KEY]
-                lines << ''
-                lines << ref[ABSTRACT_KEY][CN_KEY]
-                lines << ''
-            end
-            lines << "[#{ref[URL_KEY]}](#{ref[URL_KEY]})"
-            lines << ''
-            lines << '[Back to Category / 回到分類](#category)'
-            lines << ''
-            lines << '---'
-        end
-    end
+    lines << generate_content(source, :en)
+    lines << generate_content(source, :cn)
 
     File.write(output, lines.join("\n"))
 end
