@@ -25,6 +25,19 @@ This is a summary of press reports regarding Covid and its vaccines, that have n
 ---
 ## ADVERSE EFFECT
 
+__Egyptian keeper, Ahmed Amin dies in training__
+
+Dec 24, 2021
+
+_Abstract_
+
+As they arrived at the hospital, the doctors told them that the player had already passed away and nothing could be done at that point, the cause of death was then revealed to be sudden cardiac arrest.
+
+[https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training](https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training)
+
+[Back to Category](#category)
+
+---
 __Fifth student dies after receiving Pfizer vaccine shot in Vietnam__
 
 Dec 14, 2021
@@ -248,6 +261,15 @@ The news last week that two COVID-19 vaccines had proved to be 95% efficacious i
 ---
 ## INFORMATION
 
+__MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule__
+
+Dec 21, 2021
+
+[https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9](https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9)
+
+[Back to Category](#category)
+
+---
 __Covid Vaccines Do not Stop Covid Spread: An analysis of current data__
 
 Dec 21, 2021
@@ -257,15 +279,6 @@ _Abstract_
 We conclude that whatever value vaccines may have in reducing hospitalization and mortality, they do not ‘work’ with the thoroughness government leaders claim,1 and certainly not to the degree that mandatory enforcement or vaccine passports could ever be justified in Canada as a reasonable limitation upon individual rights to bodily autonomy and Charter freedoms.
 
 [https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/](https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/)
-
-[Back to Category](#category)
-
----
-__MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule__
-
-Dec 21, 2021
-
-[https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9](https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9)
 
 [Back to Category](#category)
 
@@ -290,6 +303,46 @@ Jun 8, 2021
 ---
 ## NEWS
 
+__COVID Antiviral Pills Cause Life-Threatening Reactions When Used With Many Common Meds: FDA__
+
+Dec 31, 2021
+
+[https://www.zerohedge.com/covid-19/covid-antiviral-pills-cause-life-threatening-reactions-when-used-many-common-meds-fda](https://www.zerohedge.com/covid-19/covid-antiviral-pills-cause-life-threatening-reactions-when-used-many-common-meds-fda)
+
+[Back to Category](#category)
+
+---
+__Covid testing queues are becoming 'SUPER SPREADER' events as uninfected Australians are forced to line up next to the sick - just to get a result for interstate travel__
+
+Dec 29, 2021
+
+[https://www.dailymail.co.uk/news/article-10350827/Covid-testing-queues-breeding-ground-virus-Australia.html](https://www.dailymail.co.uk/news/article-10350827/Covid-testing-queues-breeding-ground-virus-Australia.html)
+
+[Back to Category](#category)
+
+---
+__Catching Omicron may boost immunity against Delta variant, new study finds__
+
+Dec 28, 2021
+
+_Abstract_
+
+The study, which has not been peer-reviewed, found that people who were infected with Omicron developed enhanced immunity to the Delta variant - especially those who were vaccinated.
+
+[https://7news.com.au/lifestyle/health-wellbeing/catching-omicron-may-boost-immunity-against-delta-variant-new-study-finds-c-5110324](https://7news.com.au/lifestyle/health-wellbeing/catching-omicron-may-boost-immunity-against-delta-variant-new-study-finds-c-5110324)
+
+[Back to Category](#category)
+
+---
+__Israel Considers 4th Vaccine Dose, but Some Experts Say It's Premature__
+
+Dec 23, 2021
+
+[https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html](https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html)
+
+[Back to Category](#category)
+
+---
 __Two-dose vaccines don't induce enough antibodies against omicron: research__
 
 Dec 14, 2021
@@ -638,6 +691,19 @@ While the Australian Government strongly supports immunisation, it is not compul
 ---
 ## TREATMENT
 
+__You just tested positive for COVID-19. Here’s what to do next.__
+
+Dec 23, 2021
+
+_Abstract_
+
+In most cases, treatment for COVID-19 will be similar to how you would care for a common cold.
+
+[https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122](https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122)
+
+[Back to Category](#category)
+
+---
 __140 Research Studies Affirm Naturally Acquired Immunity to Covid-19: Documented, Linked, and Quoted__
 
 Dec 5, 2021
@@ -710,6 +776,19 @@ Effective and affordable treatments for patients suffering from coronavirus dise
 ---
 ## 副作用
 
+__埃及守門員艾哈邁德-阿明在訓練中死亡__
+
+Dec 24, 2021
+
+_摘要_
+
+当他们到达医院时，医生告诉他们，这名球员已经去世了，当时什么也做不了，死亡原因随后被发现是心脏骤停。
+
+[https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training](https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training)
+
+[回到分類](#category)
+
+---
 __越南：第五個學生在接受輝瑞疫苗後死亡__
 
 Dec 14, 2021
@@ -928,6 +1007,15 @@ _摘要_
 ---
 ## 信息
 
+__在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表__
+
+Dec 21, 2021
+
+[https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9](https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9)
+
+[回到分類](#category)
+
+---
 __Covid疫苗並不能阻止Covid的傳播：對當前數據的分析__
 
 Dec 21, 2021
@@ -937,15 +1025,6 @@ _摘要_
 我们的结论是，无论疫苗在降低住院率和死亡率方面有什么价值，它们都不会像政府领导人所说的那样彻底"起作用"；在加拿大，强制执行或疫苗护照作为对个人身体自主权和宪章自由的合理限制也是不成立的。
 
 [https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/](https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/)
-
-[回到分類](#category)
-
----
-__在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表__
-
-Dec 21, 2021
-
-[https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9](https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9)
 
 [回到分類](#category)
 
@@ -970,6 +1049,46 @@ Jun 8, 2021
 ---
 ## 新聞
 
+__美國食品和藥物管理局：COVID抗病毒藥與許多普通藥物一起使用會引起威脅生命的反應。__
+
+Dec 31, 2021
+
+[https://www.zerohedge.com/covid-19/covid-antiviral-pills-cause-life-threatening-reactions-when-used-many-common-meds-fda](https://www.zerohedge.com/covid-19/covid-antiviral-pills-cause-life-threatening-reactions-when-used-many-common-meds-fda)
+
+[回到分類](#category)
+
+---
+__未受感染的澳大利亞人因為洲際旅行而需要測試，被迫在病人旁邊排隊，使得Covid檢測成為"超級傳播者"事件。__
+
+Dec 29, 2021
+
+[https://www.dailymail.co.uk/news/article-10350827/Covid-testing-queues-breeding-ground-virus-Australia.html](https://www.dailymail.co.uk/news/article-10350827/Covid-testing-queues-breeding-ground-virus-Australia.html)
+
+[回到分類](#category)
+
+---
+__新研究發現，感染新冠變種Omicron可能會提高對Delta變種的免疫力__
+
+Dec 28, 2021
+
+_摘要_
+
+這項未經同行評議的研究發現，感染Omicron的人對Delta變體產生了增強的免疫力--尤其是那些接種過疫苗的人。
+
+[https://7news.com.au/lifestyle/health-wellbeing/catching-omicron-may-boost-immunity-against-delta-variant-new-study-finds-c-5110324](https://7news.com.au/lifestyle/health-wellbeing/catching-omicron-may-boost-immunity-against-delta-variant-new-study-finds-c-5110324)
+
+[回到分類](#category)
+
+---
+__以色列考虑使用第四种疫苗，但一些专家认为时机尚不成熟__
+
+Dec 23, 2021
+
+[https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html](https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html)
+
+[回到分類](#category)
+
+---
 __研究表明，兩劑量的疫苗不能誘導出足夠的針對Omicron的抗體__
 
 Dec 14, 2021
@@ -1314,6 +1433,19 @@ _摘要_
 ---
 ## 治療
 
+__新冠病毒測試陽性後，你應該做的事情__
+
+Dec 23, 2021
+
+_摘要_
+
+在大多數情況下，對COVID-19的治療方式和你對普通感冒的護理方式類似。
+
+[https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122](https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122)
+
+[回到分類](#category)
+
+---
 __140項研究證實了自然獲得的對Covid-19的免疫力。記錄、鏈接和引用__
 
 Dec 5, 2021

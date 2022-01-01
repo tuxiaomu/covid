@@ -29,6 +29,81 @@
       "url": "https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/getting-vaccinated-for-covid-19/what-happens-after-i-am-vaccinated-for-covid-19"
     },
     {
+      "type": "news",
+      "title": {
+        "en": "COVID Antiviral Pills Cause Life-Threatening Reactions When Used With Many Common Meds: FDA",
+        "cn": "美國食品和藥物管理局：COVID抗病毒藥與許多普通藥物一起使用會引起威脅生命的反應。"
+      },
+      "url": "https://www.zerohedge.com/covid-19/covid-antiviral-pills-cause-life-threatening-reactions-when-used-many-common-meds-fda",
+      "date": "Dec 31, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Covid testing queues are becoming 'SUPER SPREADER' events as uninfected Australians are forced to line up next to the sick - just to get a result for interstate travel",
+        "cn": "未受感染的澳大利亞人因為洲際旅行而需要測試，被迫在病人旁邊排隊，使得Covid檢測成為\"超級傳播者\"事件。"
+      },
+      "url": "https://www.dailymail.co.uk/news/article-10350827/Covid-testing-queues-breeding-ground-virus-Australia.html",
+      "date": "Dec 29, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Catching Omicron may boost immunity against Delta variant, new study finds",
+        "cn": "新研究發現，感染新冠變種Omicron可能會提高對Delta變種的免疫力"
+      },
+      "abstract": {
+        "en": "The study, which has not been peer-reviewed, found that people who were infected with Omicron developed enhanced immunity to the Delta variant - especially those who were vaccinated.",
+        "cn": "這項未經同行評議的研究發現，感染Omicron的人對Delta變體產生了增強的免疫力--尤其是那些接種過疫苗的人。"
+      },
+      "url": "https://7news.com.au/lifestyle/health-wellbeing/catching-omicron-may-boost-immunity-against-delta-variant-new-study-finds-c-5110324",
+      "date": "Dec 28, 2021"
+    },
+    {
+      "type": "adverse effect",
+      "title": {
+        "en": "Egyptian keeper, Ahmed Amin dies in training",
+        "cn": "埃及守門員艾哈邁德-阿明在訓練中死亡"
+      },
+      "abstract": {
+        "en": "As they arrived at the hospital, the doctors told them that the player had already passed away and nothing could be done at that point, the cause of death was then revealed to be sudden cardiac arrest.",
+        "cn": "当他们到达医院时，医生告诉他们，这名球员已经去世了，当时什么也做不了，死亡原因随后被发现是心脏骤停。"
+      },
+      "url": "https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training",
+      "date": "Dec 24, 2021"
+    },
+    {
+      "type": "treatment",
+      "title": {
+        "en": "You just tested positive for COVID-19. Here’s what to do next.",
+        "cn": "新冠病毒測試陽性後，你應該做的事情"
+      },
+      "abstract": {
+        "en": "In most cases, treatment for COVID-19 will be similar to how you would care for a common cold.",
+        "cn": "在大多數情況下，對COVID-19的治療方式和你對普通感冒的護理方式類似。"
+      },
+      "url": "https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122",
+      "date": "Dec 23, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Israel Considers 4th Vaccine Dose, but Some Experts Say It's Premature",
+        "cn": "以色列考虑使用第四种疫苗，但一些专家认为时机尚不成熟"
+      },
+      "url": "https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html",
+      "date": "Dec 23, 2021"
+    },
+    {
+      "type": "information",
+      "title": {
+        "en": "MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule",
+        "cn": "在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表"
+      },
+      "url": "https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9",
+      "date": "Dec 21, 2021"
+    },
+    {
       "type": "information",
       "title": {
         "en": "Covid Vaccines Do not Stop Covid Spread: An analysis of current data",
@@ -39,15 +114,6 @@
         "cn": "我们的结论是，无论疫苗在降低住院率和死亡率方面有什么价值，它们都不会像政府领导人所说的那样彻底\"起作用\"；在加拿大，强制执行或疫苗护照作为对个人身体自主权和宪章自由的合理限制也是不成立的。"
       },
       "url": "https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/",
-      "date": "Dec 21, 2021"
-    },
-    {
-      "type": "information",
-      "title": {
-        "en": "MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule",
-        "cn": "在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表"
-      },
-      "url": "https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9",
       "date": "Dec 21, 2021"
     },
     {
@@ -62,6 +128,19 @@
       },
       "url": "https://www.bmj.com/content/375/bmj-2021-068665?__cf_chl_jschl_tk__=qWoQGzSMXqj5Qrx9o.q5nMoU4KZT.cU1wtcou8JZI1g-1639973531-0-gaNycGzNB70",
       "date": "Dec 16, 2021"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "Risks of myocarditis, pericarditis, and cardiac arrhythmias associated with COVID-19 vaccination or SARS-CoV-2 infection",
+        "cn": "與COVID-19疫苗接種或SARS-CoV-2感染有關的心肌炎、心包炎和心律失常的風險"
+      },
+      "abstract": {
+        "en": "We found increased risks of myocarditis associated with the first dose of ChAdOx1 and BNT162b2 vaccines and the first and second doses of the mRNA-1273 vaccine over the 1–28 days postvaccination period, and after a SARS-CoV-2 positive test.",
+        "cn": "我們發現，在接種後1-28天內，以及在SARS-CoV-2陽性試驗後，與第一劑ChAdOx1和BNT162b2疫苗以及第一和第二劑mRNA-1273疫苗相關的心肌炎風險增加。"
+      },
+      "url": "https://www.nature.com/articles/s41591-021-01630-0",
+      "date": "Dec 14, 2021"
     },
     {
       "type": "news",
@@ -86,17 +165,17 @@
       "date": "Dec 14, 2021"
     },
     {
-      "type": "paper",
+      "type": "adverse effect",
       "title": {
-        "en": "Risks of myocarditis, pericarditis, and cardiac arrhythmias associated with COVID-19 vaccination or SARS-CoV-2 infection",
-        "cn": "與COVID-19疫苗接種或SARS-CoV-2感染有關的心肌炎、心包炎和心律失常的風險"
+        "en": "8 Cases of Heart Inflammation Reported Among Kids 5 to 11 Who Received Pfizer COVID-19 Vaccine: CDC",
+        "cn": "CDC：接受輝瑞公司COVID-19疫苗的5至11歲兒童中報告了8例心臟炎症。"
       },
       "abstract": {
-        "en": "We found increased risks of myocarditis associated with the first dose of ChAdOx1 and BNT162b2 vaccines and the first and second doses of the mRNA-1273 vaccine over the 1–28 days postvaccination period, and after a SARS-CoV-2 positive test.",
-        "cn": "我們發現，在接種後1-28天內，以及在SARS-CoV-2陽性試驗後，與第一劑ChAdOx1和BNT162b2疫苗以及第一和第二劑mRNA-1273疫苗相關的心肌炎風險增加。"
+        "en": "Eight cases of myocarditis, a type of heart inflammation, have been reported in children aged 5 to 11 years who received Pfizer and BioNTech’s COVID-19 vaccine, officials from the U.S. Centers for Disease Control and Prevention (CDC) said on Dec. 16.",
+        "cn": "美國疾病控制和預防中心（CDC）的官員12月16日說，在接受輝瑞公司和BioNTech公司COVID-19疫苗的5至11歲兒童中，已經報告了8例心肌炎，這是一種心臟炎症。"
       },
-      "url": "https://www.nature.com/articles/s41591-021-01630-0",
-      "date": "Dec 14, 2021"
+      "url": "https://theepochtimes.com/eight-cases-of-heart-inflammation-reported-among-kids-ages-5-11-years-who-received-pfizer-and-biontechs-covid-19-vaccine-cdc_4163066.html",
+      "date": "Dec 10, 2021"
     },
     {
       "type": "news",
@@ -112,32 +191,6 @@
       "date": "Dec 10, 2021"
     },
     {
-      "type": "adverse effect",
-      "title": {
-        "en": "8 Cases of Heart Inflammation Reported Among Kids 5 to 11 Who Received Pfizer COVID-19 Vaccine: CDC",
-        "cn": "CDC：接受輝瑞公司COVID-19疫苗的5至11歲兒童中報告了8例心臟炎症。"
-      },
-      "abstract": {
-        "en": "Eight cases of myocarditis, a type of heart inflammation, have been reported in children aged 5 to 11 years who received Pfizer and BioNTech’s COVID-19 vaccine, officials from the U.S. Centers for Disease Control and Prevention (CDC) said on Dec. 16.",
-        "cn": "美國疾病控制和預防中心（CDC）的官員12月16日說，在接受輝瑞公司和BioNTech公司COVID-19疫苗的5至11歲兒童中，已經報告了8例心肌炎，這是一種心臟炎症。"
-      },
-      "url": "https://theepochtimes.com/eight-cases-of-heart-inflammation-reported-among-kids-ages-5-11-years-who-received-pfizer-and-biontechs-covid-19-vaccine-cdc_4163066.html",
-      "date": "Dec 10, 2021"
-    },
-    {
-      "type": "adverse effect",
-      "title": {
-        "en": "Egyptian keeper, Ahmed Amin dies in training",
-        "cn": "埃及守門員艾哈邁德-阿明在訓練中死亡"
-      },
-      "abstract": {
-        "en": "As they arrived at the hospital, the doctors told them that the player had already passed away and nothing could be done at that point, the cause of death was then revealed to be sudden cardiac arrest.",
-        "cn": "当他们到达医院时，医生告诉他们，这名球员已经去世了，当时什么也做不了，死亡原因随后被发现是心脏骤停。"
-      },
-      "url": "https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training",
-      "date": "Dec 24, 2021"
-    },
-    {
       "type": "news",
       "title": {
         "en": "Omicron may require fourth vaccine dose sooner than expected, Pfizer says",
@@ -145,24 +198,6 @@
       },
       "url": "https://www.washingtonpost.com/nation/2021/12/09/covid-omicron-variant-live-updates/",
       "date": "Dec 9, 2021"
-    },
-    {
-      "type": "news",
-      "title": {
-        "en": "Israel Considers 4th Vaccine Dose, but Some Experts Say It's Premature",
-        "cn": "以色列考虑使用第四种疫苗，但一些专家认为时机尚不成熟"
-      },
-      "url": "https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html",
-      "date": "Dec 23, 2021"
-    },
-    {
-      "type": "news",
-      "title": {
-        "en": "Covid testing queues are becoming 'SUPER SPREADER' events as uninfected Australians are forced to line up next to the sick - just to get a result for interstate travel",
-        "cn": "未受感染的澳大利亞人因為洲際旅行而需要測試，被迫在病人旁邊排隊，使得Covid檢測成為\"超級傳播者\"事件。"
-      },
-      "url": "https://www.dailymail.co.uk/news/article-10350827/Covid-testing-queues-breeding-ground-virus-Australia.html",
-      "date": "Dec 29, 2021"
     },
     {
       "type": "news",
@@ -222,19 +257,6 @@
       "date": "Dec 5, 2021"
     },
     {
-      "type": "treatment",
-      "title": {
-        "en": "You just tested positive for COVID-19. Here’s what to do next.",
-        "cn": "新冠病毒測試陽性後，你應該做的事情"
-      },
-      "abstract": {
-        "en": "In most cases, treatment for COVID-19 will be similar to how you would care for a common cold.",
-        "cn": "在大多數情況下，對COVID-19的治療方式和你對普通感冒的護理方式類似。"
-      },
-      "url": "https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122",
-      "date": "Dec 23, 2021"
-    },
-    {
       "type": "adverse effect",
       "title": {
         "en": "Up to 300,000 people facing heart-related illnesses due to post-pandemic stress disorder, warn physicians",
@@ -259,15 +281,6 @@
       },
       "url": "https://www.zerohedge.com/political/uk-health-authority-slammed-watchdog-misleading-claim-unvaxxd-have-32-times-risk-covid",
       "date": "Nov 28, 2021"
-    },
-    {
-      "type": "news",
-      "title": {
-        "en": "COVID Antiviral Pills Cause Life-Threatening Reactions When Used With Many Common Meds: FDA",
-        "cn": "美國食品和藥物管理局：COVID抗病毒藥與許多普通藥物一起使用會引起威脅生命的反應。"
-      },
-      "url": "https://www.zerohedge.com/covid-19/covid-antiviral-pills-cause-life-threatening-reactions-when-used-many-common-meds-fda",
-      "date": "Dec 31, 2021"
     },
     {
       "type": "adverse effect",
@@ -338,19 +351,6 @@
       },
       "url": "https://www.smh.com.au/politics/federal/more-than-10-000-australians-have-filed-coronavirus-vaccine-injury-claims-20211115-p598yy.html",
       "date": "Nov 16, 2021"
-    },
-    {
-      "type": "news",
-      "title": {
-        "en": "Catching Omicron may boost immunity against Delta variant, new study finds",
-        "cn": "新研究發現，感染新冠變種Omicron可能會提高對Delta變種的免疫力"
-      },
-      "abstract": {
-        "en": "The study, which has not been peer-reviewed, found that people who were infected with Omicron developed enhanced immunity to the Delta variant - especially those who were vaccinated.",
-        "cn": "這項未經同行評議的研究發現，感染Omicron的人對Delta變體產生了增強的免疫力--尤其是那些接種過疫苗的人。"
-      },
-      "url": "https://7news.com.au/lifestyle/health-wellbeing/catching-omicron-may-boost-immunity-against-delta-variant-new-study-finds-c-5110324",
-      "date": "Dec 28, 2021"
     },
     {
       "type": "adverse effect",
