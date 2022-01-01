@@ -519,15 +519,6 @@ __The epidemiological relevance of the COVID-19-vaccinated population is increas
 
 Nov 19, 2021
 
-[https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext)
-
-[Back to Category](#category)
-
----
-__The epidemiological relevance of the COVID-19-vaccinated population is increasing__
-
-Nov 19, 2021
-
 _Abstract_
 
 High COVID-19 vaccination rates were expected to reduce transmission of SARS-CoV-2 in populations by reducing the number of possible sources for transmission and thereby to reduce the burden of COVID-19 disease. Recent data, however, indicate that the epidemiological relevance of COVID-19 vaccinated individuals is increasing.
@@ -1257,15 +1248,6 @@ _摘要_
 3. 我們的病例首先提出了一個問題，即對目前對COVID-19保護不力的患者採用COVID-19預防策略。在短期內，唯一的選擇是建議嚴格的掩蔽和社會疏遠，並在有高風險接觸的情況下為他提供抗SARS-CoV-2抗體治療。從長遠來看，顯然應該避免使用mRNA疫苗，同時可以考慮使用其他類型的疫苗。
 
 [https://www.frontiersin.org/articles/10.3389/fmed.2021.798095/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.798095/full)
-
-[回到分類](#category)
-
----
-__新冠疫情越來越多的出現在接種疫苗人群中__
-
-Nov 19, 2021
-
-[https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00258-1/fulltext)
 
 [回到分類](#category)
 
