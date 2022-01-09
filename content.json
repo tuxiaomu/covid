@@ -29,6 +29,146 @@
       "url": "https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/getting-vaccinated-for-covid-19/what-happens-after-i-am-vaccinated-for-covid-19"
     },
     {
+      "type": "news",
+      "title": {
+        "en": "COVID-19 victim in his 20s identified as NSW government considers new restrictions",
+        "cn": "新南威爾士州政府考慮採取新的限制措施，確認20多歲的COVID-19受害者身份"
+      },
+      "abstract": {
+        "en": "A double vaccinated and otherwise healthy 23-year-old man who died at Sydney's St Vincent's Hospital from COVID yesterday has been identified.",
+        "cn": "一名雙針接種且其他方面健康無疾的23歲男子昨天在悉尼聖文森特醫院死於COVID，身份已被確認。"
+      },
+      "url": "https://7news.com.au/sunrise/on-the-show/covid-victim-aged-in-his-20s-identified-as-nsw-government-consdiers-new-restrictions-c-5212337",
+      "date": "Jan 7, 2022"
+    },
+    {
+      "type": "treatment",
+      "title": {
+        "en": "Population-wide Observational Study in Brazil: Prophylactic Use of Ivermectin Reduces COVID-19 Mortality, Hospitalization & Infection",
+        "cn": "在巴西進行的全人口觀察研究：預防性使用伊維菌素可降低COVID-19的死亡率、住院率和感染率"
+      },
+      "abstract": {
+        "en": "Dr. Kerr and colleagues report that based on their data, the large, propensity-matched study verifies that regular use of ivermectin as a prophylactic agent was associated with a significant reduction in COVID-19 infection, hospitalization, and mortality rates.",
+        "cn": "根據Kerr博士及其同事報告數據，這項大型的傾向性匹配研究驗證了定期使用伊維菌素作為預防藥物與COVID-19感染、住院和死亡率的顯著降低有關。"
+      },
+      "url": "https://trialsitenews.com/population-wide-observational-study-in-brazil-prophylactic-use-of-ivermectin-reduces-covid-19-mortality-hospitalization-infection/",
+      "date": "Jan 6, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "New data finds NSW COVID patients admitted for other reasons",
+        "cn": "新數據表示，新州COVID患者因其他原因入院而非COVID"
+      },
+      "abstract": {
+        "en": "New data shows a significant proportion of COVID patients in New South Wales are being admitted to hospital for reasons unrelated to the virus.\nThat includes bowel obstructions, broken bones, mental health issues and women giving birth.\nThe data – taken over two days – found 50 percent of COVID patients were hospitalised for other reasons on day one and almost 40 percent on day two.",
+        "cn": "新數據顯示，新南威爾士州有相當一部分COVID患者因與病毒無關的原因被送進醫院。\n這包括腸梗阻、骨折、精神健康問題和婦女分娩。\n兩天來的數據顯示，50%的COVID患者在第一天因其他原因住院，而在第二天則有近40%。"
+      },
+      "url": "https://www.skynews.com.au/australia-news/coronavirus/new-data-finds-nsw-covid-patients-admitted-for-other-reasons/video/a9413a34124c93db01e1c7b6c374ddca",
+      "date": "Jan 3, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "COVID Antiviral Pills Cause Life-Threatening Reactions When Used With Many Common Meds: FDA",
+        "cn": "美國食品和藥物管理局：COVID抗病毒藥與許多普通藥物一起使用會引起威脅生命的反應。"
+      },
+      "url": "https://www.zerohedge.com/covid-19/covid-antiviral-pills-cause-life-threatening-reactions-when-used-many-common-meds-fda",
+      "date": "Dec 31, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Covid testing queues are becoming 'SUPER SPREADER' events as uninfected Australians are forced to line up next to the sick - just to get a result for interstate travel",
+        "cn": "未受感染的澳大利亞人因為洲際旅行而需要測試，被迫在病人旁邊排隊，使得Covid檢測成為\"超級傳播者\"事件。"
+      },
+      "url": "https://www.dailymail.co.uk/news/article-10350827/Covid-testing-queues-breeding-ground-virus-Australia.html",
+      "date": "Dec 29, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Catching Omicron may boost immunity against Delta variant, new study finds",
+        "cn": "新研究發現，感染新冠變種Omicron可能會提高對Delta變種的免疫力"
+      },
+      "abstract": {
+        "en": "The study, which has not been peer-reviewed, found that people who were infected with Omicron developed enhanced immunity to the Delta variant - especially those who were vaccinated.",
+        "cn": "這項未經同行評議的研究發現，感染Omicron的人對Delta變體產生了增強的免疫力--尤其是那些接種過疫苗的人。"
+      },
+      "url": "https://7news.com.au/lifestyle/health-wellbeing/catching-omicron-may-boost-immunity-against-delta-variant-new-study-finds-c-5110324",
+      "date": "Dec 28, 2021"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "SARS-CoV-2 Omicron VOC Transmission in Danish Households",
+        "cn": "丹麥家庭中的SARS-CoV-2傳播"
+      },
+      "abstract": {
+        "en": "A Danish study of nearly 12,000 households has discovered that Omicron spreads faster than Delta among those who are fully vaccinated, and even higher between those who have received booster shots, demonstrating strong evidence of the variant’s immune evasiveness.",
+        "cn": "丹麥對近12,000個家庭的研究發現，在完全接種疫苗的人中，Omicron的傳播速度比Delta快，在接受過強化注射的人中甚至更高，顯示了Omicron變種免疫逃避性的有力證據。"
+      },
+      "url": "https://www.medrxiv.org/content/10.1101/2021.12.27.21268278v1",
+      "date": "Dec 27, 2021"
+    },
+    {
+      "type": "adverse effect",
+      "title": {
+        "en": "Egyptian keeper, Ahmed Amin dies in training",
+        "cn": "埃及守門員艾哈邁德-阿明在訓練中死亡"
+      },
+      "abstract": {
+        "en": "As they arrived at the hospital, the doctors told them that the player had already passed away and nothing could be done at that point, the cause of death was then revealed to be sudden cardiac arrest.",
+        "cn": "当他们到达医院时，医生告诉他们，这名球员已经去世了，当时什么也做不了，死亡原因随后被发现是心脏骤停。"
+      },
+      "url": "https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training",
+      "date": "Dec 24, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Israel Considers 4th Vaccine Dose, but Some Experts Say It's Premature",
+        "cn": "以色列考虑使用第四种疫苗，但一些专家认为时机尚不成熟"
+      },
+      "url": "https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html",
+      "date": "Dec 23, 2021"
+    },
+    {
+      "type": "treatment",
+      "title": {
+        "en": "You just tested positive for COVID-19. Here’s what to do next.",
+        "cn": "新冠病毒測試陽性後，你應該做的事情"
+      },
+      "abstract": {
+        "en": "In most cases, treatment for COVID-19 will be similar to how you would care for a common cold.",
+        "cn": "在大多數情況下，對COVID-19的治療方式和你對普通感冒的護理方式類似。"
+      },
+      "url": "https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122",
+      "date": "Dec 23, 2021"
+    },
+    {
+      "type": "adverse effect",
+      "title": {
+        "en": "Acute autoimmune transverse myelitis following COVID-19 vaccination: A case report",
+        "cn": "接種COVID-19疫苗後的急性自身免疫性橫紋肌炎：一個案例報告"
+      },
+      "abstract": {
+        "en": "This is a rare case of transverse myelitis following COVID-19 vaccination. Positive OCB in CSF in the present case highlights the possibility of autoimmune processes, including polyclonal activation of B lymphocytes, following vaccination.",
+        "cn": "這是一個接種COVID-19疫苗後發生橫紋肌炎的罕見病例。本病例CSF中OCB陽性，強調了接種疫苗後出現自身免疫過程的可能性，包括B淋巴細胞的多克隆激活。"
+      },
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34941191/",
+      "date": "Dec 23, 2021"
+    },
+    {
+      "type": "information",
+      "title": {
+        "en": "MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule",
+        "cn": "在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表"
+      },
+      "url": "https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9",
+      "date": "Dec 21, 2021"
+    },
+    {
       "type": "information",
       "title": {
         "en": "Covid Vaccines Do not Stop Covid Spread: An analysis of current data",
@@ -39,15 +179,6 @@
         "cn": "我们的结论是，无论疫苗在降低住院率和死亡率方面有什么价值，它们都不会像政府领导人所说的那样彻底\"起作用\"；在加拿大，强制执行或疫苗护照作为对个人身体自主权和宪章自由的合理限制也是不成立的。"
       },
       "url": "https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/",
-      "date": "Dec 21, 2021"
-    },
-    {
-      "type": "information",
-      "title": {
-        "en": "MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule",
-        "cn": "在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表"
-      },
-      "url": "https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9",
       "date": "Dec 21, 2021"
     },
     {
@@ -64,6 +195,15 @@
       "date": "Dec 16, 2021"
     },
     {
+      "type": "adverse effect",
+      "title": {
+        "en": "Fifth student dies after receiving Pfizer vaccine shot in Vietnam",
+        "cn": "越南：第五個學生在接受輝瑞疫苗後死亡"
+      },
+      "url": "https://tienphongnews.com/fifth-student-dies-after-receiving-pfizer-vaccine-shot-in-vietnam-251315.html",
+      "date": "Dec 14, 2021"
+    },
+    {
       "type": "news",
       "title": {
         "en": "Two-dose vaccines don't induce enough antibodies against omicron: research",
@@ -74,15 +214,6 @@
         "cn": "牛津大學週一發表的一項研究發現，兩劑COVID-19疫苗產生的針對Omicron毒株的抗體反應較低，這表明該變體可能導致完全接種疫苗的人和曾經感染過的人發生更多的感染。"
       },
       "url": "https://news.yahoo.com/two-dose-vaccines-dont-induce-143327719.html",
-      "date": "Dec 14, 2021"
-    },
-    {
-      "type": "adverse effect",
-      "title": {
-        "en": "Fifth student dies after receiving Pfizer vaccine shot in Vietnam",
-        "cn": "越南：第五個學生在接受輝瑞疫苗後死亡"
-      },
-      "url": "https://tienphongnews.com/fifth-student-dies-after-receiving-pfizer-vaccine-shot-in-vietnam-251315.html",
       "date": "Dec 14, 2021"
     },
     {
@@ -125,19 +256,6 @@
       "date": "Dec 10, 2021"
     },
     {
-      "type": "adverse effect",
-      "title": {
-        "en": "Egyptian keeper, Ahmed Amin dies in training",
-        "cn": "埃及守門員艾哈邁德-阿明在訓練中死亡"
-      },
-      "abstract": {
-        "en": "As they arrived at the hospital, the doctors told them that the player had already passed away and nothing could be done at that point, the cause of death was then revealed to be sudden cardiac arrest.",
-        "cn": "当他们到达医院时，医生告诉他们，这名球员已经去世了，当时什么也做不了，死亡原因随后被发现是心脏骤停。"
-      },
-      "url": "https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training",
-      "date": "Dec 24, 2021"
-    },
-    {
       "type": "news",
       "title": {
         "en": "Omicron may require fourth vaccine dose sooner than expected, Pfizer says",
@@ -149,42 +267,11 @@
     {
       "type": "news",
       "title": {
-        "en": "Israel Considers 4th Vaccine Dose, but Some Experts Say It's Premature",
-        "cn": "以色列考虑使用第四种疫苗，但一些专家认为时机尚不成熟"
-      },
-      "url": "https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html",
-      "date": "Dec 23, 2021"
-    },
-    {
-      "type": "news",
-      "title": {
-        "en": "Covid testing queues are becoming 'SUPER SPREADER' events as uninfected Australians are forced to line up next to the sick - just to get a result for interstate travel",
-        "cn": "未受感染的澳大利亞人因為洲際旅行而需要測試，被迫在病人旁邊排隊，使得Covid檢測成為\"超級傳播者\"事件。"
-      },
-      "url": "https://www.dailymail.co.uk/news/article-10350827/Covid-testing-queues-breeding-ground-virus-Australia.html",
-      "date": "Dec 29, 2021"
-    },
-    {
-      "type": "news",
-      "title": {
         "en": "Studies suggest Pfizer shot may protect only partially against Omicron",
         "cn": "研究發現輝瑞疫苗對Omicron變種只能提供部分防護"
       },
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-covid-19-vaccine-partially-protective-against-omicron-bloomberg-news-2021-12-07",
       "date": "Dec 8, 2021"
-    },
-    {
-      "type": "paper",
-      "title": {
-        "en": "Mechanisms of SARS-CoV-2 Evolution Revealing Vaccine-Resistant Mutations in Europe and America",
-        "cn": "新冠的進化機制揭示了病毒在歐洲和美國的抗疫苗性突變"
-      },
-      "abstract": {
-        "en": "The importance of understanding SARS-CoV-2 evolution cannot be overlooked. Recent studies confirm that natural selection is the dominating mechanism of SARS-CoV-2 evolution, which favors mutations that strengthen viral infectivity. Here, we demonstrate that vaccine-breakthrough or antibody-resistant mutations provide a new mechanism of viral evolution. Specifically, vaccine-resistant mutation Y449S in the spike (S) protein receptor-binding domain, which occurred in co-mutations Y449S and N501Y, has reduced infectivity compared to that of the original SARS-CoV-2 but can disrupt existing antibodies that neutralize the virus. By tracking the evolutionary trajectories of vaccine-resistant mutations in more than 2.2 million SARS-CoV-2 genomes, we reveal that the occurrence and frequency of vaccine-resistant mutations correlate strongly with the vaccination rates in Europe and America. We anticipate that as a complementary transmission pathway, vaccine-breakthrough or antibody-resistant mutations, like those in Omicron, will become a dominating mechanism of SARS-CoV-2 evolution when most of the world’s population is either vaccinated or infected. Our study sheds light on SARS-CoV-2 evolution and transmission and enables the design of the next-generation mutation-proof vaccines and antibody drugs.",
-        "cn": "瞭解新冠進化的重要性是不容忽視的。最近的研究證實，自然選擇是新冠進化的主導機制，它傾向於加強病毒感染性的突變。在這裡，我們證明疫苗突破或抗體抗性突變提供了一種新的病毒進化機制。具體來說，發生在刺突蛋白受體結合域的抗疫苗突變Y449S和N501Y的共同突變，與原始SARS-CoV-2相比，感染性降低，但可以破壞現有的中和病毒的抗體。通過追蹤220多萬個SARS-CoV-2基因組中疫苗抗性突變的進化軌跡，我們發現，疫苗抗性突變的發生和頻率與歐洲和美國的疫苗接種率密切相關。我們預計，作為一種額外的傳播途徑，疫苗突破或抗體抗性突變，如Omicron中的突變，當世界上大多數人口要麼接種疫苗，要麼被感染的時候，將成為SARS-CoV-2進化的主導機制。我們的研究揭示了SARS-CoV-2的進化和傳播，並提供了設計下一代防突變的疫苗和抗體藥物的可能性。"
-      },
-      "url": "https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03380",
-      "date": "Dec 7, 2021"
     },
     {
       "type": "adverse effect",
@@ -197,6 +284,19 @@
         "cn": "自11月30日以來，中部省份一直在為15-17歲的兒童接種輝瑞公司的Covid-19疫苗。然而，該省疾病控制中心（CDC）週四表示，超過120名兒童在表現出惡心、高燒或呼吸困難等症狀後被送入醫院。"
       },
       "url": "https://www.zerohedge.com/covid-19/vietnam-province-suspends-pfizer-vaccine-batch-after-120-children-hospitalized",
+      "date": "Dec 7, 2021"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "Mechanisms of SARS-CoV-2 Evolution Revealing Vaccine-Resistant Mutations in Europe and America",
+        "cn": "新冠的進化機制揭示了病毒在歐洲和美國的抗疫苗性突變"
+      },
+      "abstract": {
+        "en": "The importance of understanding SARS-CoV-2 evolution cannot be overlooked. Recent studies confirm that natural selection is the dominating mechanism of SARS-CoV-2 evolution, which favors mutations that strengthen viral infectivity. Here, we demonstrate that vaccine-breakthrough or antibody-resistant mutations provide a new mechanism of viral evolution. Specifically, vaccine-resistant mutation Y449S in the spike (S) protein receptor-binding domain, which occurred in co-mutations Y449S and N501Y, has reduced infectivity compared to that of the original SARS-CoV-2 but can disrupt existing antibodies that neutralize the virus. By tracking the evolutionary trajectories of vaccine-resistant mutations in more than 2.2 million SARS-CoV-2 genomes, we reveal that the occurrence and frequency of vaccine-resistant mutations correlate strongly with the vaccination rates in Europe and America. We anticipate that as a complementary transmission pathway, vaccine-breakthrough or antibody-resistant mutations, like those in Omicron, will become a dominating mechanism of SARS-CoV-2 evolution when most of the world’s population is either vaccinated or infected. Our study sheds light on SARS-CoV-2 evolution and transmission and enables the design of the next-generation mutation-proof vaccines and antibody drugs.",
+        "cn": "瞭解新冠進化的重要性是不容忽視的。最近的研究證實，自然選擇是新冠進化的主導機制，它傾向於加強病毒感染性的突變。在這裡，我們證明疫苗突破或抗體抗性突變提供了一種新的病毒進化機制。具體來說，發生在刺突蛋白受體結合域的抗疫苗突變Y449S和N501Y的共同突變，與原始SARS-CoV-2相比，感染性降低，但可以破壞現有的中和病毒的抗體。通過追蹤220多萬個SARS-CoV-2基因組中疫苗抗性突變的進化軌跡，我們發現，疫苗抗性突變的發生和頻率與歐洲和美國的疫苗接種率密切相關。我們預計，作為一種額外的傳播途徑，疫苗突破或抗體抗性突變，如Omicron中的突變，當世界上大多數人口要麼接種疫苗，要麼被感染的時候，將成為SARS-CoV-2進化的主導機制。我們的研究揭示了SARS-CoV-2的進化和傳播，並提供了設計下一代防突變的疫苗和抗體藥物的可能性。"
+      },
+      "url": "https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03380",
       "date": "Dec 7, 2021"
     },
     {
@@ -220,19 +320,6 @@
       },
       "url": "https://brownstone.org/articles/79-research-studies-affirm-naturally-acquired-immunity-to-covid-19-documented-linked-and-quoted/",
       "date": "Dec 5, 2021"
-    },
-    {
-      "type": "treatment",
-      "title": {
-        "en": "You just tested positive for COVID-19. Here’s what to do next.",
-        "cn": "新冠病毒測試陽性後，你應該做的事情"
-      },
-      "abstract": {
-        "en": "In most cases, treatment for COVID-19 will be similar to how you would care for a common cold.",
-        "cn": "在大多數情況下，對COVID-19的治療方式和你對普通感冒的護理方式類似。"
-      },
-      "url": "https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122",
-      "date": "Dec 23, 2021"
     },
     {
       "type": "adverse effect",
@@ -259,15 +346,6 @@
       },
       "url": "https://www.zerohedge.com/political/uk-health-authority-slammed-watchdog-misleading-claim-unvaxxd-have-32-times-risk-covid",
       "date": "Nov 28, 2021"
-    },
-    {
-      "type": "news",
-      "title": {
-        "en": "COVID Antiviral Pills Cause Life-Threatening Reactions When Used With Many Common Meds: FDA",
-        "cn": "美國食品和藥物管理局：COVID抗病毒藥與許多普通藥物一起使用會引起威脅生命的反應。"
-      },
-      "url": "https://www.zerohedge.com/covid-19/covid-antiviral-pills-cause-life-threatening-reactions-when-used-many-common-meds-fda",
-      "date": "Dec 31, 2021"
     },
     {
       "type": "adverse effect",
@@ -329,19 +407,6 @@
       },
       "url": "https://www.smh.com.au/politics/federal/more-than-10-000-australians-have-filed-coronavirus-vaccine-injury-claims-20211115-p598yy.html",
       "date": "Nov 16, 2021"
-    },
-    {
-      "type": "news",
-      "title": {
-        "en": "Catching Omicron may boost immunity against Delta variant, new study finds",
-        "cn": "新研究發現，感染新冠變種Omicron可能會提高對Delta變種的免疫力"
-      },
-      "abstract": {
-        "en": "The study, which has not been peer-reviewed, found that people who were infected with Omicron developed enhanced immunity to the Delta variant - especially those who were vaccinated.",
-        "cn": "這項未經同行評議的研究發現，感染Omicron的人對Delta變體產生了增強的免疫力--尤其是那些接種過疫苗的人。"
-      },
-      "url": "https://7news.com.au/lifestyle/health-wellbeing/catching-omicron-may-boost-immunity-against-delta-variant-new-study-finds-c-5110324",
-      "date": "Dec 28, 2021"
     },
     {
       "type": "adverse effect",
@@ -591,6 +656,19 @@
       },
       "url": "https://dailyexpose.uk/2021/09/05/latest-phe-report-reveals-the-vaccinated-account-for-70-percent-of-covid-19-deaths-since-february/",
       "date": "Sep 5, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Evidence mounts that people with breakthrough infections can spread Delta easily",
+        "cn": "越來越多的證據表明，患有突破性感染的人可以輕易地傳播Delta變種"
+      },
+      "abstract": {
+        "en": "A new study finds that this dominant variant can grow in the noses of vaccinated people as strongly as in unvaccinated people.",
+        "cn": "一項新的研究發現，新冠顯性變種可以在接種疫苗的人的鼻子里生長，與未接種疫苗的人一樣迅速。"
+      },
+      "url": "https://www.nationalgeographic.com/science/article/evidence-mounts-that-people-with-breakthrough-infections-can-spread-delta-easily",
+      "date": "Aug 21, 2021"
     },
     {
       "type": "information",

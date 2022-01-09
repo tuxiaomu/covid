@@ -38,6 +38,19 @@ As they arrived at the hospital, the doctors told them that the player had alrea
 [Back to Category](#category)
 
 ---
+__Acute autoimmune transverse myelitis following COVID-19 vaccination: A case report__
+
+Dec 23, 2021
+
+_Abstract_
+
+This is a rare case of transverse myelitis following COVID-19 vaccination. Positive OCB in CSF in the present case highlights the possibility of autoimmune processes, including polyclonal activation of B lymphocytes, following vaccination.
+
+[https://pubmed.ncbi.nlm.nih.gov/34941191/](https://pubmed.ncbi.nlm.nih.gov/34941191/)
+
+[Back to Category](#category)
+
+---
 __Fifth student dies after receiving Pfizer vaccine shot in Vietnam__
 
 Dec 14, 2021
@@ -303,6 +316,34 @@ Jun 8, 2021
 ---
 ## NEWS
 
+__COVID-19 victim in his 20s identified as NSW government considers new restrictions__
+
+Jan 7, 2022
+
+_Abstract_
+
+A double vaccinated and otherwise healthy 23-year-old man who died at Sydney's St Vincent's Hospital from COVID yesterday has been identified.
+
+[https://7news.com.au/sunrise/on-the-show/covid-victim-aged-in-his-20s-identified-as-nsw-government-consdiers-new-restrictions-c-5212337](https://7news.com.au/sunrise/on-the-show/covid-victim-aged-in-his-20s-identified-as-nsw-government-consdiers-new-restrictions-c-5212337)
+
+[Back to Category](#category)
+
+---
+__New data finds NSW COVID patients admitted for other reasons__
+
+Jan 3, 2022
+
+_Abstract_
+
+New data shows a significant proportion of COVID patients in New South Wales are being admitted to hospital for reasons unrelated to the virus.
+That includes bowel obstructions, broken bones, mental health issues and women giving birth.
+The data – taken over two days – found 50 percent of COVID patients were hospitalised for other reasons on day one and almost 40 percent on day two.
+
+[https://www.skynews.com.au/australia-news/coronavirus/new-data-finds-nsw-covid-patients-admitted-for-other-reasons/video/a9413a34124c93db01e1c7b6c374ddca](https://www.skynews.com.au/australia-news/coronavirus/new-data-finds-nsw-covid-patients-admitted-for-other-reasons/video/a9413a34124c93db01e1c7b6c374ddca)
+
+[Back to Category](#category)
+
+---
 __COVID Antiviral Pills Cause Life-Threatening Reactions When Used With Many Common Meds: FDA__
 
 Dec 31, 2021
@@ -459,8 +500,34 @@ Instead, thousands of readers reported of loved ones who died after vaccination 
 [Back to Category](#category)
 
 ---
+__Evidence mounts that people with breakthrough infections can spread Delta easily__
+
+Aug 21, 2021
+
+_Abstract_
+
+A new study finds that this dominant variant can grow in the noses of vaccinated people as strongly as in unvaccinated people.
+
+[https://www.nationalgeographic.com/science/article/evidence-mounts-that-people-with-breakthrough-infections-can-spread-delta-easily](https://www.nationalgeographic.com/science/article/evidence-mounts-that-people-with-breakthrough-infections-can-spread-delta-easily)
+
+[Back to Category](#category)
+
+---
 ## PAPER
 
+__SARS-CoV-2 Omicron VOC Transmission in Danish Households__
+
+Dec 27, 2021
+
+_Abstract_
+
+A Danish study of nearly 12,000 households has discovered that Omicron spreads faster than Delta among those who are fully vaccinated, and even higher between those who have received booster shots, demonstrating strong evidence of the variant’s immune evasiveness.
+
+[https://www.medrxiv.org/content/10.1101/2021.12.27.21268278v1](https://www.medrxiv.org/content/10.1101/2021.12.27.21268278v1)
+
+[Back to Category](#category)
+
+---
 __SARS-CoV-2 vaccination and myocarditis or myopericarditis: population based cohort study__
 
 Dec 16, 2021
@@ -682,6 +749,19 @@ While the Australian Government strongly supports immunisation, it is not compul
 ---
 ## TREATMENT
 
+__Population-wide Observational Study in Brazil: Prophylactic Use of Ivermectin Reduces COVID-19 Mortality, Hospitalization & Infection__
+
+Jan 6, 2022
+
+_Abstract_
+
+Dr. Kerr and colleagues report that based on their data, the large, propensity-matched study verifies that regular use of ivermectin as a prophylactic agent was associated with a significant reduction in COVID-19 infection, hospitalization, and mortality rates.
+
+[https://trialsitenews.com/population-wide-observational-study-in-brazil-prophylactic-use-of-ivermectin-reduces-covid-19-mortality-hospitalization-infection/](https://trialsitenews.com/population-wide-observational-study-in-brazil-prophylactic-use-of-ivermectin-reduces-covid-19-mortality-hospitalization-infection/)
+
+[Back to Category](#category)
+
+---
 __You just tested positive for COVID-19. Here’s what to do next.__
 
 Dec 23, 2021
@@ -776,6 +856,19 @@ _摘要_
 当他们到达医院时，医生告诉他们，这名球员已经去世了，当时什么也做不了，死亡原因随后被发现是心脏骤停。
 
 [https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training](https://thestreetjournal.org/egyptian-keeper-ahmed-amin-dies-in-training)
+
+[回到分類](#category)
+
+---
+__接種COVID-19疫苗後的急性自身免疫性橫紋肌炎：一個案例報告__
+
+Dec 23, 2021
+
+_摘要_
+
+這是一個接種COVID-19疫苗後發生橫紋肌炎的罕見病例。本病例CSF中OCB陽性，強調了接種疫苗後出現自身免疫過程的可能性，包括B淋巴細胞的多克隆激活。
+
+[https://pubmed.ncbi.nlm.nih.gov/34941191/](https://pubmed.ncbi.nlm.nih.gov/34941191/)
 
 [回到分類](#category)
 
@@ -1040,6 +1133,34 @@ Jun 8, 2021
 ---
 ## 新聞
 
+__新南威爾士州政府考慮採取新的限制措施，確認20多歲的COVID-19受害者身份__
+
+Jan 7, 2022
+
+_摘要_
+
+一名雙針接種且其他方面健康無疾的23歲男子昨天在悉尼聖文森特醫院死於COVID，身份已被確認。
+
+[https://7news.com.au/sunrise/on-the-show/covid-victim-aged-in-his-20s-identified-as-nsw-government-consdiers-new-restrictions-c-5212337](https://7news.com.au/sunrise/on-the-show/covid-victim-aged-in-his-20s-identified-as-nsw-government-consdiers-new-restrictions-c-5212337)
+
+[回到分類](#category)
+
+---
+__新數據表示，新州COVID患者因其他原因入院而非COVID__
+
+Jan 3, 2022
+
+_摘要_
+
+新數據顯示，新南威爾士州有相當一部分COVID患者因與病毒無關的原因被送進醫院。
+這包括腸梗阻、骨折、精神健康問題和婦女分娩。
+兩天來的數據顯示，50%的COVID患者在第一天因其他原因住院，而在第二天則有近40%。
+
+[https://www.skynews.com.au/australia-news/coronavirus/new-data-finds-nsw-covid-patients-admitted-for-other-reasons/video/a9413a34124c93db01e1c7b6c374ddca](https://www.skynews.com.au/australia-news/coronavirus/new-data-finds-nsw-covid-patients-admitted-for-other-reasons/video/a9413a34124c93db01e1c7b6c374ddca)
+
+[回到分類](#category)
+
+---
 __美國食品和藥物管理局：COVID抗病毒藥與許多普通藥物一起使用會引起威脅生命的反應。__
 
 Dec 31, 2021
@@ -1196,8 +1317,34 @@ _摘要_
 [回到分類](#category)
 
 ---
+__越來越多的證據表明，患有突破性感染的人可以輕易地傳播Delta變種__
+
+Aug 21, 2021
+
+_摘要_
+
+一項新的研究發現，新冠顯性變種可以在接種疫苗的人的鼻子里生長，與未接種疫苗的人一樣迅速。
+
+[https://www.nationalgeographic.com/science/article/evidence-mounts-that-people-with-breakthrough-infections-can-spread-delta-easily](https://www.nationalgeographic.com/science/article/evidence-mounts-that-people-with-breakthrough-infections-can-spread-delta-easily)
+
+[回到分類](#category)
+
+---
 ## 文獻
 
+__丹麥家庭中的SARS-CoV-2傳播__
+
+Dec 27, 2021
+
+_摘要_
+
+丹麥對近12,000個家庭的研究發現，在完全接種疫苗的人中，Omicron的傳播速度比Delta快，在接受過強化注射的人中甚至更高，顯示了Omicron變種免疫逃避性的有力證據。
+
+[https://www.medrxiv.org/content/10.1101/2021.12.27.21268278v1](https://www.medrxiv.org/content/10.1101/2021.12.27.21268278v1)
+
+[回到分類](#category)
+
+---
 __SARS-CoV-2疫苗接種與心肌炎或心包炎：基於人群的隊列研究__
 
 Dec 16, 2021
@@ -1415,6 +1562,19 @@ _摘要_
 ---
 ## 治療
 
+__在巴西進行的全人口觀察研究：預防性使用伊維菌素可降低COVID-19的死亡率、住院率和感染率__
+
+Jan 6, 2022
+
+_摘要_
+
+根據Kerr博士及其同事報告數據，這項大型的傾向性匹配研究驗證了定期使用伊維菌素作為預防藥物與COVID-19感染、住院和死亡率的顯著降低有關。
+
+[https://trialsitenews.com/population-wide-observational-study-in-brazil-prophylactic-use-of-ivermectin-reduces-covid-19-mortality-hospitalization-infection/](https://trialsitenews.com/population-wide-observational-study-in-brazil-prophylactic-use-of-ivermectin-reduces-covid-19-mortality-hospitalization-infection/)
+
+[回到分類](#category)
+
+---
 __新冠病毒測試陽性後，你應該做的事情__
 
 Dec 23, 2021
