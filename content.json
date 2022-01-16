@@ -31,6 +31,97 @@
     {
       "type": "news",
       "title": {
+        "en": "Mum's heartbreaking tribute after model, 18, tragically dies with Covid",
+        "cn": "18歲的模特兒感染新冠死亡後，其母親發出了令人心碎的悼念。"
+      },
+      "abstract": {
+        "en": "According to Marcia, the teen was previously healthy and had been administered both doses of the Pfizer Covid-19 vaccine.",
+        "cn": "據馬西婭說，這名青少年以前很健康，而且已經注射了兩劑輝瑞公司的Covid-19疫苗。"
+      },
+      "url": "https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html",
+      "date": "Jan 15, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Ch10 presenter, Natasha Exelby shares struggles with Covid despite being triple-vaxxed",
+        "cn": "Ch10主持人Natasha Exelby分享了與Covid的鬥爭，儘管她已經打了三針疫苗"
+      },
+      "abstract": {
+        "en": "\"I was officially diagnosed on Monday, had my test on Saturday and have pretty much been in hibernation and a lot of pain ever since,\"she said.\n\"Iso hasn’t been a problem for me because getting from my bedroom to the bathroom has felt like a decathlon. Yesterday was the first day I’ve stayed awake for more than five hours.\"",
+        "cn": "她說：\"我是在星期一被正式診斷確診的，星期六做了檢查，從那時起，我幾乎一直處於冬眠狀態，並有很多痛苦。\n\"隔離對我來說不是一個問題，因為從我的臥室到浴室感覺像是在做十項全能。昨天是我第一天保持清醒超過五個小時\"。"
+      },
+      "url": "https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e",
+      "date": "Jan 15, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "‘We failed’: Danish newspaper apologises for not questioning government Covid-19 numbers",
+        "cn": "'我們失敗了'。丹麥報紙為沒有質疑政府的Covid-19數字而道歉"
+      },
+      "abstract": {
+        "en": "A Danish newspaper has apologised to its readers for not being critical enough in its reporting of government coronavirus case numbers.\n…\n\"They come into hospital, they have a swab taken and it confirms Covid. This shows us it’s out in the community, but we aren’t necessarily seeing that as the primary reason for all of the admissions.\"",
+        "cn": "一家丹麥報紙已經向其讀者道歉，因為它在報道政府冠狀病毒病例數時不夠嚴謹。\n…\n\"他們來到醫院，他們進行了綿籤測試，證實了Covid。這表示了病毒在社區的存在，但不一定是所有入院的主因。\""
+      },
+      "url": "https://www.news.com.au/finance/business/media/we-failed-danish-newspaper-apologises-for-not-questioning-government-covid19-numbers/news-story/5f360ab5764cf9bcfb0d8edae7160658",
+      "date": "Jan 14, 2022"
+    },
+    {
+      "type": "adverse effect",
+      "title": {
+        "en": "Bayern Munich says Canadian star Alphonso Davies has heart muscle issue after COVID bout",
+        "cn": "拜仁慕尼黑稱加拿大球星阿方索-戴維斯在COVID感染後出現心肌問題"
+      },
+      "abstract": {
+        "en": "MUNICH - Alphonso Davies' return from a bout of COVID-19 has been put on hold with Bayern Munich saying the Canadian star shows signs of an inflammation of the heart muscle.\nCanada Soccer says the 21-year-old from Edmonton has been ruled out of Canada's three World Cup qualifiers in the FIFA international window that straddles January and February.\n(editor: A healthy and fully vaccinated 21-year-old soccer player got myocarditis after getting Covid, and the vaccine is designed to against the virus, it's either the vaccine doesn't work, or the vaccine caused myocarditis.)",
+        "cn": "慕尼黑--阿方索-戴維斯從COVID-19的陣痛中恢復過來的時間被擱置了，拜仁慕尼黑說這位加拿大球星有心肌炎症的跡象。\n加拿大足球協會表示，這位來自埃德蒙頓的21歲球員已經被排除在加拿大的三場世界杯預選賽之外，而國際足聯的國際窗口期橫跨一月和二月。（一個健康的21歲的運動員，完全接種疫苗，感染病毒後出現心肌問題，要麼是疫苗不管用，要麼是疫苗引發了心肌炎）"
+      },
+      "url": "https://www.cp24.com/sports/bayern-munich-says-canadian-star-alphonso-davies-has-heart-muscle-issue-after-covid-bout-1.5739927",
+      "date": "Jan 14, 2022"
+    },
+    {
+      "type": "information",
+      "title": {
+        "en": "Frequent Boosters Spur Warning on Immune Response",
+        "cn": "警告：頻繁的加強針破壞人體免疫反應"
+      },
+      "abstract": {
+        "en": "Repeat booster doses every four months could eventually weaken the immune response and tire out people, according to the European Medicines Agency.",
+        "cn": "歐洲藥品管理局表示，每四個月重復注射加強劑可能最終削弱免疫反應並使人疲憊不堪。"
+      },
+      "url": "https://www.bloomberg.com/news/articles/2022-01-11/repeat-booster-shots-risk-overloading-immune-system-ema-says",
+      "date": "Jan 12, 2022"
+    },
+    {
+      "type": "adverse effect",
+      "title": {
+        "en": "Laila's portrait photographer died suddenly from a vaccination, and she cried out in grief: Wasn't he coming to the wedding?",
+        "cn": "蕾菈寫真攝影師「打疫苗猝死」　她悲喊：不是要來婚禮嗎"
+      },
+      "abstract": {
+        "en": "YouTuber Lyla's outspoken and daring style has attracted many fans. She just posted a few days ago that her year 2022 has been incessantly bad, with three unfortunate incidents in a week. Yesterday she revealed in grief, that her photographer has passed away, the cause was related to vaccination.",
+        "cn": "YouTuber蕾菈（Lyla）直率大膽的作風，吸引不少粉絲喜愛，日前她才剛發文說自己2022年衰事不斷，一週內就遇到3起倒楣事件，沒想到昨（10）日她又悲痛表示，自己親近的攝影師突然離世，死因還和打疫苗有關，引發熱議。"
+      },
+      "url": "https://news.tvbs.com.tw/entertainment/1687325",
+      "date": "Jan 11, 2022"
+    },
+    {
+      "type": "adverse effect",
+      "title": {
+        "en": "Covid vaccination linked to small change in women’s menstrual cycles",
+        "cn": "Covid疫苗接種與女性月經週期的微小變化有關"
+      },
+      "abstract": {
+        "en": "Many women have suspected it but finally there’s confirmation that Covid-19 vaccines may cause some small changes to the length of their menstrual cycles.",
+        "cn": "許多婦女已經懷疑，但終於有了證實，Covid-19疫苗可能會導致她們的月經週期長度發生一些小變化。"
+      },
+      "url": "https://www.news.com.au/lifestyle/health/health-problems/covid-vaccination-linked-to-small-change-in-womens-menstrual-cycles/news-story/f963ab6f03924c95a2bc2a7c8313e07c",
+      "date": "Jan 8, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
         "en": "COVID-19 victim in his 20s identified as NSW government considers new restrictions",
         "cn": "新南威爾士州政府考慮採取新的限制措施，確認20多歲的COVID-19受害者身份"
       },
@@ -125,15 +216,6 @@
       "date": "Dec 24, 2021"
     },
     {
-      "type": "news",
-      "title": {
-        "en": "Israel Considers 4th Vaccine Dose, but Some Experts Say It's Premature",
-        "cn": "以色列考虑使用第四种疫苗，但一些专家认为时机尚不成熟"
-      },
-      "url": "https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html",
-      "date": "Dec 23, 2021"
-    },
-    {
       "type": "treatment",
       "title": {
         "en": "You just tested positive for COVID-19. Here’s what to do next.",
@@ -157,6 +239,15 @@
         "cn": "這是一個接種COVID-19疫苗後發生橫紋肌炎的罕見病例。本病例CSF中OCB陽性，強調了接種疫苗後出現自身免疫過程的可能性，包括B淋巴細胞的多克隆激活。"
       },
       "url": "https://pubmed.ncbi.nlm.nih.gov/34941191/",
+      "date": "Dec 23, 2021"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Israel Considers 4th Vaccine Dose, but Some Experts Say It's Premature",
+        "cn": "以色列考虑使用第四种疫苗，但一些专家认为时机尚不成熟"
+      },
+      "url": "https://www.nytimes.com/2021/12/23/world/middleeast/israel-vaccine-4th-dose.html",
       "date": "Dec 23, 2021"
     },
     {
@@ -195,15 +286,6 @@
       "date": "Dec 16, 2021"
     },
     {
-      "type": "adverse effect",
-      "title": {
-        "en": "Fifth student dies after receiving Pfizer vaccine shot in Vietnam",
-        "cn": "越南：第五個學生在接受輝瑞疫苗後死亡"
-      },
-      "url": "https://tienphongnews.com/fifth-student-dies-after-receiving-pfizer-vaccine-shot-in-vietnam-251315.html",
-      "date": "Dec 14, 2021"
-    },
-    {
       "type": "news",
       "title": {
         "en": "Two-dose vaccines don't induce enough antibodies against omicron: research",
@@ -227,6 +309,15 @@
         "cn": "我們發現，在接種後1-28天內，以及在SARS-CoV-2陽性試驗後，與第一劑ChAdOx1和BNT162b2疫苗以及第一和第二劑mRNA-1273疫苗相關的心肌炎風險增加。"
       },
       "url": "https://www.nature.com/articles/s41591-021-01630-0",
+      "date": "Dec 14, 2021"
+    },
+    {
+      "type": "adverse effect",
+      "title": {
+        "en": "Fifth student dies after receiving Pfizer vaccine shot in Vietnam",
+        "cn": "越南：第五個學生在接受輝瑞疫苗後死亡"
+      },
+      "url": "https://tienphongnews.com/fifth-student-dies-after-receiving-pfizer-vaccine-shot-in-vietnam-251315.html",
       "date": "Dec 14, 2021"
     },
     {
@@ -546,6 +637,19 @@
         "cn": "感染新冠Delta變體時，接種疫苗組和未接種疫苗組、無症狀組和有症狀組之間的病毒量沒有明顯差異"
       },
       "url": "https://www.medrxiv.org/content/10.1101/2021.09.28.21264262v2",
+      "date": "Oct 5, 2021"
+    },
+    {
+      "type": "information",
+      "title": {
+        "en": "An Australian Engineer Speaks Out - The Many Mysteries of Covid",
+        "cn": "一位澳大利亞工程師說出了自己的看法--Covid的諸多神秘之處"
+      },
+      "abstract": {
+        "en": "In the process of getting to the bottom of the whole Covid/Vax thing I waded through more than 700 papers, videos, opinion pieces and articles. I talked to numerous medical professionals like nurses, doctors and paramedics, and I waded through data, LOTS OF IT. Perhaps most crucially, I did deep dives at the data behind the data that was bombarding us daily as gospel – which took a lot of digging. In the process I realised that very little, in fact almost nothing of significance that we were officially being told by the government or the MSM was remotely true. And not everyone that I talked to had the same story, so that led to more digging to get to the truth.",
+        "cn": "在查清Covid/Vax事件的過程中，我翻閱了700多篇論文、視頻、評論文章和文章。我與許多醫療專業人員，如護士、醫生和護理人員交談，並瀏覽了大量的數據。也許最關鍵的是，我深入研究了那些作為福音每天轟炸我們的數據背後的數據--這需要大量的挖掘工作。在這個過程中，我意識到，政府或主流媒體告訴我們的很少，事實上幾乎沒有任何重要的事情是真的。而且不是每個與我交談的人都有相同的故事，所以這導致了更多的挖掘以瞭解真相。"
+      },
+      "url": "https://cmnnews.org/story/an-australian-engineer-speaks-out-the-many-mysteries-of-covid-fcaOmOQ1CLVZ23UMltlDZ",
       "date": "Oct 5, 2021"
     },
     {

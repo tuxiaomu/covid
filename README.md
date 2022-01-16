@@ -25,6 +25,47 @@ This is a summary of press reports regarding Covid and its vaccines, that have n
 ---
 ## ADVERSE EFFECT
 
+__Bayern Munich says Canadian star Alphonso Davies has heart muscle issue after COVID bout__
+
+Jan 14, 2022
+
+_Abstract_
+
+MUNICH - Alphonso Davies' return from a bout of COVID-19 has been put on hold with Bayern Munich saying the Canadian star shows signs of an inflammation of the heart muscle.
+Canada Soccer says the 21-year-old from Edmonton has been ruled out of Canada's three World Cup qualifiers in the FIFA international window that straddles January and February.
+(editor: A healthy and fully vaccinated 21-year-old soccer player got myocarditis after getting Covid, and the vaccine is designed to against the virus, it's either the vaccine doesn't work, or the vaccine caused myocarditis.)
+
+[https://www.cp24.com/sports/bayern-munich-says-canadian-star-alphonso-davies-has-heart-muscle-issue-after-covid-bout-1.5739927](https://www.cp24.com/sports/bayern-munich-says-canadian-star-alphonso-davies-has-heart-muscle-issue-after-covid-bout-1.5739927)
+
+[Back to Category](#category)
+
+---
+__Laila's portrait photographer died suddenly from a vaccination, and she cried out in grief: Wasn't he coming to the wedding?__
+
+Jan 11, 2022
+
+_Abstract_
+
+YouTuber Lyla's outspoken and daring style has attracted many fans. She just posted a few days ago that her year 2022 has been incessantly bad, with three unfortunate incidents in a week. Yesterday she revealed in grief, that her photographer has passed away, the cause was related to vaccination.
+
+[https://news.tvbs.com.tw/entertainment/1687325](https://news.tvbs.com.tw/entertainment/1687325)
+
+[Back to Category](#category)
+
+---
+__Covid vaccination linked to small change in women’s menstrual cycles__
+
+Jan 8, 2022
+
+_Abstract_
+
+Many women have suspected it but finally there’s confirmation that Covid-19 vaccines may cause some small changes to the length of their menstrual cycles.
+
+[https://www.news.com.au/lifestyle/health/health-problems/covid-vaccination-linked-to-small-change-in-womens-menstrual-cycles/news-story/f963ab6f03924c95a2bc2a7c8313e07c](https://www.news.com.au/lifestyle/health/health-problems/covid-vaccination-linked-to-small-change-in-womens-menstrual-cycles/news-story/f963ab6f03924c95a2bc2a7c8313e07c)
+
+[Back to Category](#category)
+
+---
 __Egyptian keeper, Ahmed Amin dies in training__
 
 Dec 24, 2021
@@ -274,6 +315,19 @@ The news last week that two COVID-19 vaccines had proved to be 95% efficacious i
 ---
 ## INFORMATION
 
+__Frequent Boosters Spur Warning on Immune Response__
+
+Jan 12, 2022
+
+_Abstract_
+
+Repeat booster doses every four months could eventually weaken the immune response and tire out people, according to the European Medicines Agency.
+
+[https://www.bloomberg.com/news/articles/2022-01-11/repeat-booster-shots-risk-overloading-immune-system-ema-says](https://www.bloomberg.com/news/articles/2022-01-11/repeat-booster-shots-risk-overloading-immune-system-ema-says)
+
+[Back to Category](#category)
+
+---
 __MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule__
 
 Dec 21, 2021
@@ -292,6 +346,19 @@ _Abstract_
 We conclude that whatever value vaccines may have in reducing hospitalization and mortality, they do not ‘work’ with the thoroughness government leaders claim,1 and certainly not to the degree that mandatory enforcement or vaccine passports could ever be justified in Canada as a reasonable limitation upon individual rights to bodily autonomy and Charter freedoms.
 
 [https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/](https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/)
+
+[Back to Category](#category)
+
+---
+__An Australian Engineer Speaks Out - The Many Mysteries of Covid__
+
+Oct 5, 2021
+
+_Abstract_
+
+In the process of getting to the bottom of the whole Covid/Vax thing I waded through more than 700 papers, videos, opinion pieces and articles. I talked to numerous medical professionals like nurses, doctors and paramedics, and I waded through data, LOTS OF IT. Perhaps most crucially, I did deep dives at the data behind the data that was bombarding us daily as gospel – which took a lot of digging. In the process I realised that very little, in fact almost nothing of significance that we were officially being told by the government or the MSM was remotely true. And not everyone that I talked to had the same story, so that led to more digging to get to the truth.
+
+[https://cmnnews.org/story/an-australian-engineer-speaks-out-the-many-mysteries-of-covid-fcaOmOQ1CLVZ23UMltlDZ](https://cmnnews.org/story/an-australian-engineer-speaks-out-the-many-mysteries-of-covid-fcaOmOQ1CLVZ23UMltlDZ)
 
 [Back to Category](#category)
 
@@ -316,6 +383,48 @@ Jun 8, 2021
 ---
 ## NEWS
 
+__Mum's heartbreaking tribute after model, 18, tragically dies with Covid__
+
+Jan 15, 2022
+
+_Abstract_
+
+According to Marcia, the teen was previously healthy and had been administered both doses of the Pfizer Covid-19 vaccine.
+
+[https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html](https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html)
+
+[Back to Category](#category)
+
+---
+__Ch10 presenter, Natasha Exelby shares struggles with Covid despite being triple-vaxxed__
+
+Jan 15, 2022
+
+_Abstract_
+
+"I was officially diagnosed on Monday, had my test on Saturday and have pretty much been in hibernation and a lot of pain ever since,"she said.
+"Iso hasn’t been a problem for me because getting from my bedroom to the bathroom has felt like a decathlon. Yesterday was the first day I’ve stayed awake for more than five hours."
+
+[https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e](https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e)
+
+[Back to Category](#category)
+
+---
+__‘We failed’: Danish newspaper apologises for not questioning government Covid-19 numbers__
+
+Jan 14, 2022
+
+_Abstract_
+
+A Danish newspaper has apologised to its readers for not being critical enough in its reporting of government coronavirus case numbers.
+…
+"They come into hospital, they have a swab taken and it confirms Covid. This shows us it’s out in the community, but we aren’t necessarily seeing that as the primary reason for all of the admissions."
+
+[https://www.news.com.au/finance/business/media/we-failed-danish-newspaper-apologises-for-not-questioning-government-covid19-numbers/news-story/5f360ab5764cf9bcfb0d8edae7160658](https://www.news.com.au/finance/business/media/we-failed-danish-newspaper-apologises-for-not-questioning-government-covid19-numbers/news-story/5f360ab5764cf9bcfb0d8edae7160658)
+
+[Back to Category](#category)
+
+---
 __COVID-19 victim in his 20s identified as NSW government considers new restrictions__
 
 Jan 7, 2022
@@ -847,6 +956,46 @@ Effective and affordable treatments for patients suffering from coronavirus dise
 ---
 ## 副作用
 
+__拜仁慕尼黑稱加拿大球星阿方索-戴維斯在COVID感染後出現心肌問題__
+
+Jan 14, 2022
+
+_摘要_
+
+慕尼黑--阿方索-戴維斯從COVID-19的陣痛中恢復過來的時間被擱置了，拜仁慕尼黑說這位加拿大球星有心肌炎症的跡象。
+加拿大足球協會表示，這位來自埃德蒙頓的21歲球員已經被排除在加拿大的三場世界杯預選賽之外，而國際足聯的國際窗口期橫跨一月和二月。（一個健康的21歲的運動員，完全接種疫苗，感染病毒後出現心肌問題，要麼是疫苗不管用，要麼是疫苗引發了心肌炎）
+
+[https://www.cp24.com/sports/bayern-munich-says-canadian-star-alphonso-davies-has-heart-muscle-issue-after-covid-bout-1.5739927](https://www.cp24.com/sports/bayern-munich-says-canadian-star-alphonso-davies-has-heart-muscle-issue-after-covid-bout-1.5739927)
+
+[回到分類](#category)
+
+---
+__蕾菈寫真攝影師「打疫苗猝死」　她悲喊：不是要來婚禮嗎__
+
+Jan 11, 2022
+
+_摘要_
+
+YouTuber蕾菈（Lyla）直率大膽的作風，吸引不少粉絲喜愛，日前她才剛發文說自己2022年衰事不斷，一週內就遇到3起倒楣事件，沒想到昨（10）日她又悲痛表示，自己親近的攝影師突然離世，死因還和打疫苗有關，引發熱議。
+
+[https://news.tvbs.com.tw/entertainment/1687325](https://news.tvbs.com.tw/entertainment/1687325)
+
+[回到分類](#category)
+
+---
+__Covid疫苗接種與女性月經週期的微小變化有關__
+
+Jan 8, 2022
+
+_摘要_
+
+許多婦女已經懷疑，但終於有了證實，Covid-19疫苗可能會導致她們的月經週期長度發生一些小變化。
+
+[https://www.news.com.au/lifestyle/health/health-problems/covid-vaccination-linked-to-small-change-in-womens-menstrual-cycles/news-story/f963ab6f03924c95a2bc2a7c8313e07c](https://www.news.com.au/lifestyle/health/health-problems/covid-vaccination-linked-to-small-change-in-womens-menstrual-cycles/news-story/f963ab6f03924c95a2bc2a7c8313e07c)
+
+[回到分類](#category)
+
+---
 __埃及守門員艾哈邁德-阿明在訓練中死亡__
 
 Dec 24, 2021
@@ -1091,6 +1240,19 @@ _摘要_
 ---
 ## 信息
 
+__警告：頻繁的加強針破壞人體免疫反應__
+
+Jan 12, 2022
+
+_摘要_
+
+歐洲藥品管理局表示，每四個月重復注射加強劑可能最終削弱免疫反應並使人疲憊不堪。
+
+[https://www.bloomberg.com/news/articles/2022-01-11/repeat-booster-shots-risk-overloading-immune-system-ema-says](https://www.bloomberg.com/news/articles/2022-01-11/repeat-booster-shots-risk-overloading-immune-system-ema-says)
+
+[回到分類](#category)
+
+---
 __在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表__
 
 Dec 21, 2021
@@ -1109,6 +1271,19 @@ _摘要_
 我们的结论是，无论疫苗在降低住院率和死亡率方面有什么价值，它们都不会像政府领导人所说的那样彻底"起作用"；在加拿大，强制执行或疫苗护照作为对个人身体自主权和宪章自由的合理限制也是不成立的。
 
 [https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/](https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/)
+
+[回到分類](#category)
+
+---
+__一位澳大利亞工程師說出了自己的看法--Covid的諸多神秘之處__
+
+Oct 5, 2021
+
+_摘要_
+
+在查清Covid/Vax事件的過程中，我翻閱了700多篇論文、視頻、評論文章和文章。我與許多醫療專業人員，如護士、醫生和護理人員交談，並瀏覽了大量的數據。也許最關鍵的是，我深入研究了那些作為福音每天轟炸我們的數據背後的數據--這需要大量的挖掘工作。在這個過程中，我意識到，政府或主流媒體告訴我們的很少，事實上幾乎沒有任何重要的事情是真的。而且不是每個與我交談的人都有相同的故事，所以這導致了更多的挖掘以瞭解真相。
+
+[https://cmnnews.org/story/an-australian-engineer-speaks-out-the-many-mysteries-of-covid-fcaOmOQ1CLVZ23UMltlDZ](https://cmnnews.org/story/an-australian-engineer-speaks-out-the-many-mysteries-of-covid-fcaOmOQ1CLVZ23UMltlDZ)
 
 [回到分類](#category)
 
@@ -1133,6 +1308,48 @@ Jun 8, 2021
 ---
 ## 新聞
 
+__18歲的模特兒感染新冠死亡後，其母親發出了令人心碎的悼念。__
+
+Jan 15, 2022
+
+_摘要_
+
+據馬西婭說，這名青少年以前很健康，而且已經注射了兩劑輝瑞公司的Covid-19疫苗。
+
+[https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html](https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html)
+
+[回到分類](#category)
+
+---
+__Ch10主持人Natasha Exelby分享了與Covid的鬥爭，儘管她已經打了三針疫苗__
+
+Jan 15, 2022
+
+_摘要_
+
+她說："我是在星期一被正式診斷確診的，星期六做了檢查，從那時起，我幾乎一直處於冬眠狀態，並有很多痛苦。
+"隔離對我來說不是一個問題，因為從我的臥室到浴室感覺像是在做十項全能。昨天是我第一天保持清醒超過五個小時"。
+
+[https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e](https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e)
+
+[回到分類](#category)
+
+---
+__'我們失敗了'。丹麥報紙為沒有質疑政府的Covid-19數字而道歉__
+
+Jan 14, 2022
+
+_摘要_
+
+一家丹麥報紙已經向其讀者道歉，因為它在報道政府冠狀病毒病例數時不夠嚴謹。
+…
+"他們來到醫院，他們進行了綿籤測試，證實了Covid。這表示了病毒在社區的存在，但不一定是所有入院的主因。"
+
+[https://www.news.com.au/finance/business/media/we-failed-danish-newspaper-apologises-for-not-questioning-government-covid19-numbers/news-story/5f360ab5764cf9bcfb0d8edae7160658](https://www.news.com.au/finance/business/media/we-failed-danish-newspaper-apologises-for-not-questioning-government-covid19-numbers/news-story/5f360ab5764cf9bcfb0d8edae7160658)
+
+[回到分類](#category)
+
+---
 __新南威爾士州政府考慮採取新的限制措施，確認20多歲的COVID-19受害者身份__
 
 Jan 7, 2022
