@@ -44,6 +44,32 @@
     {
       "type": "news",
       "title": {
+        "en": "Sweden decides against recommending COVID vaccines for kids aged 5-11",
+        "cn": "瑞典决定不建议为5-11岁儿童接种COVID疫苗"
+      },
+      "abstract": {
+        "en": "Sweden has decided against recommending COVID vaccines for kids aged 5-11, the Health Agency said on Thursday, arguing that the benefits did not outweigh the risks.",
+        "cn": "瑞典卫生局周四表示，瑞典已决定不推荐为5-11岁的孩子接种COVID疫苗，认为疫苗风险超过其好处。"
+      },
+      "url": "https://www.reuters.com/world/europe/sweden-decides-against-recommending-covid-vaccines-kids-aged-5-12-2022-01-27/",
+      "date": "Jan 29, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Czech Republic Abolishes Plan To Mandate COVID-19 Vaccines",
+        "cn": "捷克共和国废除了强制使用COVID-19疫苗的计划"
+      },
+      "abstract": {
+        "en": "Under the former government, older adults, health care workers, firefighters, police officers and medical students would have been required to be vaccinated against COVID-19, effective March. But Prime Minister Petr Fiala scrapped his predecessor Andrej Babis’s decree, which was issued in early December. He told reporters Wednesday that his new center-right government did not see the need for mandatory vaccination.",
+        "cn": "根据前政府的规定，老年人、医护人员、消防员、警察和医科学生都必须接种COVID-19疫苗，3月起生效。但总理彼得-菲亚拉废除了他的前任安德烈-巴比斯在12月初发布的法令。他周三告诉记者，他的新中右翼政府认为没有必要进行强制接种。"
+      },
+      "url": "https://www.zerohedge.com/covid-19/czech-republic-abolishes-plan-mandate-covid-19-vaccines",
+      "date": "Jan 21, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
         "en": "Ch10 presenter, Natasha Exelby shares struggles with Covid despite being triple-vaxxed",
         "cn": "Ch10主持人Natasha Exelby分享了與Covid的鬥爭，儘管她已經打了三針疫苗"
       },
@@ -653,6 +679,19 @@
       "date": "Oct 5, 2021"
     },
     {
+      "type": "information",
+      "title": {
+        "en": "COVID Lab-Leak Whitewash Has Been 'The Death Of Science' Says Professor Who Found 'Unique Fingerprints'",
+        "cn": "发现“独特指纹”的教授说，COVID实验室泄密事件是“科学之死”"
+      },
+      "abstract": {
+        "en": "University of London professor Angus Dalgleish, who co-authored a paper in summer 2020 after spotting \"unique fingerprints\" in Covid-19 samples that point to genetic manipulation, says that he's been the victim of a \"disgusting whitewash,\" and that anyone suggesting a non-natural origin for Covid-19 has been silenced by peers.",
+        "cn": "伦敦大学教授安格斯-达尔格里什（Angus Dalgleish）在2020年夏天发现了Covid-19样本中的\"独特指纹\"，指向了基因操作，他说他是\"令人厌恶的粉饰\"的受害者，任何建议Covid-19的非自然来源的人都被同行压制。"
+      },
+      "url": "https://www.zerohedge.com/covid-19/covid-lab-leak-whitewash-has-been-death-science-says-professor-who-found-unique",
+      "date": "Jan 19, 2022"
+    },
+    {
       "type": "news",
       "title": {
         "en": "New UK Health Security Agency report proves without a shadow of a doubt that the Covid-19 Vaccines do not work and have negative effectiveness as low as MINUS 66%",
@@ -673,6 +712,19 @@
       },
       "url": "https://link.springer.com/article/10.1007%2Fs10654-021-00808-7",
       "date": "Sep 30, 2021"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "Worse Than the Disease? Reviewing Some Possible Unintended Consequences of the mRNA Vaccines Against COVID-19",
+        "cn": "比疾病更糟糕？回顾针对COVID-19的mRNA疫苗可能产生的一些意外后果"
+      },
+      "abstract": {
+        "en": "Speaking to Fox News host Laura Ingraham last week, Dr. Stephanie Seneff, a Senior Research Scientist at the MIT Computer Science and Artificial Intelligence Laboratory, discussed findings from her recent research paper. In her paper, Seneff described how vaccines induce toxic prion-like proteins that can trigger neurodegenerative diseases. “The CDC web site on prion diseases states that ‘prion diseases are usually rapidly progressive and always fatal,'” the paper states. “It is now believed that many neurodegenerative diseases, including Alzheimer’s, Parkinson’s disease, and amyotrophic lateral sclerosis (ALS) may be prion diseases, and researchers have identified specific proteinaceous infectious particles linked to these diseases.”, “The spike protein generated endogenously by the vaccine could also negatively impact the male testes,” the paper states, adding, “Several studies have now shown that the coronavirus spike protein is able to gain access to cells in the testes via the ACE2 receptor, and disrupt male reproduction.”",
+        "cn": "上周，麻省理工学院计算机科学和人工智能实验室的高级研究科学家Stephanie Seneff博士在接受福克斯新闻主持人Laura Ingraham的采访时，讨论了她最近研究论文的发现。在她的论文中，Seneff描述了疫苗如何诱发有毒的朊病毒样蛋白，从而引发神经退行性疾病。“CDC关于朊病毒疾病的网站指出，'朊病毒疾病通常是快速发展的，而且总是致命的'”，该论文指出。“现在认为许多神经退行性疾病，包括阿尔茨海默氏症、帕金森氏症和肌萎缩侧索硬化症（ALS）可能是朊病毒疾病，而且研究人员已经确定了与这些疾病有关的特定蛋白性感染颗粒。”，“疫苗内源性产生的穗状蛋白也可能对男性睾丸产生负面影响，”论文指出，“现在有几项研究表明，冠状病毒穗状蛋白能够通过ACE2受体进入睾丸的细胞，并破坏男性生殖。”"
+      },
+      "url": "https://dpbh.nv.gov/uploadedFiles/dpbhnvgov/content/Boards/BOH/Meetings/2021/SENEFF~1.PDF",
+      "date": "May 10, 2021"
     },
     {
       "type": "adverse effect",
@@ -764,6 +816,32 @@
     {
       "type": "news",
       "title": {
+        "en": "Fully vaxxed man aged in his 30s with no underlying health conditions dies after contracting COVID-19 in NSW",
+        "cn": "在新南威尔士州，30多岁完全接种疫苗且没有潜在健康问题的男子在感染COVID-19后死亡"
+      },
+      "abstract": {
+        "en": "NSW Health said the fully vaccinated man in his 30s was among the 30 COVID-related deaths recorded in the state on Tuesday.",
+        "cn": "新南威尔士州卫生部表示，这名30多岁的完全接种的男子是该州周二记录的30例COVID相关死亡病例之一。"
+      },
+      "url": "https://www.skynews.com.au/australia-news/coronavirus/fully-vaxxed-man-aged-in-his-30s-with-no-underlying-health-conditions-dies-after-contracting-covid19-in-nsw/news-story/29812b3db0f22514895d224b4d13ff8d",
+      "date": "Feb 1, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "States Investigating Surge In Mortality Rate Among 18–49-Year-Olds, Majority Unrelated To COVID-19",
+        "cn": "各州正在调查18-49岁年轻人死亡率的激增情况，其中大部分与COVID-19无关"
+      },
+      "abstract": {
+        "en": "Health departments in several states confirmed that they are looking into a steep surge in the mortality rate for people aged 18 to 49 in 2021—a majority of which are not linked to COVID-19…Deaths among people aged 18 to 49 increased more than 40 percent in the 12 months ending October 2021 compared to the same period in 2018–2019, before the pandemic",
+        "cn": "几个州的卫生部门证实，他们正在研究2021年18至49岁的人的死亡率急剧上升--其中大部分与COVID-19无关...在截至2021年10月的12个月中，18至49岁的人的死亡人数与大流行之前的2018-2019年同期相比，增加了40%以上。"
+      },
+      "url": "https://www.zerohedge.com/medical/states-investigating-surge-mortality-rate-among-18-49-year-olds-majority-unrelated-covid-19",
+      "date": "Jan 16, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
         "en": "Evidence mounts that people with breakthrough infections can spread Delta easily",
         "cn": "越來越多的證據表明，患有突破性感染的人可以輕易地傳播Delta變種"
       },
@@ -808,6 +886,19 @@
     {
       "type": "paper",
       "title": {
+        "en": "Innate Immune Suppression by SARS-CoV-2 mRNA Vaccinations: The role of G-quadruplexes, exosomes and microRNAs",
+        "cn": "SARS-CoV-2 mRNA疫苗的先天免疫抑制。G-四联体、外泌体和microRNAs的作用"
+      },
+      "abstract": {
+        "en": "However, both experimental and observational evidence reveals a very different immune response to the vaccines compared to the response to infection with SARS-CoV-2. As we will show, the genetic modifications introduced by the vaccine are likely the source of these differential responses. In this paper, we present the evidence that vaccination, unlike natural infection, induces a profound impairment in type I interferon signaling, which has diverse adverse consequences to human health.…These disturbances are shown to have a potentially direct causal link to neurodegenerative disease, myocarditis, immune thrombocytopenia, Bell’s palsy, liver disease, impaired adaptive immunity, increased tumorigenesis, and DNA damage. We show evidence from adverse event reports in the VAERS database supporting our hypothesis.",
+        "cn": "然而，实验和观察的证据显示，与感染SARS-CoV-2的反应相比，人体对疫苗的免疫反应非常不同。正如我们将展示的那样，疫苗所带有的基因修改可能是这些不同反应的来源。在本文中，我们提出的证据表明，与自然感染不同，疫苗接种会诱发I型干扰素信号的深度损害，这对人类健康有多种不利影响...这些干扰被证明与神经退行性疾病、心肌炎、免疫性血小板减少症、贝尔氏麻痹、肝病、适应性免疫受损、肿瘤生成增加和DNA损伤有潜在的直接因果关系。我们从VAERS数据库的不良事件报告中展示了支持我们假设的证据。"
+      },
+      "url": "https://www.researchgate.net/publication/357994624_Innate_Immune_Suppression_by_SARS-CoV-2_mRNA_Vaccinations_The_role_of_G-quadruplexes_exosomes_and_microRNAs",
+      "date": "Jan 31, 2022"
+    },
+    {
+      "type": "paper",
+      "title": {
         "en": "Robert Koch-Institut. Wöchentlicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19). AKTUALISIERTER STAND FÜR DEUTSCHLAND 22. Juli 2021.",
         "cn": "德國Robert Koch學院統計報告"
       },
@@ -832,6 +923,19 @@
       "date": "Jul 02, 2021"
     },
     {
+      "type": "adverse effect",
+      "title": {
+        "en": "Triple Vaccinated Olympic Athlete Speaks Out About Covid Vaccine Side Effects",
+        "cn": "三次接种疫苗的奥运选手直言不讳地讲述新冠疫苗的副作用"
+      },
+      "abstract": {
+        "en": "26-year-old Swiss sprinter and Olympic athlete, Sarah Atcho, was diagnosed with pericarditis five days after receiving a Pfizer booster shot, the Covid world reported. Sarah Atcho announced on her social media accounts on Monday that she was diagnosed with pericarditis (inflammation of the thin membrane surrounding the heart).Atcho previously received the Moderna vaccine. She decided to take the Pfizer vaccine for her booster after she was told that it was safer than Moderna.",
+        "cn": "据科维德世界报道，26岁的瑞士短跑运动员和奥运选手Sarah Atcho在接受辉瑞公司的加强针5天后被诊断为心包炎。Sarah Atcho周一在她的社交媒体账户上宣布，她被诊断为心包炎（心脏周围薄膜的炎症）。Atcho之前接受了Moderna疫苗。在她被告知辉瑞公司的疫苗比Moderna更安全后，她决定采取辉瑞公司的疫苗加强针。"
+      },
+      "url": "https://truthpress.news/news/triple-vaccinated-olympic-athlete-speaks-out-about-covid-vaccine-side-effects/",
+      "date": "Jan 18, 2022"
+    },
+    {
       "type": "information",
       "title": {
         "en": "How COVID-19 variants evade immune response",
@@ -839,6 +943,19 @@
       },
       "url": "https://www.nih.gov/news-events/nih-research-matters/how-covid-19-variants-evade-immune-response",
       "date": "Jun 8, 2021"
+    },
+    {
+      "type": "information",
+      "title": {
+        "en": "Instructions for the COVID-19 vaccination",
+        "cn": "日本厚生勞動省衛生部關於（輝瑞）疫苗的說明"
+      },
+      "abstract": {
+        "en": "1. mild cases of myocarditis and pericarditis have been reported after vaccination.\n2. This product contains an additive that has never been used in a vaccine before.",
+        "cn": "1. 接种疫苗后，曾有轻度心肌炎和心包炎的报告。\n2. 本产品含有一种以前从未在疫苗中使用过的添加剂。"
+      },
+      "url": "https://www.mhlw.go.jp/content/000759294.pdf",
+      "date": "Aug 31, 2021"
     },
     {
       "type": "treatment",

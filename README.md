@@ -25,6 +25,19 @@ This is a summary of press reports regarding Covid and its vaccines, that have n
 ---
 ## ADVERSE EFFECT
 
+__Triple Vaccinated Olympic Athlete Speaks Out About Covid Vaccine Side Effects__
+
+Jan 18, 2022
+
+_Abstract_
+
+26-year-old Swiss sprinter and Olympic athlete, Sarah Atcho, was diagnosed with pericarditis five days after receiving a Pfizer booster shot, the Covid world reported. Sarah Atcho announced on her social media accounts on Monday that she was diagnosed with pericarditis (inflammation of the thin membrane surrounding the heart).Atcho previously received the Moderna vaccine. She decided to take the Pfizer vaccine for her booster after she was told that it was safer than Moderna.
+
+[https://truthpress.news/news/triple-vaccinated-olympic-athlete-speaks-out-about-covid-vaccine-side-effects/](https://truthpress.news/news/triple-vaccinated-olympic-athlete-speaks-out-about-covid-vaccine-side-effects/)
+
+[Back to Category](#category)
+
+---
 __Bayern Munich says Canadian star Alphonso Davies has heart muscle issue after COVID bout__
 
 Jan 14, 2022
@@ -315,6 +328,19 @@ The news last week that two COVID-19 vaccines had proved to be 95% efficacious i
 ---
 ## INFORMATION
 
+__COVID Lab-Leak Whitewash Has Been 'The Death Of Science' Says Professor Who Found 'Unique Fingerprints'__
+
+Jan 19, 2022
+
+_Abstract_
+
+University of London professor Angus Dalgleish, who co-authored a paper in summer 2020 after spotting "unique fingerprints" in Covid-19 samples that point to genetic manipulation, says that he's been the victim of a "disgusting whitewash," and that anyone suggesting a non-natural origin for Covid-19 has been silenced by peers.
+
+[https://www.zerohedge.com/covid-19/covid-lab-leak-whitewash-has-been-death-science-says-professor-who-found-unique](https://www.zerohedge.com/covid-19/covid-lab-leak-whitewash-has-been-death-science-says-professor-who-found-unique)
+
+[Back to Category](#category)
+
+---
 __Frequent Boosters Spur Warning on Immune Response__
 
 Jan 12, 2022
@@ -324,15 +350,6 @@ _Abstract_
 Repeat booster doses every four months could eventually weaken the immune response and tire out people, according to the European Medicines Agency.
 
 [https://www.bloomberg.com/news/articles/2022-01-11/repeat-booster-shots-risk-overloading-immune-system-ema-says](https://www.bloomberg.com/news/articles/2022-01-11/repeat-booster-shots-risk-overloading-immune-system-ema-says)
-
-[Back to Category](#category)
-
----
-__MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule__
-
-Dec 21, 2021
-
-[https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9](https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9)
 
 [Back to Category](#category)
 
@@ -350,6 +367,15 @@ We conclude that whatever value vaccines may have in reducing hospitalization an
 [Back to Category](#category)
 
 ---
+__MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule__
+
+Dec 21, 2021
+
+[https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9](https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9)
+
+[Back to Category](#category)
+
+---
 __An Australian Engineer Speaks Out - The Many Mysteries of Covid__
 
 Oct 5, 2021
@@ -359,6 +385,20 @@ _Abstract_
 In the process of getting to the bottom of the whole Covid/Vax thing I waded through more than 700 papers, videos, opinion pieces and articles. I talked to numerous medical professionals like nurses, doctors and paramedics, and I waded through data, LOTS OF IT. Perhaps most crucially, I did deep dives at the data behind the data that was bombarding us daily as gospel – which took a lot of digging. In the process I realised that very little, in fact almost nothing of significance that we were officially being told by the government or the MSM was remotely true. And not everyone that I talked to had the same story, so that led to more digging to get to the truth.
 
 [https://cmnnews.org/story/an-australian-engineer-speaks-out-the-many-mysteries-of-covid-fcaOmOQ1CLVZ23UMltlDZ](https://cmnnews.org/story/an-australian-engineer-speaks-out-the-many-mysteries-of-covid-fcaOmOQ1CLVZ23UMltlDZ)
+
+[Back to Category](#category)
+
+---
+__Instructions for the COVID-19 vaccination__
+
+Aug 31, 2021
+
+_Abstract_
+
+1. mild cases of myocarditis and pericarditis have been reported after vaccination.
+2. This product contains an additive that has never been used in a vaccine before.
+
+[https://www.mhlw.go.jp/content/000759294.pdf](https://www.mhlw.go.jp/content/000759294.pdf)
 
 [Back to Category](#category)
 
@@ -383,15 +423,54 @@ Jun 8, 2021
 ---
 ## NEWS
 
-__Mum's heartbreaking tribute after model, 18, tragically dies with Covid__
+__Fully vaxxed man aged in his 30s with no underlying health conditions dies after contracting COVID-19 in NSW__
 
-Jan 15, 2022
+Feb 1, 2022
 
 _Abstract_
 
-According to Marcia, the teen was previously healthy and had been administered both doses of the Pfizer Covid-19 vaccine.
+NSW Health said the fully vaccinated man in his 30s was among the 30 COVID-related deaths recorded in the state on Tuesday.
 
-[https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html](https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html)
+[https://www.skynews.com.au/australia-news/coronavirus/fully-vaxxed-man-aged-in-his-30s-with-no-underlying-health-conditions-dies-after-contracting-covid19-in-nsw/news-story/29812b3db0f22514895d224b4d13ff8d](https://www.skynews.com.au/australia-news/coronavirus/fully-vaxxed-man-aged-in-his-30s-with-no-underlying-health-conditions-dies-after-contracting-covid19-in-nsw/news-story/29812b3db0f22514895d224b4d13ff8d)
+
+[Back to Category](#category)
+
+---
+__Sweden decides against recommending COVID vaccines for kids aged 5-11__
+
+Jan 29, 2022
+
+_Abstract_
+
+Sweden has decided against recommending COVID vaccines for kids aged 5-11, the Health Agency said on Thursday, arguing that the benefits did not outweigh the risks.
+
+[https://www.reuters.com/world/europe/sweden-decides-against-recommending-covid-vaccines-kids-aged-5-12-2022-01-27/](https://www.reuters.com/world/europe/sweden-decides-against-recommending-covid-vaccines-kids-aged-5-12-2022-01-27/)
+
+[Back to Category](#category)
+
+---
+__Czech Republic Abolishes Plan To Mandate COVID-19 Vaccines__
+
+Jan 21, 2022
+
+_Abstract_
+
+Under the former government, older adults, health care workers, firefighters, police officers and medical students would have been required to be vaccinated against COVID-19, effective March. But Prime Minister Petr Fiala scrapped his predecessor Andrej Babis’s decree, which was issued in early December. He told reporters Wednesday that his new center-right government did not see the need for mandatory vaccination.
+
+[https://www.zerohedge.com/covid-19/czech-republic-abolishes-plan-mandate-covid-19-vaccines](https://www.zerohedge.com/covid-19/czech-republic-abolishes-plan-mandate-covid-19-vaccines)
+
+[Back to Category](#category)
+
+---
+__States Investigating Surge In Mortality Rate Among 18–49-Year-Olds, Majority Unrelated To COVID-19__
+
+Jan 16, 2022
+
+_Abstract_
+
+Health departments in several states confirmed that they are looking into a steep surge in the mortality rate for people aged 18 to 49 in 2021—a majority of which are not linked to COVID-19…Deaths among people aged 18 to 49 increased more than 40 percent in the 12 months ending October 2021 compared to the same period in 2018–2019, before the pandemic
+
+[https://www.zerohedge.com/medical/states-investigating-surge-mortality-rate-among-18-49-year-olds-majority-unrelated-covid-19](https://www.zerohedge.com/medical/states-investigating-surge-mortality-rate-among-18-49-year-olds-majority-unrelated-covid-19)
 
 [Back to Category](#category)
 
@@ -406,6 +485,19 @@ _Abstract_
 "Iso hasn’t been a problem for me because getting from my bedroom to the bathroom has felt like a decathlon. Yesterday was the first day I’ve stayed awake for more than five hours."
 
 [https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e](https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e)
+
+[Back to Category](#category)
+
+---
+__Mum's heartbreaking tribute after model, 18, tragically dies with Covid__
+
+Jan 15, 2022
+
+_Abstract_
+
+According to Marcia, the teen was previously healthy and had been administered both doses of the Pfizer Covid-19 vaccine.
+
+[https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html](https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html)
 
 [Back to Category](#category)
 
@@ -624,6 +716,19 @@ A new study finds that this dominant variant can grow in the noses of vaccinated
 ---
 ## PAPER
 
+__Innate Immune Suppression by SARS-CoV-2 mRNA Vaccinations: The role of G-quadruplexes, exosomes and microRNAs__
+
+Jan 31, 2022
+
+_Abstract_
+
+However, both experimental and observational evidence reveals a very different immune response to the vaccines compared to the response to infection with SARS-CoV-2. As we will show, the genetic modifications introduced by the vaccine are likely the source of these differential responses. In this paper, we present the evidence that vaccination, unlike natural infection, induces a profound impairment in type I interferon signaling, which has diverse adverse consequences to human health.…These disturbances are shown to have a potentially direct causal link to neurodegenerative disease, myocarditis, immune thrombocytopenia, Bell’s palsy, liver disease, impaired adaptive immunity, increased tumorigenesis, and DNA damage. We show evidence from adverse event reports in the VAERS database supporting our hypothesis.
+
+[https://www.researchgate.net/publication/357994624_Innate_Immune_Suppression_by_SARS-CoV-2_mRNA_Vaccinations_The_role_of_G-quadruplexes_exosomes_and_microRNAs](https://www.researchgate.net/publication/357994624_Innate_Immune_Suppression_by_SARS-CoV-2_mRNA_Vaccinations_The_role_of_G-quadruplexes_exosomes_and_microRNAs)
+
+[Back to Category](#category)
+
+---
 __SARS-CoV-2 Omicron VOC Transmission in Danish Households__
 
 Dec 27, 2021
@@ -817,6 +922,19 @@ In Germany, the rate of symptomatic COVID-19 cases among the fully vaccinated (�
 [Back to Category](#category)
 
 ---
+__Worse Than the Disease? Reviewing Some Possible Unintended Consequences of the mRNA Vaccines Against COVID-19__
+
+May 10, 2021
+
+_Abstract_
+
+Speaking to Fox News host Laura Ingraham last week, Dr. Stephanie Seneff, a Senior Research Scientist at the MIT Computer Science and Artificial Intelligence Laboratory, discussed findings from her recent research paper. In her paper, Seneff described how vaccines induce toxic prion-like proteins that can trigger neurodegenerative diseases. “The CDC web site on prion diseases states that ‘prion diseases are usually rapidly progressive and always fatal,'” the paper states. “It is now believed that many neurodegenerative diseases, including Alzheimer’s, Parkinson’s disease, and amyotrophic lateral sclerosis (ALS) may be prion diseases, and researchers have identified specific proteinaceous infectious particles linked to these diseases.”, “The spike protein generated endogenously by the vaccine could also negatively impact the male testes,” the paper states, adding, “Several studies have now shown that the coronavirus spike protein is able to gain access to cells in the testes via the ACE2 receptor, and disrupt male reproduction.”
+
+[https://dpbh.nv.gov/uploadedFiles/dpbhnvgov/content/Boards/BOH/Meetings/2021/SENEFF~1.PDF](https://dpbh.nv.gov/uploadedFiles/dpbhnvgov/content/Boards/BOH/Meetings/2021/SENEFF~1.PDF)
+
+[Back to Category](#category)
+
+---
 __SARS-CoV-2 RNA reverse-transcribed and integrated into the human genome__
 
 Dec 13, 2020
@@ -956,6 +1074,19 @@ Effective and affordable treatments for patients suffering from coronavirus dise
 ---
 ## 副作用
 
+__三次接种疫苗的奥运选手直言不讳地讲述新冠疫苗的副作用__
+
+Jan 18, 2022
+
+_摘要_
+
+据科维德世界报道，26岁的瑞士短跑运动员和奥运选手Sarah Atcho在接受辉瑞公司的加强针5天后被诊断为心包炎。Sarah Atcho周一在她的社交媒体账户上宣布，她被诊断为心包炎（心脏周围薄膜的炎症）。Atcho之前接受了Moderna疫苗。在她被告知辉瑞公司的疫苗比Moderna更安全后，她决定采取辉瑞公司的疫苗加强针。
+
+[https://truthpress.news/news/triple-vaccinated-olympic-athlete-speaks-out-about-covid-vaccine-side-effects/](https://truthpress.news/news/triple-vaccinated-olympic-athlete-speaks-out-about-covid-vaccine-side-effects/)
+
+[回到分類](#category)
+
+---
 __拜仁慕尼黑稱加拿大球星阿方索-戴維斯在COVID感染後出現心肌問題__
 
 Jan 14, 2022
@@ -1240,6 +1371,19 @@ _摘要_
 ---
 ## 信息
 
+__发现“独特指纹”的教授说，COVID实验室泄密事件是“科学之死”__
+
+Jan 19, 2022
+
+_摘要_
+
+伦敦大学教授安格斯-达尔格里什（Angus Dalgleish）在2020年夏天发现了Covid-19样本中的"独特指纹"，指向了基因操作，他说他是"令人厌恶的粉饰"的受害者，任何建议Covid-19的非自然来源的人都被同行压制。
+
+[https://www.zerohedge.com/covid-19/covid-lab-leak-whitewash-has-been-death-science-says-professor-who-found-unique](https://www.zerohedge.com/covid-19/covid-lab-leak-whitewash-has-been-death-science-says-professor-who-found-unique)
+
+[回到分類](#category)
+
+---
 __警告：頻繁的加強針破壞人體免疫反應__
 
 Jan 12, 2022
@@ -1249,15 +1393,6 @@ _摘要_
 歐洲藥品管理局表示，每四個月重復注射加強劑可能最終削弱免疫反應並使人疲憊不堪。
 
 [https://www.bloomberg.com/news/articles/2022-01-11/repeat-booster-shots-risk-overloading-immune-system-ema-says](https://www.bloomberg.com/news/articles/2022-01-11/repeat-booster-shots-risk-overloading-immune-system-ema-says)
-
-[回到分類](#category)
-
----
-__在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表__
-
-Dec 21, 2021
-
-[https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9](https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9)
 
 [回到分類](#category)
 
@@ -1275,6 +1410,15 @@ _摘要_
 [回到分類](#category)
 
 ---
+__在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表__
+
+Dec 21, 2021
+
+[https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9](https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9)
+
+[回到分類](#category)
+
+---
 __一位澳大利亞工程師說出了自己的看法--Covid的諸多神秘之處__
 
 Oct 5, 2021
@@ -1284,6 +1428,20 @@ _摘要_
 在查清Covid/Vax事件的過程中，我翻閱了700多篇論文、視頻、評論文章和文章。我與許多醫療專業人員，如護士、醫生和護理人員交談，並瀏覽了大量的數據。也許最關鍵的是，我深入研究了那些作為福音每天轟炸我們的數據背後的數據--這需要大量的挖掘工作。在這個過程中，我意識到，政府或主流媒體告訴我們的很少，事實上幾乎沒有任何重要的事情是真的。而且不是每個與我交談的人都有相同的故事，所以這導致了更多的挖掘以瞭解真相。
 
 [https://cmnnews.org/story/an-australian-engineer-speaks-out-the-many-mysteries-of-covid-fcaOmOQ1CLVZ23UMltlDZ](https://cmnnews.org/story/an-australian-engineer-speaks-out-the-many-mysteries-of-covid-fcaOmOQ1CLVZ23UMltlDZ)
+
+[回到分類](#category)
+
+---
+__日本厚生勞動省衛生部關於（輝瑞）疫苗的說明__
+
+Aug 31, 2021
+
+_摘要_
+
+1. 接种疫苗后，曾有轻度心肌炎和心包炎的报告。
+2. 本产品含有一种以前从未在疫苗中使用过的添加剂。
+
+[https://www.mhlw.go.jp/content/000759294.pdf](https://www.mhlw.go.jp/content/000759294.pdf)
 
 [回到分類](#category)
 
@@ -1308,15 +1466,54 @@ Jun 8, 2021
 ---
 ## 新聞
 
-__18歲的模特兒感染新冠死亡後，其母親發出了令人心碎的悼念。__
+__在新南威尔士州，30多岁完全接种疫苗且没有潜在健康问题的男子在感染COVID-19后死亡__
 
-Jan 15, 2022
+Feb 1, 2022
 
 _摘要_
 
-據馬西婭說，這名青少年以前很健康，而且已經注射了兩劑輝瑞公司的Covid-19疫苗。
+新南威尔士州卫生部表示，这名30多岁的完全接种的男子是该州周二记录的30例COVID相关死亡病例之一。
 
-[https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html](https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html)
+[https://www.skynews.com.au/australia-news/coronavirus/fully-vaxxed-man-aged-in-his-30s-with-no-underlying-health-conditions-dies-after-contracting-covid19-in-nsw/news-story/29812b3db0f22514895d224b4d13ff8d](https://www.skynews.com.au/australia-news/coronavirus/fully-vaxxed-man-aged-in-his-30s-with-no-underlying-health-conditions-dies-after-contracting-covid19-in-nsw/news-story/29812b3db0f22514895d224b4d13ff8d)
+
+[回到分類](#category)
+
+---
+__瑞典决定不建议为5-11岁儿童接种COVID疫苗__
+
+Jan 29, 2022
+
+_摘要_
+
+瑞典卫生局周四表示，瑞典已决定不推荐为5-11岁的孩子接种COVID疫苗，认为疫苗风险超过其好处。
+
+[https://www.reuters.com/world/europe/sweden-decides-against-recommending-covid-vaccines-kids-aged-5-12-2022-01-27/](https://www.reuters.com/world/europe/sweden-decides-against-recommending-covid-vaccines-kids-aged-5-12-2022-01-27/)
+
+[回到分類](#category)
+
+---
+__捷克共和国废除了强制使用COVID-19疫苗的计划__
+
+Jan 21, 2022
+
+_摘要_
+
+根据前政府的规定，老年人、医护人员、消防员、警察和医科学生都必须接种COVID-19疫苗，3月起生效。但总理彼得-菲亚拉废除了他的前任安德烈-巴比斯在12月初发布的法令。他周三告诉记者，他的新中右翼政府认为没有必要进行强制接种。
+
+[https://www.zerohedge.com/covid-19/czech-republic-abolishes-plan-mandate-covid-19-vaccines](https://www.zerohedge.com/covid-19/czech-republic-abolishes-plan-mandate-covid-19-vaccines)
+
+[回到分類](#category)
+
+---
+__各州正在调查18-49岁年轻人死亡率的激增情况，其中大部分与COVID-19无关__
+
+Jan 16, 2022
+
+_摘要_
+
+几个州的卫生部门证实，他们正在研究2021年18至49岁的人的死亡率急剧上升--其中大部分与COVID-19无关...在截至2021年10月的12个月中，18至49岁的人的死亡人数与大流行之前的2018-2019年同期相比，增加了40%以上。
+
+[https://www.zerohedge.com/medical/states-investigating-surge-mortality-rate-among-18-49-year-olds-majority-unrelated-covid-19](https://www.zerohedge.com/medical/states-investigating-surge-mortality-rate-among-18-49-year-olds-majority-unrelated-covid-19)
 
 [回到分類](#category)
 
@@ -1331,6 +1528,19 @@ _摘要_
 "隔離對我來說不是一個問題，因為從我的臥室到浴室感覺像是在做十項全能。昨天是我第一天保持清醒超過五個小時"。
 
 [https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e](https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e)
+
+[回到分類](#category)
+
+---
+__18歲的模特兒感染新冠死亡後，其母親發出了令人心碎的悼念。__
+
+Jan 15, 2022
+
+_摘要_
+
+據馬西婭說，這名青少年以前很健康，而且已經注射了兩劑輝瑞公司的Covid-19疫苗。
+
+[https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html](https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html)
 
 [回到分類](#category)
 
@@ -1549,6 +1759,19 @@ _摘要_
 ---
 ## 文獻
 
+__SARS-CoV-2 mRNA疫苗的先天免疫抑制。G-四联体、外泌体和microRNAs的作用__
+
+Jan 31, 2022
+
+_摘要_
+
+然而，实验和观察的证据显示，与感染SARS-CoV-2的反应相比，人体对疫苗的免疫反应非常不同。正如我们将展示的那样，疫苗所带有的基因修改可能是这些不同反应的来源。在本文中，我们提出的证据表明，与自然感染不同，疫苗接种会诱发I型干扰素信号的深度损害，这对人类健康有多种不利影响...这些干扰被证明与神经退行性疾病、心肌炎、免疫性血小板减少症、贝尔氏麻痹、肝病、适应性免疫受损、肿瘤生成增加和DNA损伤有潜在的直接因果关系。我们从VAERS数据库的不良事件报告中展示了支持我们假设的证据。
+
+[https://www.researchgate.net/publication/357994624_Innate_Immune_Suppression_by_SARS-CoV-2_mRNA_Vaccinations_The_role_of_G-quadruplexes_exosomes_and_microRNAs](https://www.researchgate.net/publication/357994624_Innate_Immune_Suppression_by_SARS-CoV-2_mRNA_Vaccinations_The_role_of_G-quadruplexes_exosomes_and_microRNAs)
+
+[回到分類](#category)
+
+---
 __丹麥家庭中的SARS-CoV-2傳播__
 
 Dec 27, 2021
@@ -1734,6 +1957,19 @@ _摘要_
 在德國，自從2021年七月21日起，對完全接種疫苗的人群，有症狀的新冠病例每週都會統計報告，在2021年7月，在60歲以上病例中，這項數據的比例是16.9%，並且每週都在增加，當月27日的數據是58.9%。
 
 [https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-07-22.pdf?__blob=publicationFile](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-07-22.pdf?__blob=publicationFile)
+
+[回到分類](#category)
+
+---
+__比疾病更糟糕？回顾针对COVID-19的mRNA疫苗可能产生的一些意外后果__
+
+May 10, 2021
+
+_摘要_
+
+上周，麻省理工学院计算机科学和人工智能实验室的高级研究科学家Stephanie Seneff博士在接受福克斯新闻主持人Laura Ingraham的采访时，讨论了她最近研究论文的发现。在她的论文中，Seneff描述了疫苗如何诱发有毒的朊病毒样蛋白，从而引发神经退行性疾病。“CDC关于朊病毒疾病的网站指出，'朊病毒疾病通常是快速发展的，而且总是致命的'”，该论文指出。“现在认为许多神经退行性疾病，包括阿尔茨海默氏症、帕金森氏症和肌萎缩侧索硬化症（ALS）可能是朊病毒疾病，而且研究人员已经确定了与这些疾病有关的特定蛋白性感染颗粒。”，“疫苗内源性产生的穗状蛋白也可能对男性睾丸产生负面影响，”论文指出，“现在有几项研究表明，冠状病毒穗状蛋白能够通过ACE2受体进入睾丸的细胞，并破坏男性生殖。”
+
+[https://dpbh.nv.gov/uploadedFiles/dpbhnvgov/content/Boards/BOH/Meetings/2021/SENEFF~1.PDF](https://dpbh.nv.gov/uploadedFiles/dpbhnvgov/content/Boards/BOH/Meetings/2021/SENEFF~1.PDF)
 
 [回到分類](#category)
 
