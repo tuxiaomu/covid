@@ -328,6 +328,15 @@ The news last week that two COVID-19 vaccines had proved to be 95% efficacious i
 ---
 ## INFORMATION
 
+__CDC weighs increasing time between vaccine doses to lower risk of heart inflammation__
+
+Feb 6, 2022
+
+[https://www.foxnews.com/health/cdc-weighs-increasing-time-between-vaccine-doses-to-lower-risk-of-heart-inflammation](https://www.foxnews.com/health/cdc-weighs-increasing-time-between-vaccine-doses-to-lower-risk-of-heart-inflammation)
+
+[Back to Category](#category)
+
+---
 __COVID Lab-Leak Whitewash Has Been 'The Death Of Science' Says Professor Who Found 'Unique Fingerprints'__
 
 Jan 19, 2022
@@ -423,6 +432,28 @@ Jun 8, 2021
 ---
 ## NEWS
 
+__Mehr Impf-Nebenwirkungen als bisher bekannt (More vaccine side effects than previously known)__
+
+Feb 25, 2022
+
+_Abstract_
+
+Large German health insurance company analyzed data from 10.9 million insured individuals regarding vaccination complications. The new data is "alarming," says BKK board member Schöfbeck in a report by WELT.
+
+[https://www.welt.de/politik/deutschland/plus237106177/Coronavirus-Impf-Nebenwirkungen-deutlich-mehr-als-bisher-bekannt.html](https://www.welt.de/politik/deutschland/plus237106177/Coronavirus-Impf-Nebenwirkungen-deutlich-mehr-als-bisher-bekannt.html)
+
+[Back to Category](#category)
+
+---
+__Study: Two Teenage Boys Die After Vaccination__
+
+Feb 15, 2022
+
+[https://www.ntd.com/study-two-teenage-boys-die-after-vaccination_740686.html](https://www.ntd.com/study-two-teenage-boys-die-after-vaccination_740686.html)
+
+[Back to Category](#category)
+
+---
 __Fully vaxxed man aged in his 30s with no underlying health conditions dies after contracting COVID-19 in NSW__
 
 Feb 1, 2022
@@ -714,8 +745,39 @@ A new study finds that this dominant variant can grow in the noses of vaccinated
 [Back to Category](#category)
 
 ---
+__Covid: Australian vaccine abandoned over false HIV response__
+
+Dec 11, 2020
+
+[https://www.bbc.com/news/world-australia-55269381](https://www.bbc.com/news/world-australia-55269381)
+
+[Back to Category](#category)
+
+---
+__Researchers Warn Some Covid-19 Vaccines Could Increase Risk Of HIV Infection__
+
+Oct 20, 2020
+
+[https://www.forbes.com/sites/roberthart/2020/10/20/researchers-warn-some-covid-19-vaccines-could-increase-risk-of-hiv-infection/](https://www.forbes.com/sites/roberthart/2020/10/20/researchers-warn-some-covid-19-vaccines-could-increase-risk-of-hiv-infection/)
+
+[Back to Category](#category)
+
+---
 ## PAPER
 
+__Intracellular Reverse Transcription of Pfizer BioNTech COVID-19 mRNA Vaccine BNT162b2 In Vitro in Human Liver Cell Line__
+
+Feb 25, 2022
+
+_Abstract_
+
+Our results indicate a fast up-take of BNT162b2 into human liver cell line Huh7, leading to changes in LINE-1 expression and distribution. We also show that BNT162b2 mRNA is reverse transcribed intracellularly into DNA in as fast as 6 h upon BNT162b2 exposure.
+
+[https://www.mdpi.com/1467-3045/44/3/73/htm](https://www.mdpi.com/1467-3045/44/3/73/htm)
+
+[Back to Category](#category)
+
+---
 __Innate Immune Suppression by SARS-CoV-2 mRNA Vaccinations: The role of G-quadruplexes, exosomes and microRNAs__
 
 Jan 31, 2022
@@ -935,6 +997,19 @@ Speaking to Fox News host Laura Ingraham last week, Dr. Stephanie Seneff, a Seni
 [Back to Category](#category)
 
 ---
+__Worse Than the Disease? Reviewing Some Possible Unintended Consequences of the mRNA Vaccines Against COVID-19__
+
+May 10, 2021
+
+_Abstract_
+
+In this review we first describe the technology underlying these vaccines in detail. We then review both components of and the intended biological response to these vaccines, including production of the spike protein itself, and their potential relationship to a wide range of both acute and long-term induced pathologies, such as blood disorders, neurodegenerative diseases and autoimmune diseases. Among these potential induced pathologies, we discuss the relevance of prion-protein-related amino acid sequences within the spike protein. We also present a brief review of studies supporting the potential for spike protein “shedding”, transmission of the protein from a vaccinated to an unvaccinated person, resulting in symptoms induced in the latter. We finish by addressing a common point of debate, namely, whether or not these vaccines could modify the DNA of those receiving the vaccination. While there are no studies demonstrating definitively that this is happening, we provide a plausible scenario, supported by previously established pathways for transformation and transport of genetic material, whereby injected mRNA could ultimately be incorporated into germ cell DNA for transgenerational transmission. We conclude with our recommendations regarding surveillance that will help to clarify the long-term effects of these experimental drugs and allow us to better assess the true risk/benefit ratio of these novel technologies.
+
+[https://ijvtpr.com/index.php/IJVTPR/article/view/23](https://ijvtpr.com/index.php/IJVTPR/article/view/23)
+
+[Back to Category](#category)
+
+---
 __SARS-CoV-2 RNA reverse-transcribed and integrated into the human genome__
 
 Dec 13, 2020
@@ -976,6 +1051,24 @@ While the Australian Government strongly supports immunisation, it is not compul
 ---
 ## TREATMENT
 
+__South Dakota state House passes bill allowing doctors to prescribe ivermectin__
+
+Feb 14, 2022
+
+[https://mylrc.sdlegislature.gov/api/Documents/233445.pdf](https://mylrc.sdlegislature.gov/api/Documents/233445.pdf)
+
+[Back to Category](#category)
+
+---
+__Japanese pharmaceutical company finds ivermectin has ‘antiviral effect’ against omicron, other COVID variants__
+
+Jan 31, 2022
+
+[https://www.kowa.co.jp/news/2022/press220131.pdf](https://www.kowa.co.jp/news/2022/press220131.pdf)
+
+[Back to Category](#category)
+
+---
 __Population-wide Observational Study in Brazil: Prophylactic Use of Ivermectin Reduces COVID-19 Mortality, Hospitalization & Infection__
 
 Jan 6, 2022
@@ -1371,6 +1464,15 @@ _摘要_
 ---
 ## 信息
 
+__疾病预防控制中心权衡增加疫苗剂量的间隔时间以降低心脏发炎的风险__
+
+Feb 6, 2022
+
+[https://www.foxnews.com/health/cdc-weighs-increasing-time-between-vaccine-doses-to-lower-risk-of-heart-inflammation](https://www.foxnews.com/health/cdc-weighs-increasing-time-between-vaccine-doses-to-lower-risk-of-heart-inflammation)
+
+[回到分類](#category)
+
+---
 __发现“独特指纹”的教授说，COVID实验室泄密事件是“科学之死”__
 
 Jan 19, 2022
@@ -1466,6 +1568,28 @@ Jun 8, 2021
 ---
 ## 新聞
 
+__疫苗接种的副作用比以前知道的要多__
+
+Feb 25, 2022
+
+_摘要_
+
+德国大型医疗保险公司分析了1090万被保险人有关疫苗接种并发症的数据。BKK董事会成员Schöfbeck在WELT的一份报告中说，这些新数据"令人震惊"。
+
+[https://www.welt.de/politik/deutschland/plus237106177/Coronavirus-Impf-Nebenwirkungen-deutlich-mehr-als-bisher-bekannt.html](https://www.welt.de/politik/deutschland/plus237106177/Coronavirus-Impf-Nebenwirkungen-deutlich-mehr-als-bisher-bekannt.html)
+
+[回到分類](#category)
+
+---
+__研究：两个十几岁的男孩在接种疫苗后死亡__
+
+Feb 15, 2022
+
+[https://www.ntd.com/study-two-teenage-boys-die-after-vaccination_740686.html](https://www.ntd.com/study-two-teenage-boys-die-after-vaccination_740686.html)
+
+[回到分類](#category)
+
+---
 __在新南威尔士州，30多岁完全接种疫苗且没有潜在健康问题的男子在感染COVID-19后死亡__
 
 Feb 1, 2022
@@ -1757,8 +1881,39 @@ _摘要_
 [回到分類](#category)
 
 ---
+__Covid：澳大利亚疫苗因导致HIV假阳性而被放弃__
+
+Dec 11, 2020
+
+[https://www.bbc.com/news/world-australia-55269381](https://www.bbc.com/news/world-australia-55269381)
+
+[回到分類](#category)
+
+---
+__研究人员警告说，一些Covid-19疫苗可能会增加艾滋病毒感染的风险__
+
+Oct 20, 2020
+
+[https://www.forbes.com/sites/roberthart/2020/10/20/researchers-warn-some-covid-19-vaccines-could-increase-risk-of-hiv-infection/](https://www.forbes.com/sites/roberthart/2020/10/20/researchers-warn-some-covid-19-vaccines-could-increase-risk-of-hiv-infection/)
+
+[回到分類](#category)
+
+---
 ## 文獻
 
+__辉瑞生物技术公司COVID-19 mRNA疫苗BNT162b2在人肝细胞系中的细胞内反转录。__
+
+Feb 25, 2022
+
+_摘要_
+
+我们的结果表明，BNT162b2在人类肝脏细胞系Huh7中被快速吸收，导致LINE-1的表达和分布发生变化。我们还表明，在接触BNT162b2后，BNT162b2的mRNA在细胞内被逆转录为DNA，速度快达6小时。
+
+[https://www.mdpi.com/1467-3045/44/3/73/htm](https://www.mdpi.com/1467-3045/44/3/73/htm)
+
+[回到分類](#category)
+
+---
 __SARS-CoV-2 mRNA疫苗的先天免疫抑制。G-四联体、外泌体和microRNAs的作用__
 
 Jan 31, 2022
@@ -1974,6 +2129,19 @@ _摘要_
 [回到分類](#category)
 
 ---
+__比疾病更糟糕？回顾针对COVID-19的mRNA疫苗可能产生的一些意外后果__
+
+May 10, 2021
+
+_摘要_
+
+在这篇评论中，我们首先详细描述了这些疫苗的基础技术。然后我们回顾了这些疫苗的组成部分和预期的生物反应，包括尖峰蛋白本身的生产，以及它们与各种急性和长期诱发病症的潜在关系，如血液病、神经退行性疾病和自身免疫性疾病。在这些潜在的诱发病症中，我们讨论了尖峰蛋白内与朊病毒有关的氨基酸序列的相关性。我们还简要回顾了支持刺突蛋白脱落的研究，即蛋白质从接种疫苗的人传染给未接种疫苗的人，导致后者出现诱发症状。最后，我们讨论了一个常见的争论点，即这些疫苗是否会改变接受疫苗接种者的DNA。虽然没有研究明确表明这种情况正在发生，但我们提供了一个合理的设想，并以先前建立的遗传物质转化和运输途径为支持，即注射的mRNA最终可能被纳入生殖细胞的DNA，从而实现跨代传播。最后，我们提出了有关监测的建议，这将有助于澄清这些实验性药物的长期影响，并使我们能够更好地评估这些新技术的真正风险/效益比。
+
+[https://ijvtpr.com/index.php/IJVTPR/article/view/23](https://ijvtpr.com/index.php/IJVTPR/article/view/23)
+
+[回到分類](#category)
+
+---
 __新冠病毒核糖核酸反向整合到人類基因組中__
 
 Dec 13, 2020
@@ -2015,6 +2183,24 @@ _摘要_
 ---
 ## 治療
 
+__南达科他州众议院通过允许医生开伊维菌素的法案__
+
+Feb 14, 2022
+
+[https://mylrc.sdlegislature.gov/api/Documents/233445.pdf](https://mylrc.sdlegislature.gov/api/Documents/233445.pdf)
+
+[回到分類](#category)
+
+---
+__日本制药公司发现伊维菌素对Omicron和其他COVID变种有抗病毒作用__
+
+Jan 31, 2022
+
+[https://www.kowa.co.jp/news/2022/press220131.pdf](https://www.kowa.co.jp/news/2022/press220131.pdf)
+
+[回到分類](#category)
+
+---
 __在巴西進行的全人口觀察研究：預防性使用伊維菌素可降低COVID-19的死亡率、住院率和感染率__
 
 Jan 6, 2022
