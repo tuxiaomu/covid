@@ -31,15 +31,90 @@
     {
       "type": "news",
       "title": {
-        "en": "Mum's heartbreaking tribute after model, 18, tragically dies with Covid",
-        "cn": "18歲的模特兒感染新冠死亡後，其母親發出了令人心碎的悼念。"
+        "en": "Mehr Impf-Nebenwirkungen als bisher bekannt (More vaccine side effects than previously known)",
+        "cn": "疫苗接种的副作用比以前知道的要多"
       },
       "abstract": {
-        "en": "According to Marcia, the teen was previously healthy and had been administered both doses of the Pfizer Covid-19 vaccine.",
-        "cn": "據馬西婭說，這名青少年以前很健康，而且已經注射了兩劑輝瑞公司的Covid-19疫苗。"
+        "en": "Large German health insurance company analyzed data from 10.9 million insured individuals regarding vaccination complications. The new data is \"alarming,\" says BKK board member Schöfbeck in a report by WELT.",
+        "cn": "德国大型医疗保险公司分析了1090万被保险人有关疫苗接种并发症的数据。BKK董事会成员Schöfbeck在WELT的一份报告中说，这些新数据\"令人震惊\"。"
       },
-      "url": "https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html",
-      "date": "Jan 15, 2022"
+      "url": "https://www.welt.de/politik/deutschland/plus237106177/Coronavirus-Impf-Nebenwirkungen-deutlich-mehr-als-bisher-bekannt.html",
+      "date": "Feb 25, 2022"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "Intracellular Reverse Transcription of Pfizer BioNTech COVID-19 mRNA Vaccine BNT162b2 In Vitro in Human Liver Cell Line",
+        "cn": "辉瑞生物技术公司COVID-19 mRNA疫苗BNT162b2在人肝细胞系中的细胞内反转录。"
+      },
+      "abstract": {
+        "en": "Our results indicate a fast up-take of BNT162b2 into human liver cell line Huh7, leading to changes in LINE-1 expression and distribution. We also show that BNT162b2 mRNA is reverse transcribed intracellularly into DNA in as fast as 6 h upon BNT162b2 exposure.",
+        "cn": "我们的结果表明，BNT162b2在人类肝脏细胞系Huh7中被快速吸收，导致LINE-1的表达和分布发生变化。我们还表明，在接触BNT162b2后，BNT162b2的mRNA在细胞内被逆转录为DNA，速度快达6小时。"
+      },
+      "url": "https://www.mdpi.com/1467-3045/44/3/73/htm",
+      "date": "Feb 25, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Study: Two Teenage Boys Die After Vaccination",
+        "cn": "研究：两个十几岁的男孩在接种疫苗后死亡"
+      },
+      "url": "https://www.ntd.com/study-two-teenage-boys-die-after-vaccination_740686.html",
+      "date": "Feb 15, 2022"
+    },
+    {
+      "type": "treatment",
+      "title": {
+        "en": "South Dakota state House passes bill allowing doctors to prescribe ivermectin",
+        "cn": "南达科他州众议院通过允许医生开伊维菌素的法案"
+      },
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/233445.pdf",
+      "date": "Feb 14, 2022"
+    },
+    {
+      "type": "information",
+      "title": {
+        "en": "CDC weighs increasing time between vaccine doses to lower risk of heart inflammation",
+        "cn": "疾病预防控制中心权衡增加疫苗剂量的间隔时间以降低心脏发炎的风险"
+      },
+      "url": "https://www.foxnews.com/health/cdc-weighs-increasing-time-between-vaccine-doses-to-lower-risk-of-heart-inflammation",
+      "date": "Feb 6, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Fully vaxxed man aged in his 30s with no underlying health conditions dies after contracting COVID-19 in NSW",
+        "cn": "在新南威尔士州，30多岁完全接种疫苗且没有潜在健康问题的男子在感染COVID-19后死亡"
+      },
+      "abstract": {
+        "en": "NSW Health said the fully vaccinated man in his 30s was among the 30 COVID-related deaths recorded in the state on Tuesday.",
+        "cn": "新南威尔士州卫生部表示，这名30多岁的完全接种的男子是该州周二记录的30例COVID相关死亡病例之一。"
+      },
+      "url": "https://www.skynews.com.au/australia-news/coronavirus/fully-vaxxed-man-aged-in-his-30s-with-no-underlying-health-conditions-dies-after-contracting-covid19-in-nsw/news-story/29812b3db0f22514895d224b4d13ff8d",
+      "date": "Feb 1, 2022"
+    },
+    {
+      "type": "treatment",
+      "title": {
+        "en": "Japanese pharmaceutical company finds ivermectin has ‘antiviral effect’ against omicron, other COVID variants",
+        "cn": "日本制药公司发现伊维菌素对Omicron和其他COVID变种有抗病毒作用"
+      },
+      "url": "https://www.kowa.co.jp/news/2022/press220131.pdf",
+      "date": "Jan 31, 2022"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "Innate Immune Suppression by SARS-CoV-2 mRNA Vaccinations: The role of G-quadruplexes, exosomes and microRNAs",
+        "cn": "SARS-CoV-2 mRNA疫苗的先天免疫抑制。G-四联体、外泌体和microRNAs的作用"
+      },
+      "abstract": {
+        "en": "However, both experimental and observational evidence reveals a very different immune response to the vaccines compared to the response to infection with SARS-CoV-2. As we will show, the genetic modifications introduced by the vaccine are likely the source of these differential responses. In this paper, we present the evidence that vaccination, unlike natural infection, induces a profound impairment in type I interferon signaling, which has diverse adverse consequences to human health.…These disturbances are shown to have a potentially direct causal link to neurodegenerative disease, myocarditis, immune thrombocytopenia, Bell’s palsy, liver disease, impaired adaptive immunity, increased tumorigenesis, and DNA damage. We show evidence from adverse event reports in the VAERS database supporting our hypothesis.",
+        "cn": "然而，实验和观察的证据显示，与感染SARS-CoV-2的反应相比，人体对疫苗的免疫反应非常不同。正如我们将展示的那样，疫苗所带有的基因修改可能是这些不同反应的来源。在本文中，我们提出的证据表明，与自然感染不同，疫苗接种会诱发I型干扰素信号的深度损害，这对人类健康有多种不利影响...这些干扰被证明与神经退行性疾病、心肌炎、免疫性血小板减少症、贝尔氏麻痹、肝病、适应性免疫受损、肿瘤生成增加和DNA损伤有潜在的直接因果关系。我们从VAERS数据库的不良事件报告中展示了支持我们假设的证据。"
+      },
+      "url": "https://www.researchgate.net/publication/357994624_Innate_Immune_Suppression_by_SARS-CoV-2_mRNA_Vaccinations_The_role_of_G-quadruplexes_exosomes_and_microRNAs",
+      "date": "Jan 31, 2022"
     },
     {
       "type": "news",
@@ -68,6 +143,45 @@
       "date": "Jan 21, 2022"
     },
     {
+      "type": "information",
+      "title": {
+        "en": "COVID Lab-Leak Whitewash Has Been 'The Death Of Science' Says Professor Who Found 'Unique Fingerprints'",
+        "cn": "发现“独特指纹”的教授说，COVID实验室泄密事件是“科学之死”"
+      },
+      "abstract": {
+        "en": "University of London professor Angus Dalgleish, who co-authored a paper in summer 2020 after spotting \"unique fingerprints\" in Covid-19 samples that point to genetic manipulation, says that he's been the victim of a \"disgusting whitewash,\" and that anyone suggesting a non-natural origin for Covid-19 has been silenced by peers.",
+        "cn": "伦敦大学教授安格斯-达尔格里什（Angus Dalgleish）在2020年夏天发现了Covid-19样本中的\"独特指纹\"，指向了基因操作，他说他是\"令人厌恶的粉饰\"的受害者，任何建议Covid-19的非自然来源的人都被同行压制。"
+      },
+      "url": "https://www.zerohedge.com/covid-19/covid-lab-leak-whitewash-has-been-death-science-says-professor-who-found-unique",
+      "date": "Jan 19, 2022"
+    },
+    {
+      "type": "adverse effect",
+      "title": {
+        "en": "Triple Vaccinated Olympic Athlete Speaks Out About Covid Vaccine Side Effects",
+        "cn": "三次接种疫苗的奥运选手直言不讳地讲述新冠疫苗的副作用"
+      },
+      "abstract": {
+        "en": "26-year-old Swiss sprinter and Olympic athlete, Sarah Atcho, was diagnosed with pericarditis five days after receiving a Pfizer booster shot, the Covid world reported. Sarah Atcho announced on her social media accounts on Monday that she was diagnosed with pericarditis (inflammation of the thin membrane surrounding the heart).Atcho previously received the Moderna vaccine. She decided to take the Pfizer vaccine for her booster after she was told that it was safer than Moderna.",
+        "cn": "据科维德世界报道，26岁的瑞士短跑运动员和奥运选手Sarah Atcho在接受辉瑞公司的加强针5天后被诊断为心包炎。Sarah Atcho周一在她的社交媒体账户上宣布，她被诊断为心包炎（心脏周围薄膜的炎症）。Atcho之前接受了Moderna疫苗。在她被告知辉瑞公司的疫苗比Moderna更安全后，她决定采取辉瑞公司的疫苗加强针。"
+      },
+      "url": "https://truthpress.news/news/triple-vaccinated-olympic-athlete-speaks-out-about-covid-vaccine-side-effects/",
+      "date": "Jan 18, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "States Investigating Surge In Mortality Rate Among 18–49-Year-Olds, Majority Unrelated To COVID-19",
+        "cn": "各州正在调查18-49岁年轻人死亡率的激增情况，其中大部分与COVID-19无关"
+      },
+      "abstract": {
+        "en": "Health departments in several states confirmed that they are looking into a steep surge in the mortality rate for people aged 18 to 49 in 2021—a majority of which are not linked to COVID-19…Deaths among people aged 18 to 49 increased more than 40 percent in the 12 months ending October 2021 compared to the same period in 2018–2019, before the pandemic",
+        "cn": "几个州的卫生部门证实，他们正在研究2021年18至49岁的人的死亡率急剧上升--其中大部分与COVID-19无关...在截至2021年10月的12个月中，18至49岁的人的死亡人数与大流行之前的2018-2019年同期相比，增加了40%以上。"
+      },
+      "url": "https://www.zerohedge.com/medical/states-investigating-surge-mortality-rate-among-18-49-year-olds-majority-unrelated-covid-19",
+      "date": "Jan 16, 2022"
+    },
+    {
       "type": "news",
       "title": {
         "en": "Ch10 presenter, Natasha Exelby shares struggles with Covid despite being triple-vaxxed",
@@ -78,6 +192,19 @@
         "cn": "她說：\"我是在星期一被正式診斷確診的，星期六做了檢查，從那時起，我幾乎一直處於冬眠狀態，並有很多痛苦。\n\"隔離對我來說不是一個問題，因為從我的臥室到浴室感覺像是在做十項全能。昨天是我第一天保持清醒超過五個小時\"。"
       },
       "url": "https://www.news.com.au/entertainment/tv/current-affairs/ch10-presenter-natasha-exelby-shares-struggles-with-covid-despite-being-triplevaxxed/news-story/4a791c11de7ced5678e944f108ba0c3e",
+      "date": "Jan 15, 2022"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Mum's heartbreaking tribute after model, 18, tragically dies with Covid",
+        "cn": "18歲的模特兒感染新冠死亡後，其母親發出了令人心碎的悼念。"
+      },
+      "abstract": {
+        "en": "According to Marcia, the teen was previously healthy and had been administered both doses of the Pfizer Covid-19 vaccine.",
+        "cn": "據馬西婭說，這名青少年以前很健康，而且已經注射了兩劑輝瑞公司的Covid-19疫苗。"
+      },
+      "url": "https://au.news.yahoo.com/mums-heartbreaking-tribute-after-model-18-tragically-dies-with-covid-042006633.html",
       "date": "Jan 15, 2022"
     },
     {
@@ -242,19 +369,6 @@
       "date": "Dec 24, 2021"
     },
     {
-      "type": "treatment",
-      "title": {
-        "en": "You just tested positive for COVID-19. Here’s what to do next.",
-        "cn": "新冠病毒測試陽性後，你應該做的事情"
-      },
-      "abstract": {
-        "en": "In most cases, treatment for COVID-19 will be similar to how you would care for a common cold.",
-        "cn": "在大多數情況下，對COVID-19的治療方式和你對普通感冒的護理方式類似。"
-      },
-      "url": "https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122",
-      "date": "Dec 23, 2021"
-    },
-    {
       "type": "adverse effect",
       "title": {
         "en": "Acute autoimmune transverse myelitis following COVID-19 vaccination: A case report",
@@ -277,13 +391,17 @@
       "date": "Dec 23, 2021"
     },
     {
-      "type": "information",
+      "type": "treatment",
       "title": {
-        "en": "MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule",
-        "cn": "在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表"
+        "en": "You just tested positive for COVID-19. Here’s what to do next.",
+        "cn": "新冠病毒測試陽性後，你應該做的事情"
       },
-      "url": "https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9",
-      "date": "Dec 21, 2021"
+      "abstract": {
+        "en": "In most cases, treatment for COVID-19 will be similar to how you would care for a common cold.",
+        "cn": "在大多數情況下，對COVID-19的治療方式和你對普通感冒的護理方式類似。"
+      },
+      "url": "https://7news.com.au/lifestyle/health-wellbeing/you-just-tested-positive-for-covid-19-heres-what-to-do-next-c-5067122",
+      "date": "Dec 23, 2021"
     },
     {
       "type": "information",
@@ -296,6 +414,15 @@
         "cn": "我们的结论是，无论疫苗在降低住院率和死亡率方面有什么价值，它们都不会像政府领导人所说的那样彻底\"起作用\"；在加拿大，强制执行或疫苗护照作为对个人身体自主权和宪章自由的合理限制也是不成立的。"
       },
       "url": "https://www.jccf.ca/published_reports/covid-vaccines-do-not-stop-covid-spread/",
+      "date": "Dec 21, 2021"
+    },
+    {
+      "type": "information",
+      "title": {
+        "en": "MRI scan to diagnose myocarditis after Covid-19 vaccine added to Medicare Benefits Schedule",
+        "cn": "在澳洲，用來診斷注射新冠疫苗後引發心肌的核磁共振扫描，被加入医疗保险福利表"
+      },
+      "url": "https://www.couriermail.com.au/lifestyle/health/mri-scan-to-diagnose-myocarditis-after-covid19-vaccine-added-to-medicare-benefits-schedule/news-story/9795fb7b3140b420565bc629cc1c2df9",
       "date": "Dec 21, 2021"
     },
     {
@@ -325,6 +452,15 @@
       "date": "Dec 14, 2021"
     },
     {
+      "type": "adverse effect",
+      "title": {
+        "en": "Fifth student dies after receiving Pfizer vaccine shot in Vietnam",
+        "cn": "越南：第五個學生在接受輝瑞疫苗後死亡"
+      },
+      "url": "https://tienphongnews.com/fifth-student-dies-after-receiving-pfizer-vaccine-shot-in-vietnam-251315.html",
+      "date": "Dec 14, 2021"
+    },
+    {
       "type": "paper",
       "title": {
         "en": "Risks of myocarditis, pericarditis, and cardiac arrhythmias associated with COVID-19 vaccination or SARS-CoV-2 infection",
@@ -335,15 +471,6 @@
         "cn": "我們發現，在接種後1-28天內，以及在SARS-CoV-2陽性試驗後，與第一劑ChAdOx1和BNT162b2疫苗以及第一和第二劑mRNA-1273疫苗相關的心肌炎風險增加。"
       },
       "url": "https://www.nature.com/articles/s41591-021-01630-0",
-      "date": "Dec 14, 2021"
-    },
-    {
-      "type": "adverse effect",
-      "title": {
-        "en": "Fifth student dies after receiving Pfizer vaccine shot in Vietnam",
-        "cn": "越南：第五個學生在接受輝瑞疫苗後死亡"
-      },
-      "url": "https://tienphongnews.com/fifth-student-dies-after-receiving-pfizer-vaccine-shot-in-vietnam-251315.html",
       "date": "Dec 14, 2021"
     },
     {
@@ -391,19 +518,6 @@
       "date": "Dec 8, 2021"
     },
     {
-      "type": "adverse effect",
-      "title": {
-        "en": "Vietnam Province Suspends Pfizer Vaccine Batch After 120 Children Hospitalized",
-        "cn": "越南省在120名兒童住院後暫停使用輝瑞公司的批次疫苗"
-      },
-      "abstract": {
-        "en": "Since November 30, the central province has been vaccinating children aged 15-17 with the Pfizer Covid-19 vaccine. However, over 120 of the children were admitted to hospitals after exhibiting symptoms like nausea, high fever or breathing difficulties, the provincial Center for Disease Control (CDC) said Thursday.",
-        "cn": "自11月30日以來，中部省份一直在為15-17歲的兒童接種輝瑞公司的Covid-19疫苗。然而，該省疾病控制中心（CDC）週四表示，超過120名兒童在表現出惡心、高燒或呼吸困難等症狀後被送入醫院。"
-      },
-      "url": "https://www.zerohedge.com/covid-19/vietnam-province-suspends-pfizer-vaccine-batch-after-120-children-hospitalized",
-      "date": "Dec 7, 2021"
-    },
-    {
       "type": "paper",
       "title": {
         "en": "Mechanisms of SARS-CoV-2 Evolution Revealing Vaccine-Resistant Mutations in Europe and America",
@@ -414,6 +528,19 @@
         "cn": "瞭解新冠進化的重要性是不容忽視的。最近的研究證實，自然選擇是新冠進化的主導機制，它傾向於加強病毒感染性的突變。在這裡，我們證明疫苗突破或抗體抗性突變提供了一種新的病毒進化機制。具體來說，發生在刺突蛋白受體結合域的抗疫苗突變Y449S和N501Y的共同突變，與原始SARS-CoV-2相比，感染性降低，但可以破壞現有的中和病毒的抗體。通過追蹤220多萬個SARS-CoV-2基因組中疫苗抗性突變的進化軌跡，我們發現，疫苗抗性突變的發生和頻率與歐洲和美國的疫苗接種率密切相關。我們預計，作為一種額外的傳播途徑，疫苗突破或抗體抗性突變，如Omicron中的突變，當世界上大多數人口要麼接種疫苗，要麼被感染的時候，將成為SARS-CoV-2進化的主導機制。我們的研究揭示了SARS-CoV-2的進化和傳播，並提供了設計下一代防突變的疫苗和抗體藥物的可能性。"
       },
       "url": "https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03380",
+      "date": "Dec 7, 2021"
+    },
+    {
+      "type": "adverse effect",
+      "title": {
+        "en": "Vietnam Province Suspends Pfizer Vaccine Batch After 120 Children Hospitalized",
+        "cn": "越南省在120名兒童住院後暫停使用輝瑞公司的批次疫苗"
+      },
+      "abstract": {
+        "en": "Since November 30, the central province has been vaccinating children aged 15-17 with the Pfizer Covid-19 vaccine. However, over 120 of the children were admitted to hospitals after exhibiting symptoms like nausea, high fever or breathing difficulties, the provincial Center for Disease Control (CDC) said Thursday.",
+        "cn": "自11月30日以來，中部省份一直在為15-17歲的兒童接種輝瑞公司的Covid-19疫苗。然而，該省疾病控制中心（CDC）週四表示，超過120名兒童在表現出惡心、高燒或呼吸困難等症狀後被送入醫院。"
+      },
+      "url": "https://www.zerohedge.com/covid-19/vietnam-province-suspends-pfizer-vaccine-batch-after-120-children-hospitalized",
       "date": "Dec 7, 2021"
     },
     {
@@ -657,15 +784,6 @@
       "date": "Oct 7, 2021"
     },
     {
-      "type": "paper",
-      "title": {
-        "en": "No Significant Difference in Viral Load Between Vaccinated and Unvaccinated, Asymptomatic and Symptomatic Groups When Infected with SARS-CoV-2 Delta Variant",
-        "cn": "感染新冠Delta變體時，接種疫苗組和未接種疫苗組、無症狀組和有症狀組之間的病毒量沒有明顯差異"
-      },
-      "url": "https://www.medrxiv.org/content/10.1101/2021.09.28.21264262v2",
-      "date": "Oct 5, 2021"
-    },
-    {
       "type": "information",
       "title": {
         "en": "An Australian Engineer Speaks Out - The Many Mysteries of Covid",
@@ -679,17 +797,13 @@
       "date": "Oct 5, 2021"
     },
     {
-      "type": "information",
+      "type": "paper",
       "title": {
-        "en": "COVID Lab-Leak Whitewash Has Been 'The Death Of Science' Says Professor Who Found 'Unique Fingerprints'",
-        "cn": "发现“独特指纹”的教授说，COVID实验室泄密事件是“科学之死”"
+        "en": "No Significant Difference in Viral Load Between Vaccinated and Unvaccinated, Asymptomatic and Symptomatic Groups When Infected with SARS-CoV-2 Delta Variant",
+        "cn": "感染新冠Delta變體時，接種疫苗組和未接種疫苗組、無症狀組和有症狀組之間的病毒量沒有明顯差異"
       },
-      "abstract": {
-        "en": "University of London professor Angus Dalgleish, who co-authored a paper in summer 2020 after spotting \"unique fingerprints\" in Covid-19 samples that point to genetic manipulation, says that he's been the victim of a \"disgusting whitewash,\" and that anyone suggesting a non-natural origin for Covid-19 has been silenced by peers.",
-        "cn": "伦敦大学教授安格斯-达尔格里什（Angus Dalgleish）在2020年夏天发现了Covid-19样本中的\"独特指纹\"，指向了基因操作，他说他是\"令人厌恶的粉饰\"的受害者，任何建议Covid-19的非自然来源的人都被同行压制。"
-      },
-      "url": "https://www.zerohedge.com/covid-19/covid-lab-leak-whitewash-has-been-death-science-says-professor-who-found-unique",
-      "date": "Jan 19, 2022"
+      "url": "https://www.medrxiv.org/content/10.1101/2021.09.28.21264262v2",
+      "date": "Oct 5, 2021"
     },
     {
       "type": "news",
@@ -712,19 +826,6 @@
       },
       "url": "https://link.springer.com/article/10.1007%2Fs10654-021-00808-7",
       "date": "Sep 30, 2021"
-    },
-    {
-      "type": "paper",
-      "title": {
-        "en": "Worse Than the Disease? Reviewing Some Possible Unintended Consequences of the mRNA Vaccines Against COVID-19",
-        "cn": "比疾病更糟糕？回顾针对COVID-19的mRNA疫苗可能产生的一些意外后果"
-      },
-      "abstract": {
-        "en": "Speaking to Fox News host Laura Ingraham last week, Dr. Stephanie Seneff, a Senior Research Scientist at the MIT Computer Science and Artificial Intelligence Laboratory, discussed findings from her recent research paper. In her paper, Seneff described how vaccines induce toxic prion-like proteins that can trigger neurodegenerative diseases. “The CDC web site on prion diseases states that ‘prion diseases are usually rapidly progressive and always fatal,'” the paper states. “It is now believed that many neurodegenerative diseases, including Alzheimer’s, Parkinson’s disease, and amyotrophic lateral sclerosis (ALS) may be prion diseases, and researchers have identified specific proteinaceous infectious particles linked to these diseases.”, “The spike protein generated endogenously by the vaccine could also negatively impact the male testes,” the paper states, adding, “Several studies have now shown that the coronavirus spike protein is able to gain access to cells in the testes via the ACE2 receptor, and disrupt male reproduction.”",
-        "cn": "上周，麻省理工学院计算机科学和人工智能实验室的高级研究科学家Stephanie Seneff博士在接受福克斯新闻主持人Laura Ingraham的采访时，讨论了她最近研究论文的发现。在她的论文中，Seneff描述了疫苗如何诱发有毒的朊病毒样蛋白，从而引发神经退行性疾病。“CDC关于朊病毒疾病的网站指出，'朊病毒疾病通常是快速发展的，而且总是致命的'”，该论文指出。“现在认为许多神经退行性疾病，包括阿尔茨海默氏症、帕金森氏症和肌萎缩侧索硬化症（ALS）可能是朊病毒疾病，而且研究人员已经确定了与这些疾病有关的特定蛋白性感染颗粒。”，“疫苗内源性产生的穗状蛋白也可能对男性睾丸产生负面影响，”论文指出，“现在有几项研究表明，冠状病毒穗状蛋白能够通过ACE2受体进入睾丸的细胞，并破坏男性生殖。”"
-      },
-      "url": "https://dpbh.nv.gov/uploadedFiles/dpbhnvgov/content/Boards/BOH/Meetings/2021/SENEFF~1.PDF",
-      "date": "May 10, 2021"
     },
     {
       "type": "adverse effect",
@@ -814,30 +915,17 @@
       "date": "Sep 5, 2021"
     },
     {
-      "type": "news",
+      "type": "information",
       "title": {
-        "en": "Fully vaxxed man aged in his 30s with no underlying health conditions dies after contracting COVID-19 in NSW",
-        "cn": "在新南威尔士州，30多岁完全接种疫苗且没有潜在健康问题的男子在感染COVID-19后死亡"
+        "en": "Instructions for the COVID-19 vaccination",
+        "cn": "日本厚生勞動省衛生部關於（輝瑞）疫苗的說明"
       },
       "abstract": {
-        "en": "NSW Health said the fully vaccinated man in his 30s was among the 30 COVID-related deaths recorded in the state on Tuesday.",
-        "cn": "新南威尔士州卫生部表示，这名30多岁的完全接种的男子是该州周二记录的30例COVID相关死亡病例之一。"
+        "en": "1. mild cases of myocarditis and pericarditis have been reported after vaccination.\n2. This product contains an additive that has never been used in a vaccine before.",
+        "cn": "1. 接种疫苗后，曾有轻度心肌炎和心包炎的报告。\n2. 本产品含有一种以前从未在疫苗中使用过的添加剂。"
       },
-      "url": "https://www.skynews.com.au/australia-news/coronavirus/fully-vaxxed-man-aged-in-his-30s-with-no-underlying-health-conditions-dies-after-contracting-covid19-in-nsw/news-story/29812b3db0f22514895d224b4d13ff8d",
-      "date": "Feb 1, 2022"
-    },
-    {
-      "type": "news",
-      "title": {
-        "en": "States Investigating Surge In Mortality Rate Among 18–49-Year-Olds, Majority Unrelated To COVID-19",
-        "cn": "各州正在调查18-49岁年轻人死亡率的激增情况，其中大部分与COVID-19无关"
-      },
-      "abstract": {
-        "en": "Health departments in several states confirmed that they are looking into a steep surge in the mortality rate for people aged 18 to 49 in 2021—a majority of which are not linked to COVID-19…Deaths among people aged 18 to 49 increased more than 40 percent in the 12 months ending October 2021 compared to the same period in 2018–2019, before the pandemic",
-        "cn": "几个州的卫生部门证实，他们正在研究2021年18至49岁的人的死亡率急剧上升--其中大部分与COVID-19无关...在截至2021年10月的12个月中，18至49岁的人的死亡人数与大流行之前的2018-2019年同期相比，增加了40%以上。"
-      },
-      "url": "https://www.zerohedge.com/medical/states-investigating-surge-mortality-rate-among-18-49-year-olds-majority-unrelated-covid-19",
-      "date": "Jan 16, 2022"
+      "url": "https://www.mhlw.go.jp/content/000759294.pdf",
+      "date": "Aug 31, 2021"
     },
     {
       "type": "news",
@@ -886,19 +974,6 @@
     {
       "type": "paper",
       "title": {
-        "en": "Innate Immune Suppression by SARS-CoV-2 mRNA Vaccinations: The role of G-quadruplexes, exosomes and microRNAs",
-        "cn": "SARS-CoV-2 mRNA疫苗的先天免疫抑制。G-四联体、外泌体和microRNAs的作用"
-      },
-      "abstract": {
-        "en": "However, both experimental and observational evidence reveals a very different immune response to the vaccines compared to the response to infection with SARS-CoV-2. As we will show, the genetic modifications introduced by the vaccine are likely the source of these differential responses. In this paper, we present the evidence that vaccination, unlike natural infection, induces a profound impairment in type I interferon signaling, which has diverse adverse consequences to human health.…These disturbances are shown to have a potentially direct causal link to neurodegenerative disease, myocarditis, immune thrombocytopenia, Bell’s palsy, liver disease, impaired adaptive immunity, increased tumorigenesis, and DNA damage. We show evidence from adverse event reports in the VAERS database supporting our hypothesis.",
-        "cn": "然而，实验和观察的证据显示，与感染SARS-CoV-2的反应相比，人体对疫苗的免疫反应非常不同。正如我们将展示的那样，疫苗所带有的基因修改可能是这些不同反应的来源。在本文中，我们提出的证据表明，与自然感染不同，疫苗接种会诱发I型干扰素信号的深度损害，这对人类健康有多种不利影响...这些干扰被证明与神经退行性疾病、心肌炎、免疫性血小板减少症、贝尔氏麻痹、肝病、适应性免疫受损、肿瘤生成增加和DNA损伤有潜在的直接因果关系。我们从VAERS数据库的不良事件报告中展示了支持我们假设的证据。"
-      },
-      "url": "https://www.researchgate.net/publication/357994624_Innate_Immune_Suppression_by_SARS-CoV-2_mRNA_Vaccinations_The_role_of_G-quadruplexes_exosomes_and_microRNAs",
-      "date": "Jan 31, 2022"
-    },
-    {
-      "type": "paper",
-      "title": {
         "en": "Robert Koch-Institut. Wöchentlicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19). AKTUALISIERTER STAND FÜR DEUTSCHLAND 22. Juli 2021.",
         "cn": "德國Robert Koch學院統計報告"
       },
@@ -923,19 +998,6 @@
       "date": "Jul 02, 2021"
     },
     {
-      "type": "adverse effect",
-      "title": {
-        "en": "Triple Vaccinated Olympic Athlete Speaks Out About Covid Vaccine Side Effects",
-        "cn": "三次接种疫苗的奥运选手直言不讳地讲述新冠疫苗的副作用"
-      },
-      "abstract": {
-        "en": "26-year-old Swiss sprinter and Olympic athlete, Sarah Atcho, was diagnosed with pericarditis five days after receiving a Pfizer booster shot, the Covid world reported. Sarah Atcho announced on her social media accounts on Monday that she was diagnosed with pericarditis (inflammation of the thin membrane surrounding the heart).Atcho previously received the Moderna vaccine. She decided to take the Pfizer vaccine for her booster after she was told that it was safer than Moderna.",
-        "cn": "据科维德世界报道，26岁的瑞士短跑运动员和奥运选手Sarah Atcho在接受辉瑞公司的加强针5天后被诊断为心包炎。Sarah Atcho周一在她的社交媒体账户上宣布，她被诊断为心包炎（心脏周围薄膜的炎症）。Atcho之前接受了Moderna疫苗。在她被告知辉瑞公司的疫苗比Moderna更安全后，她决定采取辉瑞公司的疫苗加强针。"
-      },
-      "url": "https://truthpress.news/news/triple-vaccinated-olympic-athlete-speaks-out-about-covid-vaccine-side-effects/",
-      "date": "Jan 18, 2022"
-    },
-    {
       "type": "information",
       "title": {
         "en": "How COVID-19 variants evade immune response",
@@ -945,17 +1007,30 @@
       "date": "Jun 8, 2021"
     },
     {
-      "type": "information",
+      "type": "paper",
       "title": {
-        "en": "Instructions for the COVID-19 vaccination",
-        "cn": "日本厚生勞動省衛生部關於（輝瑞）疫苗的說明"
+        "en": "Worse Than the Disease? Reviewing Some Possible Unintended Consequences of the mRNA Vaccines Against COVID-19",
+        "cn": "比疾病更糟糕？回顾针对COVID-19的mRNA疫苗可能产生的一些意外后果"
       },
       "abstract": {
-        "en": "1. mild cases of myocarditis and pericarditis have been reported after vaccination.\n2. This product contains an additive that has never been used in a vaccine before.",
-        "cn": "1. 接种疫苗后，曾有轻度心肌炎和心包炎的报告。\n2. 本产品含有一种以前从未在疫苗中使用过的添加剂。"
+        "en": "Speaking to Fox News host Laura Ingraham last week, Dr. Stephanie Seneff, a Senior Research Scientist at the MIT Computer Science and Artificial Intelligence Laboratory, discussed findings from her recent research paper. In her paper, Seneff described how vaccines induce toxic prion-like proteins that can trigger neurodegenerative diseases. “The CDC web site on prion diseases states that ‘prion diseases are usually rapidly progressive and always fatal,'” the paper states. “It is now believed that many neurodegenerative diseases, including Alzheimer’s, Parkinson’s disease, and amyotrophic lateral sclerosis (ALS) may be prion diseases, and researchers have identified specific proteinaceous infectious particles linked to these diseases.”, “The spike protein generated endogenously by the vaccine could also negatively impact the male testes,” the paper states, adding, “Several studies have now shown that the coronavirus spike protein is able to gain access to cells in the testes via the ACE2 receptor, and disrupt male reproduction.”",
+        "cn": "上周，麻省理工学院计算机科学和人工智能实验室的高级研究科学家Stephanie Seneff博士在接受福克斯新闻主持人Laura Ingraham的采访时，讨论了她最近研究论文的发现。在她的论文中，Seneff描述了疫苗如何诱发有毒的朊病毒样蛋白，从而引发神经退行性疾病。“CDC关于朊病毒疾病的网站指出，'朊病毒疾病通常是快速发展的，而且总是致命的'”，该论文指出。“现在认为许多神经退行性疾病，包括阿尔茨海默氏症、帕金森氏症和肌萎缩侧索硬化症（ALS）可能是朊病毒疾病，而且研究人员已经确定了与这些疾病有关的特定蛋白性感染颗粒。”，“疫苗内源性产生的穗状蛋白也可能对男性睾丸产生负面影响，”论文指出，“现在有几项研究表明，冠状病毒穗状蛋白能够通过ACE2受体进入睾丸的细胞，并破坏男性生殖。”"
       },
-      "url": "https://www.mhlw.go.jp/content/000759294.pdf",
-      "date": "Aug 31, 2021"
+      "url": "https://dpbh.nv.gov/uploadedFiles/dpbhnvgov/content/Boards/BOH/Meetings/2021/SENEFF~1.PDF",
+      "date": "May 10, 2021"
+    },
+    {
+      "type": "paper",
+      "title": {
+        "en": "Worse Than the Disease? Reviewing Some Possible Unintended Consequences of the mRNA Vaccines Against COVID-19",
+        "cn": "比疾病更糟糕？回顾针对COVID-19的mRNA疫苗可能产生的一些意外后果"
+      },
+      "abstract": {
+        "en": "In this review we first describe the technology underlying these vaccines in detail. We then review both components of and the intended biological response to these vaccines, including production of the spike protein itself, and their potential relationship to a wide range of both acute and long-term induced pathologies, such as blood disorders, neurodegenerative diseases and autoimmune diseases. Among these potential induced pathologies, we discuss the relevance of prion-protein-related amino acid sequences within the spike protein. We also present a brief review of studies supporting the potential for spike protein “shedding”, transmission of the protein from a vaccinated to an unvaccinated person, resulting in symptoms induced in the latter. We finish by addressing a common point of debate, namely, whether or not these vaccines could modify the DNA of those receiving the vaccination. While there are no studies demonstrating definitively that this is happening, we provide a plausible scenario, supported by previously established pathways for transformation and transport of genetic material, whereby injected mRNA could ultimately be incorporated into germ cell DNA for transgenerational transmission. We conclude with our recommendations regarding surveillance that will help to clarify the long-term effects of these experimental drugs and allow us to better assess the true risk/benefit ratio of these novel technologies.",
+        "cn": "在这篇评论中，我们首先详细描述了这些疫苗的基础技术。然后我们回顾了这些疫苗的组成部分和预期的生物反应，包括尖峰蛋白本身的生产，以及它们与各种急性和长期诱发病症的潜在关系，如血液病、神经退行性疾病和自身免疫性疾病。在这些潜在的诱发病症中，我们讨论了尖峰蛋白内与朊病毒有关的氨基酸序列的相关性。我们还简要回顾了支持刺突蛋白脱落的研究，即蛋白质从接种疫苗的人传染给未接种疫苗的人，导致后者出现诱发症状。最后，我们讨论了一个常见的争论点，即这些疫苗是否会改变接受疫苗接种者的DNA。虽然没有研究明确表明这种情况正在发生，但我们提供了一个合理的设想，并以先前建立的遗传物质转化和运输途径为支持，即注射的mRNA最终可能被纳入生殖细胞的DNA，从而实现跨代传播。最后，我们提出了有关监测的建议，这将有助于澄清这些实验性药物的长期影响，并使我们能够更好地评估这些新技术的真正风险/效益比。"
+      },
+      "url": "https://ijvtpr.com/index.php/IJVTPR/article/view/23",
+      "date": "May 10, 2021"
     },
     {
       "type": "treatment",
@@ -978,6 +1053,15 @@
       },
       "url": "https://pubmed.ncbi.nlm.nih.gov/33330870/",
       "date": "Dec 13, 2020"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Covid: Australian vaccine abandoned over false HIV response",
+        "cn": "Covid：澳大利亚疫苗因导致HIV假阳性而被放弃"
+      },
+      "url": "https://www.bbc.com/news/world-australia-55269381",
+      "date": "Dec 11, 2020"
     },
     {
       "type": "adverse effect",
@@ -1004,6 +1088,15 @@
       },
       "url": "https://www.researchgate.net/publication/347477902_Safety_and_efficacy_of_artemisinin-piperaquine_for_treatment_of_COVID-19_an_open-label_non-randomised_and_controlled_trial",
       "date": "Nov 25, 2020"
+    },
+    {
+      "type": "news",
+      "title": {
+        "en": "Researchers Warn Some Covid-19 Vaccines Could Increase Risk Of HIV Infection",
+        "cn": "研究人员警告说，一些Covid-19疫苗可能会增加艾滋病毒感染的风险"
+      },
+      "url": "https://www.forbes.com/sites/roberthart/2020/10/20/researchers-warn-some-covid-19-vaccines-could-increase-risk-of-hiv-infection/",
+      "date": "Oct 20, 2020"
     },
     {
       "type": "treatment",
